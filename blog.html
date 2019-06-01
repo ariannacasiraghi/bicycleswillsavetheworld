@@ -1,0 +1,28 @@
+---
+layout: default
+title: Blog
+subtitle: Stories from the journey
+--- 
+
+<!-- blog-slider start -->
+        <section id="blog-slider">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-12">
+                <div class="block">
+                  <h1>{{ page.title}}</h1>
+                  {% if page.subtitle %}
+                  <h2>{{ page.subtitle }}</h2>
+                  {% endif %} 
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+{% include blog-posts.html %}
+
+
+    
+    
+    

@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html class="no-js">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{% if page.title %}{{ page.title }} {% else %}{{ site.title }}{% endif %}</title>
+    <meta name="description" content="{% if page.description %}{{ page.description }} {% else %}{{ site.description }}{% endif %}">
+    <base href="{{ site.url }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- Place favicon.ico and favicon.png in the root directory -->
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+  
+    <!-- Some fonts from google -->
+    <link href="https://fonts.googleapis.com/css?family=Quicksand|Oxygen|Nunito&display=swap" rel="stylesheet">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/owl.carousel.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/ionicons.min.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    
+    <!-- Js -->
+    <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/plugins.js"></script>
+    <script src="js/min/waypoints.min.js"></script>
+    <script src="js/jquery.counterup.js"></script>
+
+    <script src="js/main.js"></script>
+
+
+  </head>
+  
+
+  <body>
+
+    <!-- header2 start -->
+  <header2>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          
+          {% include nav.html %}
+
+        </div>
+      </div>
+    </div>
+  </header2>
+
+
+
+
+<!-- post-content start -->
+<article id="post-content">
+    <div class="container">
+        <div class="row">
+            <!-- post-content Column -->
+            <div class="col-lg-8">
+
+              <!-- Title -->
+              <h1>{{ page.title }}</h1>
+
+              <!-- Date/Time/Author -->
+              <h2><span class="glyphicon glyphicon-time"></span> Posted on {{ page.date | date: "%d %B %Y" }}, by {{ page.author }}</h2>
+              <!-- Preview Image -->
+              {% if page.image %}
+              <img class="img-responsive" src="{{ page.image }}" alt="{{ page.image }}">
+              <h4>{{ page.caption }}</h4>
+              {% endif %}      
+                
+              <p> {{ page.content }} <p>
+
+              {% if page.previous %}
+              <a class="special" rel="prev" href="{{ page.previous.url }}"><span class="glyphicon glyphicon-chevron-left"></span>Previous article</a>
+              {% endif %}
+                  
+              {% if page.next %} 
+              <span class="next-link pull-right">
+              <a class="special" rel="next" href="{{ page.next.url }}">Next article<span class="glyphicon glyphicon-chevron-right"></span></a></span>
+
+              {% endif %}
+              <br>
+              <hr class="hr hr-post">
+
+              {% if site.comments %}
+              {% include comments.html %} 
+              {% endif %}
+
+            </div>
+
+            <!-- post-sidebar start-->
+            <div id="post-sidebar">
+              <div class="col-md-4">
+
+                <!-- post-categories -->
+                <div class="well">
+                  {% for category_name in page.categories limit:2 %}
+                  <h3>{{ category_name}}</h3>
+                    
+                    <div class="row">
+                      <div class="col-lg-12">
+                        <ul class="list-unstyled">
+                        {% for post in site.categories[category_name] limit:5 %}
+                        <li><a class="special" href="{{ post.url }}">{{ post.title }}</a>
+                        </li>
+                        {% endfor %}
+                        </ul>
+                      </div>
+                    </div>
+                  {% endfor %}
+                </div>
+
+                <!-- post-contact -->
+                <div class="well">
+                  <h3>Contact us</h3>
+                    <ul class="address-block">
+                      <li class="special">
+                        <i class="fa fa-envelope-o fa_custom"><style type="text/css"> .fa_custom {color: #88aa00}</style><span style="display:inline-block; width: 10px;"></span></i> info@bicycleswillsavetheworld.com
+                      </li>
+                    </ul>
+                </div>
+
+                <div id="post-contact">
+                  <div class="well">
+                    <h3>Follow us on</h3>
+                    {% include contact-social-icons.html %}
+                  </div>
+                </div>
+              </div>
+            </div>
+        </div>
+    </div>
+</article>
+
+
+
+
+<!-- footer Start -->
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            
+            {% include footer.html %}
+
+            <p>Copyright &copy; 2019 Bicycles will save the world. All rights reserved.</p>
+          </div>
+        </div>
+      </div>
+    </footer>
+            
+            
+  <!--<script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>-->
+     
+    <script id="dsq-count-scr" src="//bicycleswillsavetheworld-com.disqus.com/count.js" async></script>     
+    
+    </body>
+</html>

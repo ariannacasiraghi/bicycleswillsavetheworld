@@ -1,0 +1,52 @@
+---
+layout: default
+title: Contact
+subtitle: Drop us a note
+---
+
+
+<!-- contact-slider start -->
+        <section id="contact-slider">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-12">
+                <div class="block">
+                  <h1>{{ page.title}}</h1>
+                  {% if page.subtitle %}
+                  <h2>{{ page.subtitle }}</h2>
+                  {% endif %} 
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+
+		<!-- contact-form start -->
+        <section id="contact-form">
+          <div class="container">
+            {% include contact-form.html %}           
+          </div>
+        </section>
+
+    <!-- contact-box start -->
+        <section id="contact-box">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-12 col-sm-12">
+                <div class="block">       
+                  <h1>Contact us</h1>
+                  <ul>
+                    <li class="special"><i class="fa fa-envelope-o fa_custom"><style type="text/css"> .fa_custom {color: #88aa00ff}</style><span style="display:inline-block; width: 10px;"></span></i>info@bicycleswillsavetheworld.com</li>
+                  </ul>
+                  <br>  
+                  <br>
+                  <h1>Follow us on</h1>
+                  {% include contact-social-icons.html %}
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        
+       

@@ -1,0 +1,30 @@
+<!-- Blog HTML -->
+    <section id="blog-posts">
+        <div class="container"> 
+            <div class="row">
+                <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1"> 
+
+                    {% for post in site.posts %}
+
+                    <!-- Blog Post -->
+                    <h1><a class="special" href="{{ post.url }}">{{ post.title }}</a></h1>
+                    <h2><span class="glyphicon glyphicon-time"></span> Posted on {{ post.date | date_to_string | "%d %B %Y" }}, by {{ post.author }}</h2>             
+                    {% if post.image %}
+                    <a href="{{ post.url }}">
+                    <img class="img-responsive" src="{{ post.image }}" alt="{{ post.title }}">
+                    </a>
+                    {% endif %}
+                    
+                    <p> {{ post.excerpt }} </p>
+                    
+                    <a class="btn btn-blog"  href="{{ post.url }}">Read More</a>
+                    
+                    <hr class="hr hr-blog-posts"> 
+
+                    {% endfor %}
+
+
+                </div>
+            </div> 
+        </div>
+    </section>
