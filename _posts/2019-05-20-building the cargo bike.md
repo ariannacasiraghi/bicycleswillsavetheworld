@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Building the cargo bike
 subtitle: ... with a roof 
 date: 2019-05-20 17:00
