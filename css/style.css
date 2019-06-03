@@ -131,46 +131,46 @@ header .navbar-fixed-top.scrolled-shadow {
 /*---------------------------------------------
           header of post layout start
 -----------------------------------------------*/
-header2 {
+header-post {
   background-color: #FFFBFC;
   padding-top: 59px;
 }
-header2 .navbar {
+header-post .navbar {
   padding-left: 20px;
   padding-right: 40px; 
 }
-header2 .navbar-brand {
+header-post .navbar-brand {
   margin-top: -11px; 
 }
-header2 .navbar-default {
+header-post .navbar-default {
   border: 0px;
   padding-left: 29px;
 }
-header2 .navbar-default .navbar-nav {
+header-post .navbar-default .navbar-nav {
   padding-top: 8px;
   padding-bottom: 8px;
 }
-header2 .navbar-default .navbar-nav li a {
+header-post .navbar-default .navbar-nav li a {
   color: #191919;
   padding: 12px 25px;
   font-size: 16px;
   font-family: 'Oxygen', sans-serif;
   text-transform: uppercase;
 }
-header2 .navbar-default .navbar-nav > .active > a,
+header-post .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
   color: #FFFBFC;
   background-color: #88aa00;
 }
-header2 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+header-post .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
   color: #88aa00;
 }
-header2 .navbar-fixed-top.scrolled {
+header-post .navbar-fixed-top.scrolled {
   background-color: #f2f2f2;
   transition: background-color 1500ms linear;
 }
-header2 .navbar-fixed-top {
+header-post .navbar-fixed-top {
 -webkit-box-shadow: 0 8px 6px -6px #999;
   -moz-box-shadow: 0 8px 6px -6px #999;
   box-shadow: 0 8px 6px -6px #999;
