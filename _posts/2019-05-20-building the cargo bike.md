@@ -5,6 +5,7 @@ date: 2019-05-20 17:00
 image: /img/posts/cargo.jpg
 caption: 'A prototype dog-tourer: light-weight, handles wonderfully, perfect sized cargo bay; we are nearly there. Zola loves it! Now on to the roof.' 
 category: trip preparations
+permalink: bicycleswillsavetheworld.com/trip-preparations/building-the-cargo-bike.html
 author: Arianna & Daniel
 ---
 
