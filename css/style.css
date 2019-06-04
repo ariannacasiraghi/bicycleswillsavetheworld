@@ -82,20 +82,20 @@ hr.hr-post {
 @media only screen and (max-width: 768px) {
 header {
   background-color: #FFFBFC;
-  padding-top: 53px;
+  padding-top: 51px;
 }
 header .navbar {
   padding-left: 20px;
   padding-right: 40px; 
 }
 header .navbar-brand {
-  margin-top: -11px;
+  margin-top: -12px;
   margin-bottom:11px;
 }
 header .navbar-default {
   border: 0px;
   padding-left: 29px;
-  margin-top: 2px;
+  padding-top: 2px;
 }
 header .navbar-default .navbar-nav {
   padding-top: 8px;
@@ -226,9 +226,104 @@ header .navbar-fixed-top.scrolled-shadow {
 /*---------------------------------------------
           header of post layout start
 -----------------------------------------------*/
+@media only screen and (max-width: 768px) {
 header2 {
   background-color: #FFFBFC;
-  padding-top: 59px;
+  padding-top: 51px;
+}
+header2 .navbar {
+  padding-left: 20px;
+  padding-right: 40px; 
+}
+header2 .navbar-brand {
+  margin-top: -12px;
+  margin-bottom:11px;
+}
+header2 .navbar-default {
+  border: 0px;
+  padding-left: 29px;
+  padding-top: 2px;
+}
+header2 .navbar-default .navbar-nav {
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+header2 .navbar-default .navbar-nav li a {
+  color: #191919;
+  padding: 10px 20px;
+  font-size: 14px;
+  font-family: 'Oxygen', sans-serif;
+  text-transform: uppercase;
+}
+header2 .navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #FFFBFC;
+  background-color: #88aa00;
+}
+header2 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+  color: #88aa00;
+}
+header2 .navbar-fixed-top.scrolled {
+  background-color: #f2f2f2;
+  transition: background-color 1500ms linear;
+}
+header2 .navbar-fixed-top {
+-webkit-box-shadow: 0 8px 6px -6px #999;
+  -moz-box-shadow: 0 8px 6px -6px #999;
+  box-shadow: 0 8px 6px -6px #999;
+}}
+/*-----------------------------------------------*/
+@media only screen and (min-width: 768px) {
+header2 {
+  background-color: #FFFBFC;
+  padding-top: 49px;
+}
+header2 .navbar {
+  padding-left: 20px;
+  padding-right: 40px; 
+}
+header2 .navbar-brand {
+  margin-top: -7px; 
+}
+header2 .navbar-default {
+  border: 0px;
+  padding-left: 29px;
+}
+header2 .navbar-default .navbar-nav {
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+header2 .navbar-default .navbar-nav li a {
+  color: #191919;
+  padding: 10px 20px;
+  font-size: 14px;
+  font-family: 'Oxygen', sans-serif;
+  text-transform: uppercase;
+}
+header2 .navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #FFFBFC;
+  background-color: #88aa00;
+}
+header2 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+  color: #88aa00;
+}
+header2 .navbar-fixed-top.scrolled {
+  background-color: #f2f2f2;
+  transition: background-color 1500ms linear;
+}
+header2 .navbar-fixed-top {
+-webkit-box-shadow: 0 8px 6px -6px #999;
+  -moz-box-shadow: 0 8px 6px -6px #999;
+  box-shadow: 0 8px 6px -6px #999;
+}}
+/*-----------------------------------------------*/
+@media only screen and (min-width: 1200px) {
+header2 {
+  background-color: #FFFBFC;
+  padding-top: 49px;
 }
 header2 .navbar {
   padding-left: 20px;
@@ -269,7 +364,7 @@ header2 .navbar-fixed-top {
 -webkit-box-shadow: 0 8px 6px -6px #999;
   -moz-box-shadow: 0 8px 6px -6px #999;
   box-shadow: 0 8px 6px -6px #999;
-}
+}}
 
 
 
@@ -287,7 +382,7 @@ header2 .navbar-fixed-top {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-  padding: 50px 0 0px 0;
+  padding: 55px 0 0px 0;
   height: 450px;
   position: relative;
   color: #FFFBFC;
@@ -326,8 +421,8 @@ header2 .navbar-fixed-top {
 /*---------------------------------------------*/
 @media only screen and (max-width: 400px) {
 #home-slider .block h1 {
-  font-size: 35px;
-  line-height: 40px;
+  font-size: 36px;
+  line-height: 41px;
   padding-bottom: 40px;
 }}
 @media only screen and (min-width: 400px) {
@@ -351,13 +446,13 @@ header2 .navbar-fixed-top {
 /*---------------------------------------------*/
 @media only screen and (max-width: 400px) {
 #home-slider .block h2 {
-  font-size: 15px;
+  font-size: 16px;
   letter-spacing: 1px;
   line-height: 25px;
 }}
 @media only screen and (min-width: 400px) {
 #home-slider .block h2 {
-  font-size: 18px;
+  font-size: 19px;
   letter-spacing: 1.1px;
   line-height: 30px;
 }}
@@ -388,14 +483,14 @@ header2 .navbar-fixed-top {
 @media only screen and (max-width: 400px) {
 #home-text h1 {
   font-size: 20px;
-  line-height: 50px;
+  line-height: 40px;
   text-transform: uppercase;
   color: #191919;
 }}
 @media only screen and (min-width: 400px) {
 #home-text h1 {
   font-size: 25px;
-  line-height: 55px;
+  line-height: 50px;
   text-transform: uppercase;
   color: #191919;
 }}
@@ -416,22 +511,22 @@ header2 .navbar-fixed-top {
 /*---------------------------------------------*/
 @media only screen and (max-width: 400px) {
 #home-text p {
-  font-size: 14px;
-  line-height: 20px;
+  font-size: 16px;
+  line-height: 22px;
   margin-left: 5px;
   margin-right: 5px;
 }}
 @media only screen and (min-width: 400px) {
 #home-text p {
-  font-size: 15px;
-  line-height: 24px;
+  font-size: 17px;
+  line-height: 25px;
   margin-left: 20px;
   margin-right: 20px;
 }}
 @media only screen and (min-width: 800px) {
 #home-text p {
-  font-size: 17px;
-  line-height: 28px;
+  font-size: 18px;
+  line-height: 29px;
   margin-left: 60px;
   margin-right: 60px;
 }}
@@ -445,16 +540,37 @@ header2 .navbar-fixed-top {
 /*--
 	home-message start
 --*/
-#home-message {
+@media only screen and (max-width: 680px) {
+#home-message{
   background: url("../img/home-message.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  /*background-attachment: fixed;*/
+  background-position: center center;
+  padding: 160px 0 50px 0;
+  height: 450px;
+  position: relative;
+  color: #FFFBFC;
+}}
+@media only screen and (min-width: 680px) {
+#home-message {
+  background: url("../img/home-message.jpg"); 
+  background-size: cover;
+  background-repeat: no-repeat;
   background-position: center center;
   padding: 240px 0 240px 0;
   position: relative;
   color: #FFFBFC;
-}
+}}
+@media only screen and (min-width: 1200px) {
+#home-message{
+  background: url("../img/home-message.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  padding: 310px 0 310px 0;
+  position: relative;
+  color: #FFFBFC;
+}}
 /*---------------------------------------------*/
 #home-message:before {
   content: "";
@@ -469,8 +585,8 @@ header2 .navbar-fixed-top {
 /*---------------------------------------------*/
 @media only screen and (max-width: 400px) {
 #home-message h1 {
-  font-size: 35px;
-  line-height: 40px;
+  font-size: 36px;
+  line-height: 41px;
 }}
 @media only screen and (min-width: 400px) {
 #home-message h1 {
