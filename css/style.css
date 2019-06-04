@@ -187,16 +187,6 @@ header2 .navbar-fixed-top {
 /*--
 	home-slider start 
 --*/
-#home-slider {
-  background: url("../img/home-slider.jpg"); 
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center center;
-  padding: 130px 0 200px 0;
-  position: relative;
-  color: #FFFBFC;
-}
 @media only screen and (max-width: 680px) {
 #home-slider{
   background: url("../img/home-slider-md.jpg");
@@ -208,6 +198,29 @@ header2 .navbar-fixed-top {
   position: relative;
   color: #FFFBFC;
 }}
+@media only screen and (min-width: 680px) {
+#home-slider {
+  background: url("../img/home-slider.jpg"); 
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  padding: 130px 0 200px 0;
+  position: relative;
+  color: #FFFBFC;
+}
+@media only screen and (min-width: 1200px) {
+#home-slider{
+  background: url("../img/home-slider.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  padding: 190px 0 260px 0;
+  position: relative;
+  color: #FFFBFC;
+}}
+/*---------------------------------------------*/
 #home-slider:before {
   content: "";
   position: absolute;
@@ -218,12 +231,12 @@ header2 .navbar-fixed-top {
   background: linear-gradient(to left, #444c44, #192319);
   opacity: 0.5;
 }
-
+/*---------------------------------------------*/
 @media only screen and (max-width: 400px) {
 #home-slider .block h1 {
-  font-size: 32px;
-  line-height: 35px;
-  padding-bottom: 50px;
+  font-size: 35px;
+  line-height: 40px;
+  padding-bottom: 40px;
 }}
 @media only screen and (min-width: 400px) {
 #home-slider .block h1 {
@@ -243,16 +256,16 @@ header2 .navbar-fixed-top {
   line-height: 70px;
   padding-bottom: 50px;
 }}
-
+/*---------------------------------------------*/
 @media only screen and (max-width: 400px) {
 #home-slider .block h2 {
-  font-size: 12px;
+  font-size: 14px;
   letter-spacing: 1px;
-  line-height: 20px;
+  line-height: 25px;
 }}
 @media only screen and (min-width: 400px) {
 #home-slider .block h2 {
-  font-size: 19px;
+  font-size: 18px;
   letter-spacing: 1.1px;
   line-height: 30px;
 }}
