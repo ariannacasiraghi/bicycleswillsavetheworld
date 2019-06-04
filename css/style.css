@@ -258,7 +258,7 @@ header2 .navbar-fixed-top {
 /*---------------------------------------------*/
 @media only screen and (max-width: 400px) {
 #home-slider .block h2 {
-  font-size: 14px;
+  font-size: 15px;
   letter-spacing: 1px;
   line-height: 25px;
 }}
@@ -283,28 +283,33 @@ header2 .navbar-fixed-top {
 /*--
 	home-text start 
 --*/
+@media only screen and (max-width: 800px) {
+#home-text {
+  padding: 40px 0 40px 0;
+}}
+@media only screen and (min-width: 800px) {
 #home-text {
   padding: 80px 0 80px 0;
-}
+}}
 /*---------------------------------------------*/
 @media only screen and (max-width: 400px) {
 #home-text h1 {
-  font-size: 34px;
-  line-height: 70px;
+  font-size: 20px;
+  line-height: 50px;
   text-transform: uppercase;
   color: #191919;
 }}
 @media only screen and (min-width: 400px) {
 #home-text h1 {
-  font-size: 34px;
-  line-height: 70px;
+  font-size: 25px;
+  line-height: 55px;
   text-transform: uppercase;
   color: #191919;
 }}
 @media only screen and (min-width: 800px) {
 #home-text h1 {
-  font-size: 34px;
-  line-height: 70px;
+  font-size: 30px;
+  line-height: 62px;
   text-transform: uppercase;
   color: #191919;
 }}
@@ -317,13 +322,26 @@ header2 .navbar-fixed-top {
 }}
 /*---------------------------------------------*/
 @media only screen and (max-width: 400px) {
-
-
+#home-text p {
+  font-size: 14px;
+  line-height: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+}}
 @media only screen and (min-width: 400px) {
-
-
+#home-text p {
+  font-size: 15px;
+  line-height: 24px;
+  margin-left: 20px;
+  margin-right: 20px;
+}}
 @media only screen and (min-width: 800px) {
-
+#home-text p {
+  font-size: 17px;
+  line-height: 28px;
+  margin-left: 60px;
+  margin-right: 60px;
+}}
 @media only screen and (min-width: 1200px) {
 #home-text p {
   font-size: 19px;
@@ -337,13 +355,14 @@ header2 .navbar-fixed-top {
 #home-message {
   background: url("../img/home-message.jpg");
   background-size: cover;
+  background-repeat: no-repeat;
   background-attachment: fixed;
+  background-position: center center;
   padding: 240px 0 240px 0;
   position: relative;
   color: #FFFBFC;
-  width:100%;
-
 }
+/*---------------------------------------------*/
 #home-message:before {
   content: "";
   position: absolute;
@@ -354,10 +373,27 @@ header2 .navbar-fixed-top {
   background: linear-gradient(to left, #444c44, #192319);  
   opacity: 0.5;
 }
+/*---------------------------------------------*/
+@media only screen and (max-width: 400px) {
+#home-message h1 {
+  font-size: 35px;
+  line-height: 40px;
+}}
+@media only screen and (min-width: 400px) {
+#home-message h1 {
+  font-size: 45px;
+  line-height: 50px;
+}}
+@media only screen and (min-width: 800px) {
+#home-message h1 {
+  font-size: 55px;
+  line-height: 60px;
+}}
+@media only screen and (min-width: 1200px) {
 #home-message h1 {
   font-size: 65px;
   line-height: 70px;
-}
+}}
 
 
 
