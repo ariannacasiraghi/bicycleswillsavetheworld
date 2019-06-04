@@ -180,10 +180,6 @@ header2 .navbar-fixed-top {
 
 
 
-
-
-
-
 /*---------------------------------------------
 					home start
 -----------------------------------------------*/
@@ -194,11 +190,24 @@ header2 .navbar-fixed-top {
 #home-slider {
   background: url("../img/home-slider.jpg"); 
   background-size: cover;
+  background-repeat: no-repeat;
   background-attachment: fixed;
+  background-position: center center;
   padding: 130px 0 200px 0;
   position: relative;
   color: #FFFBFC;
 }
+@media only screen and (max-width: 680px) {
+#home-slider{
+  background: url("../img/home-slider-md.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  padding: 130px 0 200px 0;
+  position: relative;
+  color: #FFFBFC;
+}}
 #home-slider:before {
   content: "";
   position: absolute;
@@ -209,11 +218,51 @@ header2 .navbar-fixed-top {
   background: linear-gradient(to left, #444c44, #192319);
   opacity: 0.5;
 }
+
+@media only screen and (max-width: 400px) {
+#home-slider .block h1 {
+  font-size: 32px;
+  line-height: 35px;
+  padding-bottom: 50px;
+}}
+@media only screen and (min-width: 400px) {
+#home-slider .block h1 {
+  font-size: 45px;
+  line-height: 50px;
+  padding-bottom: 50px;
+}}
+@media only screen and (min-width: 800px) {
+#home-slider .block h1 {
+  font-size: 55px;
+  line-height: 60px;
+  padding-bottom: 50px;
+}}
+@media only screen and (min-width: 1200px) {
 #home-slider .block h1 {
   font-size: 65px;
   line-height: 70px;
   padding-bottom: 50px;
-}
+}}
+
+@media only screen and (max-width: 400px) {
+#home-slider .block h2 {
+  font-size: 12px;
+  letter-spacing: 1px;
+  line-height: 20px;
+}}
+@media only screen and (min-width: 400px) {
+#home-slider .block h2 {
+  font-size: 19px;
+  letter-spacing: 1.1px;
+  line-height: 30px;
+}}
+@media only screen and (min-width: 800px) {
+#home-slider .block h2 {
+  font-size: 22px;
+  letter-spacing: 1.2px;
+  line-height: 35px;
+}}
+@media only screen and (min-width: 1200px) {
 #home-slider .block h2 {
   font-size: 25px;
   letter-spacing: 1.2px;
@@ -249,6 +298,8 @@ header2 .navbar-fixed-top {
   padding: 240px 0 240px 0;
   position: relative;
   color: #FFFBFC;
+  width:100%;
+
 }
 #home-message:before {
   content: "";
@@ -283,6 +334,8 @@ header2 .navbar-fixed-top {
   padding: 180px 0 210px 0;
   position: relative;
   color: #FFFBFC;
+  width:100%;
+
 }
 #project-slider:before {
   content: "";
@@ -352,6 +405,7 @@ header2 .navbar-fixed-top {
 margin-left: -50px;
 padding-right: 30px;
 padding-top: 20px;
+width:100%;
 }
 
 
@@ -367,7 +421,9 @@ padding-top: 20px;
 --*/
 #about-us-slider {
   background: url("../img/about-us-slider.jpg");
+  background-repeat: no-repeat;
   background-size: cover;
+  background-position: center center;
   background-attachment: fixed;
   padding: 180px 0 210px 0;
   position: relative;
@@ -381,7 +437,9 @@ padding-top: 20px;
   bottom: 0;
   right: 0;
   background: linear-gradient(to left, #444c44, #192319);
-  opacity: 0.5;
+  opacity: 0.5; 
+  background-size: cover;
+  background-position: center center;
 }
 #about-us-slider .block h1 {
   font-size: 65px;
@@ -561,7 +619,6 @@ padding-top: 20px;
   font-size: 18px;
   padding-bottom: 15px;
 }
-
 #post-content h4 {
   font-family: 'Nunito', sans-serif;
   font-weight: 600;
