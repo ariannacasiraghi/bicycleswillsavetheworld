@@ -183,7 +183,6 @@ header2 .navbar-fixed-top {
 /*---------------------------------------------
 					home start
 -----------------------------------------------*/
-
 /*--
 	home-slider start 
 --*/
@@ -208,7 +207,7 @@ header2 .navbar-fixed-top {
   padding: 130px 0 200px 0;
   position: relative;
   color: #FFFBFC;
-}
+}}
 @media only screen and (min-width: 1200px) {
 #home-slider{
   background: url("../img/home-slider.jpg");
@@ -280,27 +279,58 @@ header2 .navbar-fixed-top {
   font-size: 25px;
   letter-spacing: 1.2px;
   line-height: 40px;
-}
-
+}}
 /*--
 	home-text start 
 --*/
 #home-text {
   padding: 80px 0 80px 0;
 }
+/*---------------------------------------------*/
+@media only screen and (max-width: 400px) {
 #home-text h1 {
   font-size: 34px;
   line-height: 70px;
   text-transform: uppercase;
   color: #191919;
-}
+}}
+@media only screen and (min-width: 400px) {
+#home-text h1 {
+  font-size: 34px;
+  line-height: 70px;
+  text-transform: uppercase;
+  color: #191919;
+}}
+@media only screen and (min-width: 800px) {
+#home-text h1 {
+  font-size: 34px;
+  line-height: 70px;
+  text-transform: uppercase;
+  color: #191919;
+}}
+@media only screen and (min-width: 1200px) {
+#home-text h1 {
+  font-size: 34px;
+  line-height: 70px;
+  text-transform: uppercase;
+  color: #191919;
+}}
+/*---------------------------------------------*/
+@media only screen and (max-width: 400px) {
+
+
+@media only screen and (min-width: 400px) {
+
+
+@media only screen and (min-width: 800px) {
+
+@media only screen and (min-width: 1200px) {
 #home-text p {
   font-size: 19px;
   line-height: 34px;
   margin-left: 80px;
   margin-right: 80px;
-}
-
+}}
 /*--
 	home-message start
 --*/
