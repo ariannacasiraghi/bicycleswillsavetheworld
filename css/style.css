@@ -534,8 +534,8 @@ header2 .navbar-fixed-top {
 #home-text p {
   font-size: 19px;
   line-height: 34px;
-  margin-left: 50px;
-  margin-right: 50px;
+  margin-left: 30px;
+  margin-right: 30px;
 }}
 /*--
 	home-message start
@@ -611,58 +611,38 @@ header2 .navbar-fixed-top {
 /*---------------------------------------------
 					project start 
 -----------------------------------------------*/
-
-/*--
-	project-slider start
- #project-slider {
- background: url("../img/project-slider.jpg");
- background-size: cover;
- 
- padding: 180px 0 210px 0;
- position: relative;
- color: #FFFBFC;
- width:100%;
- 
- }
---*/
-
 @media only screen and (max-width: 680px) {
-    #project-slider{
-        background: url("../img/project-slider.jpg");
-        background-size: cover;
-        background-repeat: no-repeat;
-        
-        background-position: center center;
-        padding: 50px 0 0px 0;
-        height: 450px;
-        position: relative;
-        color: #FFFBFC;
-    }}
+#project-slider{
+  background: url("../img/project-slider.jpg");
+  background-size: cover;
+  background-repeat: no-repeat; 
+  background-position: center center;
+  padding: 80px 0 0px 0;
+  height: 480px;
+  position: relative;
+  color: #FFFBFC;
+}}
 @media only screen and (min-width: 680px) {
-    #project-slider {
-        background: url("../img/project-slider.jpg");
-        background-size: cover;
-        background-repeat: no-repeat;
-        
-        background-position: center center;
-        padding: 130px 0 200px 0;
-        position: relative;
-        height: 500px;
-        color: #FFFBFC;
-    }}
+  #project-slider {
+    background: url("../img/project-slider.jpg");
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center center;
+    padding: 130px 0 200px 0;
+    position: relative;
+    color: #FFFBFC;
+}}
 @media only screen and (min-width: 1200px) {
-    #project-slider{
-        background: url("../img/project-slider.jpg");
-        background-size: cover;
-        background-repeat: no-repeat;
-        
-        background-position: center center;
-        padding: 210px 0 280px 0;
-        position: relative;
-        height: 800px;
-        color: #FFFBFC;
-    }}
-
+  #project-slider{
+    background: url("../img/project-slider.jpg");
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center center;
+    padding: 230px 0 300px 0;
+    position: relative;
+    color: #FFFBFC;
+}}
+/*---------------------------------------------*/
 #project-slider:before {
   content: "";
   position: absolute;
@@ -673,37 +653,138 @@ header2 .navbar-fixed-top {
   background: linear-gradient(to left, #444c44, #192319);
   opacity: 0.5;
 }
+/*---------------------------------------------*/
+@media only screen and (max-width: 400px) {
+#project-slider .block h1 {
+  font-size: 36px;
+  line-height: 41px;
+  padding-bottom: 15px;
+}}
+@media only screen and (min-width: 400px) {
+#project-slider .block h1 {
+  font-size: 45px;
+  line-height: 50px;
+  padding-bottom: 17px;
+}}
+@media only screen and (min-width: 800px) {
+#project-slider .block h1 {
+  font-size: 55px;
+  line-height: 60px;
+  padding-bottom: 17px;
+}}
+@media only screen and (min-width: 1200px) {
 #project-slider .block h1 {
   font-size: 65px;
-  line-height: 70px;
-  padding-bottom: 20px;
-}
+  line-height: 20px;
+  padding-bottom: 50px;
+}}
+/*---------------------------------------------*/
+@media only screen and (max-width: 400px) {
+#project-slider .block h2 {
+  font-size: 16px;
+  letter-spacing: 1px;
+  line-height: 25px;
+}}
+@media only screen and (min-width: 400px) {
+#project-slider .block h2 {
+  font-size: 19px;
+  letter-spacing: 1.1px;
+  line-height: 30px;
+}}
+@media only screen and (min-width: 800px) {
+#project-slider .block h2 {
+  font-size: 22px;
+  letter-spacing: 1.2px;
+  line-height: 35px;
+}}
+@media only screen and (min-width: 1200px) {
 #project-slider .block h2 {
   font-size: 25px;
   letter-spacing: 1.2px;
   line-height: 40px;
-}
-
+}}
 /*--
 	project-text1 start 
 --*/
+@media only screen and (max-width: 800px) {
+#project-text1 {
+  padding: 40px 0 20px 0;
+}}
+@media only screen and (min-width: 800px) {
 #project-text1 {
   padding: 80px 0 30px 0;
-}
+}}
+/*---------------------------------------------*/
+@media only screen and (max-width: 400px) {
+#project-text1 p {
+  font-size: 16px;
+  line-height: 22px;
+  margin-left: 5px;
+  margin-right: 5px;
+}}
+@media only screen and (min-width: 400px) {
+#project-text1 p {
+  font-size: 17px;
+  line-height: 25px;
+  margin-left: 20px;
+  margin-right: 20px;
+}}
+@media only screen and (min-width: 800px) {
+#project-text1 p {
+  font-size: 18px;
+  line-height: 29px;
+  margin-left: 60px;
+  margin-right: 60px;
+}}
+@media only screen and (min-width: 1200px) {
 #project-text1 p {
   font-size: 19px;
   line-height: 34px;
-  margin-left: 80px;
-  margin-right: 80px;
-}
-
+  margin-left: 30px;
+  margin-right: 30px;
+}}
 /*--
   project-map start 
 --*/
-#project-map {
+@media only screen and (max-width: 400px) {
+#project-map .iframe-container{
+  position: relative;
   overflow: hidden;
+  padding-top: 56.25%;
+  margin-left: 5px;
+  margin-right: 5px;
+}}
+@media only screen and (min-width: 400px) {
+#project-map .iframe-container{
+  position: relative;
+  overflow: hidden;
+  padding-top: 56.25%;
+  margin-left: 20px;
+  margin-right: 20px;
+}}
+@media only screen and (min-width: 800px) {
+#project-map .iframe-container{
+  position: relative;
+  overflow: hidden;
+  padding-top: 56.25%;
   text-align: center;
+}}
+@media only screen and (min-width: 1200px) {
+#project-map .iframe-container{
+  position: relative;
+  overflow: hidden;
+  padding-top: 56.25%;
+  text-align: center
+}}
+.iframe-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
 }
+
 
 /*--
   project-text2 start 
