@@ -1164,14 +1164,15 @@ width:100%;
 /*--
 	footer start 
 --*/
+@media only screen and (max-width: 768px) {
 footer {
   background: #FFFBFC;
   text-align: center;
-  padding: 100px 0 10px 0;
+  padding: 50px 0 10px 0;
 }
 footer p {
-  font-size: 13px;
-  line-height: 25px;
+  font-size: 12px;
+  line-height: 22px;
   color: #ADA9AB;
   text-align: center;
 }
@@ -1183,8 +1184,9 @@ footer .footer-menu {
 }
 footer .footer-menu ul li {
   font-family: 'Oxygen', sans-serif;
+  font-size: 13px;
   display: inline-block;
-  padding: 0px 20px;
+  padding: 0px 10px;
   text-transform: uppercase;
 }
 footer .footer-menu ul li a {
@@ -1193,4 +1195,38 @@ footer .footer-menu ul li a {
 }
 footer .footer-menu ul li a:hover {
   color: #88aa00;
+}}
+/*---------------------------------------------*/
+@media only screen and (min-width: 768px) {
+footer {
+  background: #FFFBFC;
+  text-align: center;
+  padding: 80px 0 10px 0;
 }
+footer p {
+  font-size: 12px;
+  line-height: 22px;
+  color: #ADA9AB;
+  text-align: center;
+}
+footer a {
+  color: #ADA9AB;
+}
+footer .footer-menu {
+  padding-bottom: 20px;
+}
+footer .footer-menu ul li {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 15px;
+  display: inline-block;
+  padding: 0px 20px;
+  text-transform: uppercase;
+}
+footer .footer-menu ul li a {
+  display: inline-block;
+  color: #191919;
+} 
+footer .footer-menu ul li a:hover {
+  color: #88aa00;
+}}
+
