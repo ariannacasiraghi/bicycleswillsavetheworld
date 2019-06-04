@@ -81,7 +81,7 @@ hr.hr-post {
 -----------------------------------------------*/
 header {
   background-color: #FFFBFC;
-  padding-top: 59px;
+  padding-top: 49px;
 }
 header .navbar {
   padding-left: 20px;
@@ -188,12 +188,12 @@ header2 .navbar-fixed-top {
 --*/
 @media only screen and (max-width: 680px) {
 #home-slider{
-  background: url("../img/home-slider-md.jpg");
+  background: url("../img/home-slider.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  background-attachment: fixed;
   background-position: center center;
-  padding: 130px 0 200px 0;
+  padding: 50px 0 0px 0;
+  height: 450px;
   position: relative;
   color: #FFFBFC;
 }}
@@ -202,7 +202,6 @@ header2 .navbar-fixed-top {
   background: url("../img/home-slider.jpg"); 
   background-size: cover;
   background-repeat: no-repeat;
-  background-attachment: fixed;
   background-position: center center;
   padding: 130px 0 200px 0;
   position: relative;
@@ -213,7 +212,6 @@ header2 .navbar-fixed-top {
   background: url("../img/home-slider.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  background-attachment: fixed;
   background-position: center center;
   padding: 210px 0 280px 0;
   position: relative;
@@ -356,7 +354,7 @@ header2 .navbar-fixed-top {
   background: url("../img/home-message.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  /*background-attachment: fixed;*/
   background-position: center center;
   padding: 240px 0 240px 0;
   position: relative;
@@ -404,18 +402,56 @@ header2 .navbar-fixed-top {
 -----------------------------------------------*/
 
 /*--
-	project-slider start 
+	project-slider start
+ #project-slider {
+ background: url("../img/project-slider.jpg");
+ background-size: cover;
+ 
+ padding: 180px 0 210px 0;
+ position: relative;
+ color: #FFFBFC;
+ width:100%;
+ 
+ }
 --*/
-#project-slider {
-  background: url("../img/project-slider.jpg");
-  background-size: cover;
-  background-attachment: fixed;
-  padding: 180px 0 210px 0;
-  position: relative;
-  color: #FFFBFC;
-  width:100%;
 
-}
+@media only screen and (max-width: 680px) {
+    #project-slider{
+        background: url("../img/project-slider.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        
+        background-position: center center;
+        padding: 50px 0 0px 0;
+        height: 450px;
+        position: relative;
+        color: #FFFBFC;
+    }}
+@media only screen and (min-width: 680px) {
+    #project-slider {
+        background: url("../img/project-slider.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        
+        background-position: center center;
+        padding: 130px 0 200px 0;
+        position: relative;
+        height: 500px;
+        color: #FFFBFC;
+    }}
+@media only screen and (min-width: 1200px) {
+    #project-slider{
+        background: url("../img/project-slider.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        
+        background-position: center center;
+        padding: 210px 0 280px 0;
+        position: relative;
+        height: 800px;
+        color: #FFFBFC;
+    }}
+
 #project-slider:before {
   content: "";
   position: absolute;
