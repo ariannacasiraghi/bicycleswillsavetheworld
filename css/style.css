@@ -35,7 +35,7 @@ a.special:hover {
 a.btn-blog {
   background-color: #88aa00; 
   color: #FFFBFC;
-  width: 30%;
+  width: 31%;
   font-size: 15px;  
   font-family: 'Nunito', sans-serif;
 }}
@@ -1675,15 +1675,31 @@ width:95%;
 /*--
   post-sidebar start 
 --*/
+@media only screen and (max-width: 400px) {
 #post-sidebar {
   width:100%;
-  margin-top: 90px;
-  float: none;
-  margin: 0 auto;
-}
+  margin-top: 210px;
+}}
+@media only screen and (min-width: 400px) {
+#post-sidebar {
+  width:100%;
+  margin-top: 210px;
+}}
+@media only screen and (min-width: 992px) {
+#post-sidebar {
+  width:100%;
+  margin-top: 210px;
+}}
+@media only screen and (min-width: 1200px) {
+#post-sidebar {
+  width:100%;
+  margin-top: 210px;
+}}
+/*---------------------------------------------*/
 #post-sidebar .well{
   background-color: #f7f7f7;
 }
+/*---------------------------------------------*/
 #post-sidebar h3 {
   font-family: 'Oxygen', sans-serif;
   font-size: 20px;
