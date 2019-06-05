@@ -1781,21 +1781,42 @@ width:95%;
 
 
 
+
 /*---------------------------------------------
           contact start 
 -----------------------------------------------*/
-
-/*--
-  contact-slider start 
---*/
-#contact-slider {
+@media only screen and (max-width: 680px) {
+#contact-slider{
   background: url("../img/contact-slider.jpg");
   background-size: cover;
-  background-attachment: fixed;
-  padding: 180px 0 210px 0;
+  background-repeat: no-repeat; 
+  background-position: center center;
+  padding: 145px 0 0px 0;
+  height: 480px;
   position: relative;
   color: #FFFBFC;
-}
+}}
+@media only screen and (min-width: 680px) {
+  #contact-slider {
+    background: url("../img/contact-slider.jpg");
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center center;
+    padding: 130px 0 200px 0;
+    position: relative;
+    color: #FFFBFC;
+}}
+@media only screen and (min-width: 1200px) {
+  #contact-slider{
+    background: url("../img/contact-slider.jpg");
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center center;
+    padding: 270px 0 340px 0;
+    position: relative;
+    color: #FFFBFC;
+}}
+/*---------------------------------------------*/
 #contact-slider:before {
   content: "";
   position: absolute;
@@ -1806,23 +1827,76 @@ width:95%;
   background: linear-gradient(to left, #444c44, #192319);
   opacity: 0.5;
 }
+/*---------------------------------------------*/
+@media only screen and (max-width: 400px) {
+#contact-slider .block h1 {
+  font-size: 36px;
+  line-height: 41px;
+  padding-bottom: 15px;
+}}
+@media only screen and (min-width: 400px) {
+#contact-slider .block h1 {
+  font-size: 45px;
+  line-height: 50px;
+  padding-bottom: 17px;
+}}
+@media only screen and (min-width: 992px) {
+#contact-slider .block h1 {
+  font-size: 55px;
+  line-height: 60px;
+  padding-bottom: 17px;
+}}
+@media only screen and (min-width: 1200px) {
 #contact-slider .block h1 {
   font-size: 65px;
-  line-height: 70px;
-  padding-bottom: 20px;  
-}
+  line-height: 20px;
+  padding-bottom: 50px;
+}}
+/*---------------------------------------------*/
+@media only screen and (max-width: 400px) {
+#contact-slider .block h2 {
+  font-size: 17px;
+  letter-spacing: 1px;
+  line-height: 25px;
+}}
+@media only screen and (min-width: 400px) {
+#contact-slider .block h2 {
+  font-size: 19px;
+  letter-spacing: 1.1px;
+  line-height: 30px;
+}}
+@media only screen and (min-width: 992px) {
+#contact-slider .block h2 {
+  font-size: 22px;
+  letter-spacing: 1.2px;
+  line-height: 35px;
+}}
+@media only screen and (min-width: 1200px) {
 #contact-slider .block h2 {
   font-size: 25px;
   letter-spacing: 1.2px;
   line-height: 40px;
-}
-
+}}
 /*--
 	contact-form start 
 --*/
+@media only screen and (max-width: 400px) {
+#contact-form {
+  padding-top: 70px;
+}}
+@media only screen and (min-width: 400px) {
+#contact-form {
+  padding-top: 80px;
+}}
+@media only screen and (min-width: 992px) {
+#contact-form {
+  padding-top: 90px;
+}}
+@media only screen and (min-width: 1200px) {
 #contact-form {
   padding-top: 100px;
-}
+}}
+/*---------------------------------------------*/
 #contact-form form .block .form-group {
   padding-bottom: 15px;
 }
@@ -1841,6 +1915,26 @@ width:95%;
   border: 1px solid #ededed;
   box-shadow: none;
 }
+/*---------------------------------------------*/
+@media only screen and (max-width: 400px) {
+#contact-form .block button {
+  width: 100%;
+  height: 60px;
+  background: #88aa00;
+  border: none;
+  color: #FFFBFC;
+  font-size: 17px;
+}}
+@media only screen and (min-width: 400px) {
+#contact-form .block button {
+  width: 100%;
+  height: 60px;
+  background: #88aa00;
+  border: none;
+  color: #FFFBFC;
+  font-size: 17px;
+}}
+@media only screen and (min-width: 992px) {
 #contact-form .block button {
   width: 100%;
   height: 60px;
@@ -1848,18 +1942,47 @@ width:95%;
   border: none;
   color: #FFFBFC;
   font-size: 18px;
-}
+}}
+@media only screen and (min-width: 1200px) {
+#contact-form .block button {
+  width: 100%;
+  height: 60px;
+  background: #88aa00;
+  border: none;
+  color: #FFFBFC;
+  font-size: 18px;
+}}
+/*---------------------------------------------*/
 #contact-form .block button:hover {
   color: #191919;
 }
 /*--
   contact-box start 
 --*/
+@media only screen and (max-width: 400px) {
+#contact-box {
+  padding-top: 45px;
+  margin-bottom: -10px;
+  text-align: center;
+}}
+@media only screen and (min-width: 400px) {
+#contact-box {
+  padding-top: 55px;
+  margin-bottom: -10px;
+  text-align: center;
+}}
+@media only screen and (min-width: 992px) {
 #contact-box {
   padding-top: 35px;
   margin-bottom: -10px;
   text-align: center;
-}
+}}
+@media only screen and (min-width: 1200px) {
+#contact-box {
+  padding-top: 35px;
+  margin-bottom: -10px;
+  text-align: center;
+}}
 /*---------------------------------------------*/
 @media only screen and (max-width: 400px) {
 #contact-box .block h1{
@@ -1885,7 +2008,6 @@ width:95%;
   text-transform: uppercase;
   color: #191919;
 }}
-
 /*---------------------------------------------*/
 @media only screen and (max-width: 400px) {
 #contact-box li {
@@ -1972,18 +2094,41 @@ width:95%;
 /*---------------------------------------------
           thank-you start 
 -----------------------------------------------*/
-
 /*--
   thank-you-slider start 
 --*/
-#thank-you-slider {
+@media only screen and (max-width: 680px) {
+#thank-you-slider{
   background: url("../img/thank-you-slider.jpg");
   background-size: cover;
-  background-attachment: fixed;
-  padding: 110px 0 110px 0;
+  background-repeat: no-repeat; 
+  background-position: center center;
+  padding: 145px 0 0px 0;
+  height: 480px;
   position: relative;
   color: #FFFBFC;
-}
+}}
+@media only screen and (min-width: 680px) {
+  #thank-you-slider {
+    background: url("../img/thank-you-slider.jpg");
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center center;
+    padding: 130px 0 200px 0;
+    position: relative;
+    color: #FFFBFC;
+}}
+@media only screen and (min-width: 1200px) {
+  #thank-you-slider{
+    background: url("../img/thank-you-slider.jpg");
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center center;
+    padding: 150px 0 150px 0;
+    position: relative;
+    color: #FFFBFC;
+}}
+/*---------------------------------------------*/
 #thank-you-slider:before {
   content: "";
   position: absolute;
@@ -1994,17 +2139,56 @@ width:95%;
   background: linear-gradient(to left, #444c44, #192319);
   opacity: 0.5;
 }
+/*---------------------------------------------*/
+@media only screen and (max-width: 400px) {
+#thank-you-slider .block h1 {
+  font-size: 36px;
+  line-height: 41px;
+  padding-bottom: 15px;
+}}
+@media only screen and (min-width: 400px) {
+#thank-you-slider .block h1 {
+  font-size: 45px;
+  line-height: 50px;
+  padding-bottom: 17px;
+}}
+@media only screen and (min-width: 992px) {
+#thank-you-slider .block h1 {
+  font-size: 55px;
+  line-height: 60px;
+  padding-bottom: 17px;
+}}
+@media only screen and (min-width: 1200px) {
 #thank-you-slider .block h1 {
   font-size: 65px;
-  line-height: 70px;
-  padding-bottom: 20px;  
-}
+  line-height: 20px;
+  padding-bottom: 50px;
+}}
+/*---------------------------------------------*/
+@media only screen and (max-width: 400px) {
+#thank-you-slider .block h2 {
+  font-size: 17px;
+  letter-spacing: 1px;
+  line-height: 25px;
+}}
+@media only screen and (min-width: 400px) {
+#thank-you-slider .block h2 {
+  font-size: 19px;
+  letter-spacing: 1.1px;
+  line-height: 30px;
+}}
+@media only screen and (min-width: 992px) {
+#thank-you-slider .block h2 {
+  font-size: 22px;
+  letter-spacing: 1.2px;
+  line-height: 35px;
+}}
+@media only screen and (min-width: 1200px) {
 #thank-you-slider .block h2 {
   font-size: 25px;
   letter-spacing: 1.2px;
   line-height: 40px;
-}
-
+}}
 /*--
   thank-you-message start 
 --*/
@@ -2013,11 +2197,33 @@ width:95%;
   margin-bottom: -10px;
   text-align: center;
 }
+/*---------------------------------------------*/
+@media only screen and (max-width: 400px) {
+#thank-you-message .block h1{
+  font-size: 19px;
+  text-transform: uppercase;
+  color: #191919;
+}}
+@media only screen and (min-width: 400px) {
+#thank-you-message .block h1{
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #191919;
+}}
+@media only screen and (min-width: 992px) {
+#thank-you-message .block h1{
+  font-size: 21px;
+  text-transform: uppercase;
+  color: #191919;
+}}
+@media only screen and (min-width: 1200px) {
 #thank-you-message .block h1{
   font-size: 22px;
   text-transform: uppercase;
   color: #191919;
-}
+}}
+/*---------------------------------------------*/
+
 #thank-you-message .social-icons {
   padding-top: 12px;
 }
