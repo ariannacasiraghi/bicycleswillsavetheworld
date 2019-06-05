@@ -945,7 +945,7 @@ width:95%;
 #arianna {
   background-color: #FFFBFC;
   background-size: cover;
-  padding: 20px 0 20px 0;
+  padding: 30px 0 30px 0;
   position: relative;
 }}
 @media only screen and (min-width: 400px) {
@@ -1053,7 +1053,7 @@ width:95%;
 #daniel {
   background-color: #FFFBFC;
   background-size: cover;
-  padding: 20px 0 20px 0;
+  padding: 30px 0 30px 0;
   position: relative;
 }}
 @media only screen and (min-width: 400px) {
@@ -1160,6 +1160,7 @@ width:95%;
 #zola {
   background-color: #FFFBFC;
   background-size: cover;
+  padding: 30px 0 30px 0;
   position: relative;
 }}
 @media only screen and (min-width: 400px) {
@@ -1483,7 +1484,6 @@ width:95%;
   font-size: 25px;
   color: #88aa00;
   padding-bottom: 15px;
-  margin-top: 80px;
   text-align: left;
 }}
 @media only screen and (min-width: 400px) {
@@ -1491,7 +1491,7 @@ width:95%;
   font-size: 30px;
   color: #88aa00;
   padding-bottom: 15px;
-  margin-top: 80px;
+  margin-top: 20px;
   text-align: left;
 }}
 @media only screen and (min-width: 992px) {
@@ -1499,7 +1499,7 @@ width:95%;
   font-size: 35px;
   color: #88aa00;
   padding-bottom: 15px;
-  margin-top: 80px;
+  margin-top: 20px;
   text-align: left;
 }}
 @media only screen and (min-width: 1200px) {
@@ -1507,7 +1507,7 @@ width:95%;
   font-size: 40px;
   color: #88aa00;
   padding-bottom: 15px;
-  margin-top: 80px;
+  margin-top: 30px;
   text-align: left;
 }}
 /*---------------------------------------------*/
@@ -1598,7 +1598,7 @@ width:95%;
 @media only screen and (min-width: 1200px) {
 #post-sidebar {
   width:100%;
-  margin-top: 210px;
+  margin-top: 165px;
 }}
 /*---------------------------------------------*/
 #post-sidebar .well{
