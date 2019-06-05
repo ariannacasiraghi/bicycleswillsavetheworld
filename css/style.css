@@ -35,7 +35,7 @@ a.special:hover {
 a.btn-blog {
   background-color: #88aa00; 
   color: #FFFBFC;
-  width: 24%;
+  width: 30%;
   font-size: 15px;  
   font-family: 'Nunito', sans-serif;
 }}
@@ -1573,29 +1573,97 @@ width:95%;
 /*---------------------------------------------
           post start 
 -----------------------------------------------*/
-
-/*--
-  post-content start 
---*/
+@media only screen and (max-width: 400px) {
+#post-content h1 {
+  font-size: 25px;
+  color: #88aa00;
+  padding-bottom: 15px;
+  margin-top: 80px;
+  text-align: left;
+}}
+@media only screen and (min-width: 400px) {
+#post-content h1 {
+  font-size: 30px;
+  color: #88aa00;
+  padding-bottom: 15px;
+  margin-top: 80px;
+  text-align: left;
+}}
+@media only screen and (min-width: 992px) {
+#post-content h1 {
+  font-size: 35px;
+  color: #88aa00;
+  padding-bottom: 15px;
+  margin-top: 80px;
+  text-align: left;
+}}
+@media only screen and (min-width: 1200px) {
 #post-content h1 {
   font-size: 40px;
   color: #88aa00;
   padding-bottom: 15px;
   margin-top: 80px;
   text-align: left;
-}
+}}
+/*---------------------------------------------*/
+@media only screen and (max-width: 400px) {
+#post-content h2 {
+  line-height: 25px;
+  font-size: 16px;
+  text-align: left;
+  padding-bottom: 12px;
+  color: #191919;
+}}
+@media only screen and (min-width: 400px) {
+#post-content h2 {
+  line-height: 27px;
+  font-size: 17px;
+  text-align: left;
+  padding-bottom: 12px;
+  color: #191919;
+}}
+@media only screen and (min-width: 992px) {
 #post-content h2 {
   line-height: 29px;
   font-size: 18px;
-  padding-bottom: 15px;
   text-align: left;
+  padding-bottom: 15px;
   color: #191919;
-}
+}}
+@media only screen and (min-width: 1200px) {
+#post-content h2 {
+  line-height: 29px;
+  font-size: 18px;
+  text-align: left;
+  padding-bottom: 15px;
+  color: #191919;
+}}
+/*---------------------------------------------*/
+@media only screen and (max-width: 400px) {
+#post-content p {
+  line-height: 29px;
+  font-size: 18px;
+  padding-bottom: 12px;
+}}
+@media only screen and (min-width: 400px) {
+#post-content p {
+  line-height: 29px;
+  font-size: 18px;
+  padding-bottom: 12px;
+}}
+@media only screen and (min-width: 992px) {
 #post-content p {
   line-height: 29px;
   font-size: 18px;
   padding-bottom: 15px;
-}
+}}
+@media only screen and (min-width: 1200px) {
+#post-content p {
+  line-height: 29px;
+  font-size: 18px;
+  padding-bottom: 15px;
+}}
+/*---------------------------------------------*/
 #post-content h4 {
   font-family: 'Nunito', sans-serif;
   font-weight: 600;
@@ -1603,14 +1671,15 @@ width:95%;
   font-size: 15px;
   margin-top: 5px;
   padding-bottom: 10px;
-  font
 }
-
 /*--
   post-sidebar start 
 --*/
 #post-sidebar {
+  width:100%;
   margin-top: 90px;
+  float: none;
+  margin: 0 auto;
 }
 #post-sidebar .well{
   background-color: #f7f7f7;
