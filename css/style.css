@@ -638,7 +638,7 @@ header2 .navbar-fixed-top {
     background-size: cover;
     background-repeat: no-repeat; 
     background-position: center center;
-    padding: 230px 0 300px 0;
+    padding: 270px 0 340px 0;
     position: relative;
     color: #FFFBFC;
 }}
@@ -870,21 +870,27 @@ header2 .navbar-fixed-top {
 /*---------------------------------------------*/
 @media only screen and (max-width: 400px) {
 #project-text2 .block img {
-margin-right: 5px;
+/*margin-right: 5px;*/
+margin-left: 5px;
 padding-top: 20px;
 width:100%;
+padding:2%;
 }}
 @media only screen and (min-width: 400px) {
 #project-text2 .block img {
-margin-right: 20px;
-padding-top: 20px;
+/*margin-right: 5px;*/
+margin-left: 5px;
 width:100%;
+padding:7%;
 }}
-@media only screen and (min-width: 800px) {
+@media only screen and (min-width: 992px) {
 #project-text2 .block img {
-margin-right: 60px;
-padding-top: 20px;
+/*margin-left: 5px;*/
+margin-right: 20px;
+padding-top: 5%;
 width:100%;
+padding:0%;
+
 }}
 @media only screen and (min-width: 1200px) {
 #project-text2 .block img {
