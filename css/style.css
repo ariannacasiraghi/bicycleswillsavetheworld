@@ -1025,28 +1025,27 @@ width:95%;
 #arianna {
   background-color: #FFFBFC;
   background-size: cover;
-  padding: 20px 0 20px 0;
   position: relative;
 }}
 @media only screen and (min-width: 400px) {
 #arianna {
   background-color: #FFFBFC;
   background-size: cover;
-  padding: 30px 0 30px 0;
+  padding: 40px 0 0px 0;
   position: relative;
 }}
 @media only screen and (min-width: 992px) {
 #arianna {
   background-color: #FFFBFC;
   background-size: cover;
-  padding: 40px 0 40px 0;
+  padding: 30px 0 30px 0;
   position: relative;
 }}
 @media only screen and (min-width: 1200px) {
 #arianna {
   background-color: #FFFBFC;
   background-size: cover;
-  padding: 50px 0 50px 0;
+  padding: 60px 0 40px 0;
   position: relative;
 }}
 /*---------------------------------------------*/
@@ -1116,14 +1115,14 @@ width:95%;
 }}
 @media only screen and (min-width: 992px) {
 #arianna .block img {
-  margin-top: 95px;
+  margin-top: 135px;
   width:100%;
   padding: 0%;
 }}
 @media only screen and (min-width: 1200px) {
 #arianna .block img {
   margin-top: 105px;
-  padding: 0%;
+  padding: 5%;
   width:100%;
 }}
 /*--
@@ -1133,28 +1132,26 @@ width:95%;
 #daniel {
   background-color: #FFFBFC;
   background-size: cover;
-  padding: 20px 0 20px 0;
   position: relative;
 }}
 @media only screen and (min-width: 400px) {
 #daniel {
   background-color: #FFFBFC;
   background-size: cover;
-  padding: 30px 0 30px 0;
   position: relative;
 }}
 @media only screen and (min-width: 992px) {
 #daniel {
   background-color: #FFFBFC;
   background-size: cover;
-  padding: 40px 0 40px 0;
+  padding: 30px 0 30px 0;
   position: relative;
 }}
 @media only screen and (min-width: 1200px) {
 #daniel {
   background-color: #FFFBFC;
   background-size: cover;
-  padding: 50px 0 50px 0;
+  padding: 40px 0 40px 0;
   position: relative;
 }}
 /*---------------------------------------------*/
@@ -1224,13 +1221,13 @@ width:95%;
 }}
 @media only screen and (min-width: 992px) {
 #daniel .block img {
-  margin-top: 95px;
+  margin-top: 125px;
   width:100%;
-  padding: 0%;
+  padding: 5%;
 }}
 @media only screen and (min-width: 1200px) {
 #daniel .block img {
-  margin-top: 105px;
+  margin-top: 95px;
   padding: 0%;
   width:100%;
 }}
@@ -1240,29 +1237,29 @@ width:95%;
 @media only screen and (max-width: 400px) {
 #zola {
   background-color: #FFFBFC;
+  padding: 20px 0 0px 0;
   background-size: cover;
-  padding: 20px 0 20px 0;
   position: relative;
 }}
 @media only screen and (min-width: 400px) {
 #zola {
   background-color: #FFFBFC;
+  padding: 20px 0 0px 0;
   background-size: cover;
-  padding: 30px 0 30px 0;
   position: relative;
 }}
 @media only screen and (min-width: 992px) {
 #zola {
   background-color: #FFFBFC;
   background-size: cover;
-  padding: 40px 0 40px 0;
+  padding: 30px 0 30px 0;
   position: relative;
 }}
 @media only screen and (min-width: 1200px) {
 #zola {
   background-color: #FFFBFC;
   background-size: cover;
-  padding: 50px 0 50px 0;
+  padding: 40px 0 40px 0;
   position: relative;
 }}
 /*---------------------------------------------*/
@@ -1332,14 +1329,14 @@ width:95%;
 }}
 @media only screen and (min-width: 992px) {
 #zola .block img {
-  margin-top: 95px;
+  margin-top: 125px;
   width:100%;
   padding: 0%;
 }}
 @media only screen and (min-width: 1200px) {
 #zola .block img {
-  margin-top: 105px;
-  padding: 0%;
+  margin-top: 95px;
+  padding: 5%;
   width:100%;
 }}
 
