@@ -373,9 +373,6 @@ header2 .navbar-fixed-top {
 /*---------------------------------------------
 					home start
 -----------------------------------------------*/
-/*--
-	home-slider start 
---*/
 @media only screen and (max-width: 680px) {
 #home-slider{
   background: url("../img/home-slider.jpg");
@@ -759,6 +756,7 @@ header2 .navbar-fixed-top {
   position: relative;
   overflow: hidden;
   padding-top: 90%;
+  margin-bottom: -30px;
   margin-left: 5px;
   margin-right: 5px;
 }}
@@ -928,7 +926,6 @@ width:95%;
 /*---------------------------------------------
           about-us start 
 -----------------------------------------------*/
-
 /*--
   about-us-slider start 
 --*/
