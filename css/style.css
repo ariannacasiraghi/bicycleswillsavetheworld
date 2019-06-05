@@ -1103,14 +1103,14 @@ width:95%;
 #arianna .block img {
   margin-top: -80px;
   width:100%;
-  padding: 20%;
-  margin-bottom: -50px;
+  padding: 10%;
+  margin-bottom: -40px;
 }}
 @media only screen and (min-width: 400px) {
 #arianna .block img {
   margin-top: -80px;
   width:100%;
-  padding: 20%;
+  padding: 10%;
   margin-bottom: -50px;
 }}
 @media only screen and (min-width: 992px) {
@@ -1209,14 +1209,14 @@ width:95%;
 #daniel .block img {
   margin-top: -80px;
   width:100%;
-  padding: 20%;
-  margin-bottom: -50px;
+  padding: 10%;
+  margin-bottom: -40px;
 }}
 @media only screen and (min-width: 400px) {
 #daniel .block img {
   margin-top: -80px;
   width:100%;
-  padding: 20%;
+  padding: 10%;
   margin-bottom: -50px;
 }}
 @media only screen and (min-width: 992px) {
@@ -1244,7 +1244,7 @@ width:95%;
 @media only screen and (min-width: 400px) {
 #zola {
   background-color: #FFFBFC;
-  padding: 20px 0 0px 0;
+  padding: 35px 0 0px 0;
   background-size: cover;
   position: relative;
 }}
@@ -1317,14 +1317,14 @@ width:95%;
 #zola .block img {
   margin-top: -80px;
   width:100%;
-  padding: 20%;
-  margin-bottom: -50px;
+  padding: 10%;
+  margin-bottom: -40px;
 }}
 @media only screen and (min-width: 400px) {
 #zola .block img {
   margin-top: -80px;
   width:100%;
-  padding: 20%;
+  padding: 10%;
   margin-bottom: -50px;
 }}
 @media only screen and (min-width: 992px) {
