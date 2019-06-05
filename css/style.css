@@ -1102,9 +1102,9 @@ width:95%;
 /*---------------------------------------------*/
 @media only screen and (max-width: 400px) {
 #arianna .block img {
-  margin-top: -80px;
+  margin-top: -50px;
   width:100%;
-  padding: 20%;
+  padding: 10%;
   margin-bottom: -50px;
 }}
 @media only screen and (min-width: 400px) {
@@ -1209,9 +1209,9 @@ width:95%;
 /*---------------------------------------------*/
 @media only screen and (max-width: 400px) {
 #daniel .block img {
-  margin-top: -80px;
+  margin-top: -50px;
   width:100%;
-  padding: 20%;
+  padding: 10%;
   margin-bottom: -50px;
 }}
 @media only screen and (min-width: 400px) {
@@ -1315,9 +1315,9 @@ width:95%;
 /*---------------------------------------------*/
 @media only screen and (max-width: 400px) {
 #zola .block img {
-  margin-top: -80px;
+  margin-top: -50px;
   width:100%;
-  padding: 20%;
+  padding: 10%;
   margin-bottom: -50px;
 }}
 @media only screen and (min-width: 400px) {
@@ -1347,19 +1347,38 @@ width:95%;
 /*---------------------------------------------
           blog start 
 -----------------------------------------------*/
-
-/*--
-  blog-slider start 
---*/
-#blog-slider {
+@media only screen and (max-width: 680px) {
+#blog-slider{
   background: url("../img/blog-slider.jpg");
   background-size: cover;
-  background-attachment: fixed;
-  padding: 180px 0 210px 0;
+  background-repeat: no-repeat; 
+  background-position: center center;
+  padding: 145px 0 0px 0;
+  height: 480px;
   position: relative;
   color: #FFFBFC;
-  margin-bottom: 60px;
-}
+}}
+@media only screen and (min-width: 680px) {
+  #blog-slider {
+    background: url("../img/blog-slider.jpg");
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center center;
+    padding: 130px 0 200px 0;
+    position: relative;
+    color: #FFFBFC;
+}}
+@media only screen and (min-width: 1200px) {
+  #blog-slider{
+    background: url("../img/blog-slider.jpg");
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center center;
+    padding: 270px 0 340px 0;
+    position: relative;
+    color: #FFFBFC;
+}}
+/*---------------------------------------------*/
 #blog-slider:before {
   content: "";
   position: absolute;
@@ -1370,16 +1389,59 @@ width:95%;
   background: linear-gradient(to left, #444c44, #192319);
   opacity: 0.5;
 }
+/*---------------------------------------------*/
+@media only screen and (max-width: 400px) {
+#blog-slider .block h1 {
+  font-size: 36px;
+  line-height: 41px;
+  padding-bottom: 15px;
+}}
+@media only screen and (min-width: 400px) {
+#blog-slider .block h1 {
+  font-size: 45px;
+  line-height: 50px;
+  padding-bottom: 17px;
+}}
+@media only screen and (min-width: 992px) {
+#blog-slider .block h1 {
+  font-size: 55px;
+  line-height: 60px;
+  padding-bottom: 17px;
+}}
+@media only screen and (min-width: 1200px) {
 #blog-slider .block h1 {
   font-size: 65px;
-  line-height: 70px;
-  padding-bottom: 20px;
-}
+  line-height: 20px;
+  padding-bottom: 50px;
+}}
+/*---------------------------------------------*/
+@media only screen and (max-width: 400px) {
+#blog-slider .block h2 {
+  font-size: 17px;
+  letter-spacing: 1px;
+  line-height: 25px;
+}}
+@media only screen and (min-width: 400px) {
+#blog-slider .block h2 {
+  font-size: 19px;
+  letter-spacing: 1.1px;
+  line-height: 30px;
+}}
+@media only screen and (min-width: 992px) {
+#blog-slider .block h2 {
+  font-size: 22px;
+  letter-spacing: 1.2px;
+  line-height: 35px;
+}}
+@media only screen and (min-width: 1200px) {
 #blog-slider .block h2 {
   font-size: 25px;
   letter-spacing: 1.2px;
   line-height: 40px;
-}
+}}
+
+
+
 
 /*--
   blog-posts start 
