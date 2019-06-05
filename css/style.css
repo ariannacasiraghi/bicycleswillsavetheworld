@@ -30,13 +30,40 @@ a, a:active, a:focus, a:active {
 a.special:hover {
   color: #749100;
 }
+/*---------------------------------------------*/
+@media only screen and (max-width: 400px) {
+a.btn-blog {
+  background-color: #88aa00; 
+  color: #FFFBFC;
+  width: 24%;
+  font-size: 15px;  
+  font-family: 'Nunito', sans-serif;
+}}
+@media only screen and (min-width: 400px) {
+a.btn-blog {
+  background-color: #88aa00; 
+  color: #FFFBFC;
+  width: 22%;
+  font-size: 15px;  
+  font-family: 'Nunito', sans-serif;
+}}
+@media only screen and (min-width: 992px) {
 a.btn-blog {
   background-color: #88aa00; 
   color: #FFFBFC;
   width: 14%;
   font-size: 16px;  
   font-family: 'Nunito', sans-serif;
-}
+}}
+@media only screen and (min-width: 1200px) {
+a.btn-blog {
+  background-color: #88aa00; 
+  color: #FFFBFC;
+  width: 14%;
+  font-size: 16px;  
+  font-family: 'Nunito', sans-serif;
+}}
+/*---------------------------------------------*/
 a.btn-blog:hover {
   color: #191919;
 }
