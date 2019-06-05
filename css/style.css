@@ -1484,6 +1484,7 @@ width:95%;
   font-size: 25px;
   color: #88aa00;
   padding-bottom: 15px;
+  margin-top: 0px;
   text-align: left;
 }}
 @media only screen and (min-width: 400px) {
@@ -1491,7 +1492,7 @@ width:95%;
   font-size: 30px;
   color: #88aa00;
   padding-bottom: 15px;
-  margin-top: 20px;
+  margin-top: 0px;
   text-align: left;
 }}
 @media only screen and (min-width: 992px) {
