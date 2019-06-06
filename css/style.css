@@ -255,7 +255,7 @@ header .navbar-fixed-top {
 -----------------------------------------------*/
 @media only screen and (max-width: 400px) {
 #home-slider{
-  background: url("../img/home-slider.jpg");
+  background: url("../img/home-slider-big.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -266,7 +266,7 @@ header .navbar-fixed-top {
 }}
 @media only screen and (min-width: 400px) {
 #home-slider {
-  background: url("../img/home-slider.jpg"); 
+  background: url("../img/home-slider-big.jpg"); 
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -276,7 +276,7 @@ header .navbar-fixed-top {
 }}
 @media only screen and (min-width: 992px) {
 #home-slider{
-  background: url("../img/home-slider.jpg");
+  background: url("../img/home-slider-big.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -286,7 +286,7 @@ header .navbar-fixed-top {
 }}
 @media only screen and (min-width: 1200px) {
 #home-slider{
-  background: url("../img/home-slider.jpg");
+  background: url("../img/home-slider-big.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -437,7 +437,7 @@ header .navbar-fixed-top {
 --*/
 @media only screen and (max-width: 400px) {
 #home-message{
-  background: url("../img/home-message.jpg");
+  background: url("../img/home-message-big.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -448,7 +448,7 @@ header .navbar-fixed-top {
 }}
 @media only screen and (min-width: 400px) {
 #home-message {
-  background: url("../img/home-message.jpg"); 
+  background: url("../img/home-message-big.jpg"); 
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -458,7 +458,7 @@ header .navbar-fixed-top {
 }}
 @media only screen and (min-width: 992px) {
 #home-message{
-  background: url("../img/home-message.jpg");
+  background: url("../img/home-message-big.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -468,7 +468,7 @@ header .navbar-fixed-top {
 }}
 @media only screen and (min-width: 1200px) {
 #home-message{
-  background: url("../img/home-message.jpg");
+  background: url("../img/home-message-big.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -518,7 +518,7 @@ header .navbar-fixed-top {
 -----------------------------------------------*/
 @media only screen and (max-width: 400px) {
 #project-slider{
-  background: url("../img/project-slider.jpg");
+  background: url("../img/project-slider-big.jpg");
   background-size: cover;
   background-repeat: no-repeat; 
   background-position: center center;
@@ -529,7 +529,7 @@ header .navbar-fixed-top {
 }}
 @media only screen and (min-width: 400px) {
   #project-slider {
-    background: url("../img/project-slider.jpg");
+    background: url("../img/project-slider-big.jpg");
     background-size: cover;
     background-repeat: no-repeat; 
     background-position: center center;
@@ -539,7 +539,7 @@ header .navbar-fixed-top {
 }}
 @media only screen and (min-width: 992px) {
   #project-slider{
-    background: url("../img/project-slider.jpg");
+    background: url("../img/project-slider-big.jpg");
     background-size: cover;
     background-repeat: no-repeat; 
     background-position: center center;
@@ -549,7 +549,7 @@ header .navbar-fixed-top {
 }}
 @media only screen and (min-width: 1200px) {
   #project-slider{
-    background: url("../img/project-slider.jpg");
+    background: url("../img/project-slider-big.jpg");
     background-size: cover;
     background-repeat: no-repeat; 
     background-position: center center;
@@ -838,7 +838,7 @@ width:95%;
 -----------------------------------------------*/
 @media only screen and (max-width: 400px) {
 #about-us-slider{
-  background: url("../img/about-us-slider.jpg");
+  background: url("../img/about-us-slider-big.jpg");
   background-size: cover;
   background-repeat: no-repeat; 
   background-position: center center;
@@ -849,7 +849,7 @@ width:95%;
 }}
 @media only screen and (min-width: 400px) {
   #about-us-slider {
-    background: url("../img/about-us-slider.jpg");
+    background: url("../img/about-us-slider-big.jpg");
     background-size: cover;
     background-repeat: no-repeat; 
     background-position: center center;
@@ -859,7 +859,7 @@ width:95%;
 }}
 @media only screen and (min-width: 992px) {
   #about-us-slider{
-    background: url("../img/about-us-slider.jpg");
+    background: url("../img/about-us-slider-big.jpg");
     background-size: cover;
     background-repeat: no-repeat; 
     background-position: center center;
@@ -869,7 +869,7 @@ width:95%;
 }}
 @media only screen and (min-width: 1200px) {
   #about-us-slider{
-    background: url("../img/about-us-slider.jpg");
+    background: url("../img/about-us-slider-big.jpg");
     background-size: cover;
     background-repeat: no-repeat; 
     background-position: center center;
@@ -1271,8 +1271,8 @@ width:95%;
           blog start 
 -----------------------------------------------*/
 @media only screen and (max-width: 400px) {
-#blog-slider{
-  background: url("../img/blog-slider.jpg");
+#blog-992r{
+  background: url("../img/blog-slider-big.jpg");
   background-size: cover;
   background-repeat: no-repeat; 
   background-position: center center;
@@ -1283,7 +1283,7 @@ width:95%;
 }}
 @media only screen and (min-width: 400px) {
   #blog-slider {
-    background: url("../img/blog-slider.jpg");
+    background: url("../img/blog-slider-big.jpg");
     background-size: cover;
     background-repeat: no-repeat; 
     background-position: center center;
@@ -1293,7 +1293,7 @@ width:95%;
 }}
 @media only screen and (min-width: 992px) {
   #blog-slider{
-    background: url("../img/blog-slider.jpg");
+    background: url("../img/blog-slider-big.jpg");
     background-size: cover;
     background-repeat: no-repeat; 
     background-position: center center;
@@ -1303,7 +1303,7 @@ width:95%;
 }}
 @media only screen and (min-width:1200px) {
   #blog-slider{
-    background: url("../img/blog-slider.jpg");
+    background: url("../img/blog-slider-big.jpg");
     background-size: cover;
     background-repeat: no-repeat; 
     background-position: center center;
@@ -1693,7 +1693,7 @@ width:95%;
 -----------------------------------------------*/
 @media only screen and (max-width: 400px) {
 #contact-slider{
-  background: url("../img/contact-slider.jpg");
+  background: url("../img/contact-slider-big.jpg");
   background-size: cover;
   background-repeat: no-repeat; 
   background-position: center center;
@@ -1704,7 +1704,7 @@ width:95%;
 }}
 @media only screen and (min-width: 400px) {
   #contact-slider {
-    background: url("../img/contact-slider.jpg");
+    background: url("../img/contact-slider-big.jpg");
     background-size: cover;
     background-repeat: no-repeat; 
     background-position: center center;
@@ -1714,7 +1714,7 @@ width:95%;
 }}
 @media only screen and (min-width: 992px) {
   #contact-slider{
-    background: url("../img/contact-slider.jpg");
+    background: url("../img/contact-slider-big.jpg");
     background-size: cover;
     background-repeat: no-repeat; 
     background-position: center center;
@@ -1724,7 +1724,7 @@ width:95%;
 }}
 @media only screen and (min-width: 1200px) {
   #contact-slider{
-    background: url("../img/contact-slider.jpg");
+    background: url("../img/contact-slider-big.jpg");
     background-size: cover;
     background-repeat: no-repeat; 
     background-position: center center;
@@ -2016,7 +2016,7 @@ width:95%;
 --*/
 @media only screen and (max-width: 400px) {
 #thank-you-slider{
-  background: url("../img/thank-you-slider.jpg");
+  background: url("../img/thank-you-slider-big.jpg");
   background-size: cover;
   background-repeat: no-repeat; 
   background-position: center center;
@@ -2027,7 +2027,7 @@ width:95%;
 }}
 @media only screen and (min-width: 400px) {
   #thank-you-slider {
-    background: url("../img/thank-you-slider.jpg");
+    background: url("../img/thank-you-slider-big.jpg");
     background-size: cover;
     background-repeat: no-repeat; 
     background-position: center center;
@@ -2037,7 +2037,7 @@ width:95%;
 }}
 @media only screen and (min-width: 992px) {
   #thank-you-slider{
-    background: url("../img/thank-you-slider.jpg");
+    background: url("../img/thank-you-slider-big.jpg");
     background-size: cover;
     background-repeat: no-repeat; 
     background-position: center center;
@@ -2047,7 +2047,7 @@ width:95%;
 }}
 @media only screen and (min-width: 1200px) {
   #thank-you-slider{
-    background: url("../img/thank-you-slider.jpg");
+    background: url("../img/thank-you-slider-big.jpg");
     background-size: cover;
     background-repeat: no-repeat; 
     background-position: center center;
