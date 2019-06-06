@@ -945,7 +945,7 @@ width:95%;
 #arianna {
   background-color: #FFFBFC;
   background-size: cover;
-  padding: 30px 0 30px 0;
+  padding: 40px 0 30px 0;
   position: relative;
 }}
 @media only screen and (min-width: 400px) {
@@ -1053,7 +1053,7 @@ width:95%;
 #daniel {
   background-color: #FFFBFC;
   background-size: cover;
-  padding: 30px 0 30px 0;
+  padding: 40px 0 30px 0;
   position: relative;
 }}
 @media only screen and (min-width: 400px) {
@@ -1160,7 +1160,7 @@ width:95%;
 #zola {
   background-color: #FFFBFC;
   background-size: cover;
-  padding: 30px 0 30px 0;
+  padding: 40px 0 30px 0;
   position: relative;
 }}
 @media only screen and (min-width: 400px) {
@@ -1902,7 +1902,7 @@ width:95%;
 /*---------------------------------------------*/
 @media only screen and (max-width: 400px) {
 #contact-box .block h1{
-  font-size: 18px;
+  font-size: 19px;
   text-transform: uppercase;
   color: #191919;
 }}
@@ -1965,7 +1965,7 @@ width:95%;
 /*---------------------------------------------*/
 }
 #contact-box .social-icons {
-  padding-top: 12px;
+  margin: 100px;
 }
 .social-icons li {
   display: inline-block;
@@ -1996,12 +1996,13 @@ width:95%;
   font-size: 30px;
 }}
 /*---------------------------------------------*/
-.fa-instagram:hover {
-  color: #749100;
-}
 .fa-facebook:hover {
   color: #749100;
 }
+.fa-instagram:hover {
+  color: #749100;
+}
+
 
 
 
