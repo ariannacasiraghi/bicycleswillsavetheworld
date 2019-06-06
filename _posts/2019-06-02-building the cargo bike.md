@@ -2,12 +2,14 @@
 layout: post
 title: Building the cargo bike
 subtitle: ... with a roof 
-date: 2019-06-02 17:00
+date: 2019-06-05 17:00:00
 image: /img/posts/cargo-small.jpg
 caption: 'A prototype dog-tourer: light-weight, handles wonderfully, perfect sized cargo bay; we are nearly there. Zola loves it! Now on to the roof.' 
 category: trip preparations
 permalink: /building-the-cargo-bike.html
 author: Arianna & Daniel
+sitemap:
+  lastmod: 2018-06-06
 ---
 
 Welcome to our blog! This is our first post and well... we haven’t started travelling yet. While Arianna is still working hard to finish a few projects, Daniel is building bicycles full-time, most importantly the dog-transporting cargo bike. 

@@ -1,3 +1,9 @@
+---
+sitemap:
+    exclude: 'yes'
+---
+
+
 /*--
 	common css
 --*/
@@ -276,7 +282,7 @@ header .navbar-fixed-top {
 }}
 @media only screen and (min-width: 992px) {
 #home-slider{
-  background: url("../img/home-slider-small.jpg");
+  background: url("../img/home-slider-medium.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -286,7 +292,7 @@ header .navbar-fixed-top {
 }}
 @media only screen and (min-width: 1200px) {
 #home-slider{
-  background: url("../img/home-slider-small.jpg");
+  background: url("../img/home-slider-medium.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -458,7 +464,7 @@ header .navbar-fixed-top {
 }}
 @media only screen and (min-width: 992px) {
 #home-message{
-  background: url("../img/home-message-small.jpg");
+  background: url("../img/home-message-medium.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -468,7 +474,7 @@ header .navbar-fixed-top {
 }}
 @media only screen and (min-width: 1200px) {
 #home-message{
-  background: url("../img/home-message-small.jpg");
+  background: url("../img/home-message-medium.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
