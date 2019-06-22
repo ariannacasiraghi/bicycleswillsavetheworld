@@ -15,7 +15,7 @@
                     </a>
                     {% endif %}
                     
-                    <p> {{ post.excerpt }} </p>
+                    <p> {{ post.excerpt | truncatewords: 35 }} </p>
                     
                     <a class="btn btn-blog"  href="{{ post.url }}">Read More</a>
                     
