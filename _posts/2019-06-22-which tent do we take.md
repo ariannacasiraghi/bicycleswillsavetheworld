@@ -19,7 +19,7 @@ The big advantage of the Terra Nova is the huge porch area, under which we can c
 
 Such a tough decision! So many things to consider!  
 
-Yet, I finally have a clear mind. It wasn't too hard after all, when considering the top priorities in this journey. Th logic is the following: with the 800 grams that we save by using the MSR tent, we can obviously take more food with us, right? 
+Yet, I finally have a clear mind. It wasn't too hard after all, when considering the top priorities in this journey. The logic is the following: with the 800 grams that we save by using the MSR tent, we can obviously take more food with us, right? 
 
 So, here is my verdict: MSR Hubba Hubba NX!  
 
