@@ -1824,15 +1824,60 @@ width:95%;
   border: 1px solid #ededed;
   box-shadow: none;
 }
+/*---------------------------------------------*/
+@media only screen and (max-width: 400px) {
+#contact-form form .block .form-group input {
+  font-size: 17px;
+}}
+@media only screen and (min-width: 400px) {
+#contact-form form .block .form-group input {
+  font-size: 18px;
+}}
+@media only screen and (min-width: 992px) {
+#contact-form form .block .form-group input {
+  font-size: 19px;
+}}
+@media only screen and (min-width: 1200px) {
+#contact-form form .block .form-group input {
+  font-size: 19px;
+}}
+/*---------------------------------------------*/
 #contact-form form .block .form-group-2 {
   padding-bottom: 15px;
 }
+/*---------------------------------------------*/
+@media only screen and (max-width: 400px) {
 #contact-form form .block .form-group-2 textarea {
+  font-size: 17px;
   background-color: #F7F7F7;
   height: 164px;
   border: 1px solid #ededed;
   box-shadow: none;
-}
+}}
+@media only screen and (min-width: 400px) {
+#contact-form form .block .form-group-2 textarea {
+  font-size: 18px;
+  background-color: #F7F7F7;
+  height: 164px;
+  border: 1px solid #ededed;
+  box-shadow: none;
+}}
+@media only screen and (min-width: 992px) {
+#contact-form form .block .form-group-2 textarea {
+  font-size: 19px;
+  background-color: #F7F7F7;
+  height: 164px;
+  border: 1px solid #ededed;
+  box-shadow: none;
+}}
+@media only screen and (min-width: 1200px) {
+#contact-form form .block .form-group-2 textarea {
+  font-size: 19px;
+  background-color: #F7F7F7;
+  height: 164px;
+  border: 1px solid #ededed;
+  box-shadow: none;
+}}
 /*---------------------------------------------*/
 @media only screen and (max-width: 400px) {
 #contact-form .block button {
@@ -1850,7 +1895,7 @@ width:95%;
   background: #88aa00;
   border: none;
   color: #FFFBFC;
-  font-size: 17px;
+  font-size: 18px;
 }}
 @media only screen and (min-width: 992px) {
 #contact-form .block button {
@@ -1859,7 +1904,7 @@ width:95%;
   background: #88aa00;
   border: none;
   color: #FFFBFC;
-  font-size: 18px;
+  font-size: 19px;
 }}
 @media only screen and (min-width: 1200px) {
 #contact-form .block button {
@@ -1868,7 +1913,7 @@ width:95%;
   background: #88aa00;
   border: none;
   color: #FFFBFC;
-  font-size: 18px;
+  font-size: 19px;
 }}
 /*---------------------------------------------*/
 #contact-form .block button:hover {
