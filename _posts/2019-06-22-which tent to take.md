@@ -8,7 +8,7 @@ category: trip preparations
 permalink: /which-tent-to-take.html
 author: Zola
 sitemap:
-  lastmod: 2018-02-22
+  lastmod: 2019-06-22
 ---
 
 And here I am, having to deal with this huge responsibility. And what is most annoying is that I had a very clear answer in mind and yet my humans weren't having any of it. "Guys", I immediately said, "the obvious choice is the Hilleberg tent: excellent quality and most importantly a 3 person tunnel tent, so there is plenty of space for all of us!". But they said it was too heavy and too big and they reminded me of that time in which this tent didn't even fit in the space that was allocated to us in a campsite... pretty embarrassing indeed!

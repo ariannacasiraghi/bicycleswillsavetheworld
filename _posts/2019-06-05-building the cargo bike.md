@@ -9,7 +9,7 @@ category: trip preparations
 permalink: /building-the-cargo-bike.html
 author: Arianna & Daniel
 sitemap:
-  lastmod: 2018-06-06
+  lastmod: 2019-06-06
 ---
 
 Welcome to our blog! This is our first post and well... we haven’t started travelling yet. While Arianna is still working hard to finish a few projects, Daniel is building bicycles full-time, most importantly the dog-transporting cargo bike. 
