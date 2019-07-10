@@ -11,7 +11,7 @@ sitemap:
   lastmod: 2019-07-10
 ---
 
-After months of design work, brazing, prototypes, trials, refinements and more brazing, the bicycles are ready! Zola is thrilled with the ride quality of the cargo bike, she jumps in there voluntarily and says it is even possible to sit and enjoy the scenery as we travel! Her only complaint is about the smell of the sweaty man at the back, her sensitive nose finds it all a bit much… The fabric of the cargo bay (expertly realised by Massimo Tontati from Armeno) far exceeds our hopes for how good the bike could look. Weighing in at around 22kg with the removable roof, and a little less than 20kg without it, it’s looking like the perfect bike to take a dog on an around-Europe trip - fortunately, that’s what we plan!
+After months of design work, brazing, prototypes, trials, refinements and more brazing, the bicycles are ready! Zola is thrilled with the ride quality of the cargo bike, she jumps in there voluntarily and says it is even possible to sit and enjoy the scenery as we travel! Her only complaint is about the smell of the sweaty man at the back, her sensitive nose finds it all a bit much… The fabric of the cargo bay (expertly realised by Massimo Tonati from Armeno) far exceeds our hopes for how good the bike could look. Weighing in at around 22kg with the removable roof, and a little less than 20kg without it, it’s looking like the perfect bike to take a dog on an around-Europe trip - fortunately, that’s what we plan!
 
 <img class="img-responsive" src=" /img/posts/cargo1-small.jpg" alt="{{ post.title }}">
 
