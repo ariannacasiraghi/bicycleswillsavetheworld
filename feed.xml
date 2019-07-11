@@ -8,7 +8,7 @@ sitemap:
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!--Url Extract: 8-->
+
 
   <url>
 
@@ -102,7 +102,19 @@ sitemap:
 
     <changefreq>monthly</changefreq>
 
-    <priority>0.7</priority>
+    <priority>0.8</priority>
+
+  </url>
+
+  <url>
+
+    <loc>https://bicycleswillsavetheworld.com/bikes-ready.html</loc>
+
+    <lastmod>2019-07-10</lastmod>
+
+    <changefreq>monthly</changefreq>
+
+    <priority>0.8</priority>
 
   </url>
 
