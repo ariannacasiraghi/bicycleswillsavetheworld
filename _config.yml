@@ -16,7 +16,7 @@
 title: Bicycles will save the world
 email: info@bicycleswillsavetheworld.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A project to raise awareness about cycling as a means to fight climate change and shape a better world
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "bicycleswillsavetheworld.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: arianna
