@@ -1162,7 +1162,7 @@ width:95%;
 #zola {
   background-color: #FFFBFC;
   background-size: cover;
-  padding: 40px 0 30px 0;
+  padding: 40px 0 0px 0;
   position: relative;
 }}
 @media only screen and (min-width: 400px) {
@@ -1170,20 +1170,21 @@ width:95%;
   background-color: #FFFBFC;
   background-size: cover;
   padding: 30px 0 0 0;
+  margin-bottom: -50px;
   position: relative;
 }}
 @media only screen and (min-width: 992px) {
 #zola {
   background-color: #FFFBFC;
   background-size: cover;
-  padding: 30px 0 30px 0;
+  padding: 30px 0 0px 0;
   position: relative;
 }}
 @media only screen and (min-width: 1200px) {
 #zola {
   background-color: #FFFBFC;
   background-size: cover;
-  padding: 40px 0 40px 0;
+  padding: 40px 0 20px 0;
   position: relative;
 }}
 /*---------------------------------------------*/
@@ -2163,14 +2164,6 @@ width:95%;
   letter-spacing: 1.2px;
   line-height: 40px;
 }}
-/*--
-  thank-you-message start 
---*/
-#thank-you-message {
-  padding-top: 35px;
-  margin-bottom: -10px;
-  text-align: center;
-}
 /*---------------------------------------------*/
 @media only screen and (max-width: 400px) {
 #thank-you-message .block h1{
@@ -2204,6 +2197,73 @@ width:95%;
 /*--
 	footer start 
 --*/
+@media only screen and (max-width: 400px) {
+.footer-menu {
+  padding-top: 45px;
+  margin-bottom: -10px;
+  text-align: center;
+}}
+@media only screen and (min-width: 400px) {
+.footer-menu {
+  padding-top: 55px;
+  margin-bottom: -10px;
+  text-align: center;
+}}
+@media only screen and (min-width: 992px) {
+.footer-menu {
+  padding-top: 35px;
+  margin-bottom: -10px;
+  text-align: center;
+}}
+@media only screen and (min-width: 1200px) {
+.footer-menu {
+  padding-top: 35px;
+  margin-bottom: -10px;
+  text-align: center;
+}}
+/*---------------------------------------------*/
+@media only screen and (max-width: 400px) {
+.footer-menu h1{
+  font-size: 19px;
+  text-transform: uppercase;
+  color: #191919;
+}}
+@media only screen and (min-width: 400px) {
+.footer-menu h1{
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #191919;
+}}
+@media only screen and (min-width: 992px) {
+.footer-menu h1{
+  font-size: 21px;
+  text-transform: uppercase;
+  color: #191919;
+}}
+@media only screen and (min-width: 1200px) {
+.footer-menu h1{
+  font-size: 22px;
+  text-transform: uppercase;
+  color: #191919;
+}}
+/*---------------------------------------------*/
+@media only screen and (max-width: 400px) {
+.footer-menu i {
+  font-size: 24px;
+}}
+@media only screen and (min-width: 400px) {
+.footer-menu i {
+  font-size: 26px;
+}}
+@media only screen and (min-width: 992px) {
+.footer-menu i {
+  font-size: 28px;
+}}
+@media only screen and (min-width: 1200px) {
+.footer-menu i {
+  font-size: 30px;
+}}
+/*---------------------------------------------*/
 @media only screen and (max-width: 768px) {
 footer {
   background: #FFFBFC;
@@ -2221,8 +2281,8 @@ footer a {
 }
 footer .footer-menu {
   padding-bottom: 20px;
-}
-footer .footer-menu ul {
+}}
+/**footer .footer-menu ul {
 margin-right: 40px;
 }
 footer .footer-menu ul li {
@@ -2238,7 +2298,7 @@ footer .footer-menu ul li a {
 }
 footer .footer-menu ul li a:hover {
   color: #88aa00;
-}}
+}}**/
 /*---------------------------------------------*/
 @media only screen and (min-width: 768px) {
 footer {
@@ -2247,7 +2307,7 @@ footer {
   padding: 80px 0 10px 0;
 }
 footer p {
-  font-size: 12px;
+  font-size: 14px;
   line-height: 22px;
   color: #ADA9AB;
   text-align: center;
@@ -2256,9 +2316,9 @@ footer a {
   color: #ADA9AB;
 }
 footer .footer-menu {
-  padding-bottom: 20px;
-}
-footer .footer-menu ul {
+  padding-bottom: 30px;
+}}
+/**footer .footer-menu ul {
 margin-right: 40px;
 }
 footer .footer-menu ul li {
@@ -2274,5 +2334,5 @@ footer .footer-menu ul li a {
 } 
 footer .footer-menu ul li a:hover {
   color: #88aa00;
-}}
+}}**/
 
