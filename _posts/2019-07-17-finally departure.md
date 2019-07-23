@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 13/07/2019: Finally departure!
+title: Finally departure!
 date: 2019-07-17 21:00:00
 image: /img/posts/departure-small.jpg
 caption: 'Feeling "glamorous" with so many people taking pictures of us!' 
