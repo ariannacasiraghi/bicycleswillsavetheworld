@@ -4,7 +4,7 @@ title: Finally departure!
 date: 2019-07-17 21:00:00
 image: /img/posts/departure-small.jpg
 caption: 'Feeling "glamorous" with so many people taking pictures of us!' 
-category: cycling to the start
+category: cycling to the start of the bicycle 
 permalink: /finally-departure.html
 author: Arianna
 sitemap:
