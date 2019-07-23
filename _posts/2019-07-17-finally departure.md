@@ -21,6 +21,8 @@ So by 6am the paper was done, we had a last decent shower, breakfasted well and 
 
 Finally we went quickly down to Orta San Giulio market square, where a journalist was waiting for us (we were late of course). From then it was a confused succession of people taking pictures of us, asking questions, making interviews, giving us t-shirts and croissants (thanks Su!), taking more pictures and even videos, asking to sign insurance documents (thanks to Sara insurance Borgomanero) and offering money (thanks to Elena, Luca and Patrizio for having come all the way from Turin and collected money for us from INRiM!). And eventually, at about 11am we were off! 
 
+<img class="img-responsive" src=" /img/posts/banner-small.jpg" alt="banner">
+
 After such glamorous departure it was very lucky that nobody saw (nor filmed, hopefully) the shameful moment when - after having cycled about 250 metres - my bike chain fell off. Dan quickly fixed it and we were off again, this time for real! 
 
 Reaching Omegna and saying bye to my beloved Orta Lake was surreal. As was being recognised and stopped by people on the street that had read our story on the local newspapers. We didn't go much far that day before collapsing in a campsite in Mergozzo lake, with the mind full of thoughts and emotions, and an empty stomach in Zola's case. 
