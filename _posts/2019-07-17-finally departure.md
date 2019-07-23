@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Finally departure!
-date: 2019-07-16 21:00:00
+date: 2019-07-17 21:00:00
 image: /img/posts/departure-small.jpg
 caption: 'Feeling "glamorous" with so many people taking pictures of us!' 
 category: cycling to the start
 permalink: /finally-departure.html
 author: Arianna
 sitemap:
-  lastmod: 2019-07-16
+  lastmod: 2019-07-17
 ---
 
 And so, finally the departure! The last few days have been absolutely crazy, and we have been regretting all the wasted moments spent doing little for the preparations - thinking as usual that we had plenty of time still... But we didn't!! 
