@@ -34,7 +34,8 @@ defaults:
     values:
       layout: "post"
       author: "Arianna Casiraghi"
-      category: "trip preparations" "cycling to the start of the bicycle" 
+      category: "trip preparations" 
+      category: "cycling to the start of the bicycle" 
 
 
 
