@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Finally departure!
+title: 13/07/2019: Finally departure!
 date: 2019-07-17 21:00:00
 image: /img/posts/departure-small.jpg
 caption: 'Feeling "glamorous" with so many people taking pictures of us!' 
@@ -11,7 +11,7 @@ sitemap:
   lastmod: 2019-07-17
 ---
 
-And so, finally the departure! The last few days have been absolutely crazy, and we have been regretting all the wasted moments spent doing little for the preparations - thinking as usual that we had plenty of time still... But we didn't!! 
+And so, finally, the departure! The last few days have been absolutely crazy, and we have been regretting all the wasted moments spent doing little for the preparations - thinking as usual that we had plenty of time still... But we didn't!! 
 
 We were up until 2am the day before departure, trying to figure out whether everything would fit in the panniers. Thankfully, since we knew that we would carry more stuff than usual, we had upgraded my regular Ortlieb panniers to the "pro" version, meaning a whole 30L more of volume. Yet, even with the increased capacity, it was so close! I would have happily left behind the thermos, bud Dan didn't want to hear about it. And Zola repeated that her sleeping bag was absolutely necessary...
 
