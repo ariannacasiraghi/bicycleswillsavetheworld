@@ -25,8 +25,8 @@ Finally we went quickly down to Orta San Giulio market square, where a journalis
 
 After such glamorous departure it was very lucky that nobody saw (nor filmed, hopefully) the shameful moment when - after having cycled about 250 metres - my bike chain fell off. Dan quickly fixed it and we were off again, this time for real! 
 
-Reaching Omegna and saying bye to my beloved Orta Lake was surreal. As was being recognised and stopped by people on the street that had read our story on the local newspapers. We didn't go much far that day before collapsing in a campsite in Mergozzo lake, with the mind full of thoughts and emotions, and an empty stomach in Zola's case. 
+Reaching Omegna and saying bye to my beloved Orta Lake was surreal. As was being recognised and stopped by people on the street that had read our story on the local newspapers. We didn't go much far that day before collapsing in a campsite on Mergozzo lake, with the mind full of thoughts and emotions, and an empty stomach in Zola's case. 
 
 I will always remember this day, as the day when I started a new chapter in my life, hopefully a challenging and enriching one, for me and other people. 
 
-Thank you all for a wonderful day! Special thanks  go to my mum and Marco for having helped us publicise our project and for all their support. Also thanks to my aunt and uncle for all they do for us. 
+Thank you all for a wonderful day! Special thanks go to my mum and Marco for having helped us publicise our project and for all their support. Also thanks to my aunt and uncle for all they do for us. 
