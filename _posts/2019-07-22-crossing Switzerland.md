@@ -19,7 +19,11 @@ With a road busy with trucks and fast cars and our painfully low average speed o
 
 It took us two days to get to the top (2005m), which was glorious and totally worth the massive coffee rip-off... and the fast descent into Brig made us forgive all the harshness of the climb. So, we passed the test and felt invincible. Plus, we were finally in Switzerland! 
 
-Going through the Valais to reach Montreux on Lake Léman was easy and fast. Swiss national cycle route #1 follows the Rhône river through the wide valley and, while not crossing particularly pictouresque areas (indeed, more like industrial estates), it made us cover quick kilometers. The scenary changed substantially from Montreux onwards. Here we went up the hills again and what a lovely lake view we had, sorrounded by terraced vineyards and old stone houses! It reminded us of Italian Cinque Terre.
+Going through the Valais to reach Montreux on Lake Léman was easy and fast. Swiss national cycle route #1 follows the Rhône river through the wide valley and, while not crossing particularly pictouresque areas (indeed, more like industrial estates), it made us cover quick kilometers. 
+
+<img class="img-responsive" src=" /img/posts/rhone-small.jpg" alt="Rhone river">
+
+The scenary changed substantially from Montreux onwards. Here we went up the hills again and what a lovely lake view we had, sorrounded by terraced vineyards and old stone houses! It reminded us of Italian Cinque Terre.
 
 <img class="img-responsive" src=" /img/posts/leman-small.jpg" alt="lake Léman">
 
