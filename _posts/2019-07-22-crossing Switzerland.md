@@ -1,3 +1,15 @@
+---
+layout: post
+title: Crossing Switzerland 
+date: 2019-07-22 20:00:00
+image: /img/posts/simplon-small.jpg
+caption: 'At long last we made it!' 
+category: reaching the start point of the bicycle-shaped route
+permalink: /crossing-switzerland.html .html
+author: Arianna
+sitemap:
+  lastmod: 2019-07-22
+---
 
 We didn't choose an easy start. Setting off to cross Switzerland on the first week of our trip was, with hindsight, a crazy decision. The remarkably high percentage of people with dropped jaws that saw us climbing towards Simplon pass confirmed the madness of our endeavour. Yet, we thought that if we could make it to Simplon pass, then nothing could stop us afterwards. We took it as a test... And what a test it was! 
 
