@@ -15,7 +15,7 @@ We didn't choose an easy start. Setting off to cross Switzerland on the first we
 
 With a road busy with trucks and fast cars and our painfully low average speed of only 5 or 6 kms per hour, the climb to Simplon pass was hellish. On top of that, the far too frequent tunnels with total lack of hard shoulders made us feel way too often in danger. At about mid climb, a truck came so close to us that we decided to give up. Well, not completely give up, but we opted instead for the footpath. Which, of course, being a footpath involved lots of uneasy terrain, and even stairs! This was one of the few circumstances in which I wasn't upset with all the time Dan spent in his gym... I sat watching while he carryed everything up and down narrow metal stairs! Zola, being able to trot along us and cover herself in poo, was also very happy with the footpath choice. 
 
-<img class="img-responsive" src=" /img/posts/stairs-small.jpg" style="max-width: 500px;" class="center" alt="stairs">
+<img class="img-responsive center-block" src=" /img/posts/stairs-small.jpg" style="max-width: 500px;" alt="stairs">
 
 It took us two days to get to the top (2005m), which was glorious and totally worth the massive coffee rip-off... and the fast descent into Brig made us forgive all the harshness of the climb. So, we passed the test and felt invincible. Plus, we were finally in Switzerland! 
 
