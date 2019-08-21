@@ -5,25 +5,25 @@ date: 2019-07-22 20:00:00
 image: /img/posts/simplon-small.jpg
 caption: 'At long last we made it!' 
 category: reaching the start point of the bicycle-shaped route
-permalink: /crossing-switzerland.html .html
+permalink: /crossing-switzerland.html
 author: Arianna
 sitemap:
   lastmod: 2019-07-22
 ---
 
-We didn't choose an easy start. Setting off to cross Switzerland on the first week of our trip was, with hindsight, a crazy decision. The remarkably high percentage of people with dropped jaws that saw us climbing towards Simplon pass confirmed the madness of our endeavour. Yet, we thought that if we could make it to Simplon pass, then nothing could stop us afterwards. We took it as a test... And what a test it was! 
+We didn't choose an easy start. Setting off to cross Switzerland on the first week of our trip was, with hindsight, a crazy decision. The remarkably high percentage of people with dropped jaws that saw us climbing towards Simplon pass confirmed the madness of our endevour. Yet, we thought that if we could make it to Simplon pass, then nothing could stop us afterwards. We took it as a test... And what a test it was! 
 
-With a road busy with trucks and fast cars and our painfully low average speed of only 5 or 6 kms per hour, the climb to Simplon pass was hellish. On top of that, the far too frequent tunnels with total lack of hard shoulders made us feel way too often in danger. At about mid climb, a truck came so close to us that we decided to give up. Well, not completely give up, but we opted instead for the footpath. Which, of course, being a footpath involved lots of uneasy terrain, and even stairs! This was one of the few circumstances in which I wasn't upset with all the time Dan spent in his gym... I sat watching while he carryed everything up and down narrow metal stairs! Zola, being able to trot along us and cover herself in poo, was also very happy with the footpath choice. 
+With a road busy with trucks and fast cars and our painfully low average speed of only 5 or 6 kms per hour, the climb to Simplon pass was hellish. On top of that, the far too frequent tunnels with total lack of hard shoulders made us feel way too often in danger. At about mid climb, a truck came so close to us that we decided to give up. Well, not completely give up, but we opted instead for the footpath. Which, of course, being a footpath involved lots of uneasy terrain, and even stairs! This was one of the few circumstances in which I wasn't upset with all the time Dan spent in his gym... I sat watching while he carried everything up and down narrow metal stairs! Zola, being able to trot along us and cover herself in alpine poo, was also very happy with the footpath choice. 
 
 <img class="img-responsive center-block" src=" /img/posts/stairs-small.jpg" style="max-width: 360px;" alt="stairs">
 
 It took us two days to get to the top (2005m), which was glorious and totally worth the massive coffee rip-off... and the fast descent into Brig made us forgive all the harshness of the climb. So, we passed the test and felt invincible. Plus, we were finally in Switzerland! 
 
-Going through the Valais to reach Montreux on Lake Léman was easy and fast. Swiss national cycle route #1 follows the Rhône river through the wide valley and, while not crossing particularly pictouresque areas (indeed, more like industrial estates), it made us cover quick kilometers. 
+Going through the Valais to reach Montreux on Lake Léman was easy and fast. Swiss national cycle route #1 follows the Rhône river through the wide valley and, while not crossing particularly picturesque areas (indeed, more like industrial estates), it made us cover quick kilometers. 
 
 <img class="img-responsive" src=" /img/posts/rhone-small.jpg" alt="Rhone river">
 
-The scenary changed substantially from Montreux onwards. Here we went up the hills again and what a lovely lake view we had, sorrounded by terraced vineyards and old stone houses! It reminded us of Italian Cinque Terre.
+The scenery changed substantially from Montreux onwards. Here we went up the hills again and what a lovely lake view we had, surrounded by terraced vineyards and old stone houses! It reminded us of Italian Cinque Terre.
 
 <img class="img-responsive" src=" /img/posts/leman-small.jpg" alt="lake Léman">
 
