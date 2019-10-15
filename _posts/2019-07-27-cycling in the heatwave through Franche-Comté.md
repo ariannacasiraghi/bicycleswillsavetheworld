@@ -11,7 +11,7 @@ sitemap:
   lastmod: 2019-07-27
 ---
 
-I do not sweat much. In fact, I typically sweat very little even during sport activities. So, upon realising that what I was feeling periodically on my knees was actually sweat drops from my chin, I immediately understood that something was wrong. True - the hill I was climbing at the time was not insignificant, and the lack of tree shadow surely made things worse, as did the frequent lorries struggling past me on the hot asphalt, but the reality was that the temperature was a painful +38°C on that day. The chin dripping onto my knee was really a novelty for me. Thankfully some of us could enjoy frequent cooldown swims in dirty, but probably rather pleasurable, lake (or swamp) waters. 
+I do not sweat much. In fact, I typically sweat very little even during sport activities. So, upon realising that what I was feeling periodically on my knees was actually sweat drops from my chin, I immediately understood that something was wrong. True - the hill we were climbing at the time was not insignificant, and the lack of tree shadow surely made things worse, as did the frequent lorries struggling past us on the hot asphalt, but the reality was that the temperature was a painful +38°C on that day. The chin dripping onto my knee was really a novelty for me. Thankfully some of us could enjoy frequent cooldown swims in dirty, but probably rather pleasurable, lake (or swamp) waters. 
 
 <img class="img-responsive" src=" /img/posts/zola-swamp-small.jpg" alt="Zola swimming in lake">
 
