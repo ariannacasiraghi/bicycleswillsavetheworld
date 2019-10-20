@@ -15,7 +15,7 @@ After months of design work, brazing, prototypes, trials, refinements and more b
 
 <img class="img-responsive" src=" /img/posts/cargo1-small.jpg" alt="cargo bike">
 
-The more standard touring bike fits Ari perfectly (of course... it’s custom made...) and has a wonderful balance of being easy and fun to ride both loaded and unloaded. The paint, done by CGM Decora from Orta San Giulio, gives a lovely bright and hard wearing finish. 
+The more standard touring bike fits Arianna perfectly (of course... it’s custom made...) and has a wonderful balance of being easy and fun to ride both loaded and unloaded. The paint, done by CGM Decora from Orta San Giulio, gives a lovely bright and hard wearing finish. 
 
 <img class="img-responsive" src=" /img/posts/tourer-small.jpg" alt="touring bicycle">
 

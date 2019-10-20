@@ -30,6 +30,19 @@ a, a:active, a:focus, a:active {
 a.special:hover {
   color: #749100;
 }
+figcaption {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 600;
+  line-height: 20px;
+  font-size: 15px;
+  margin-top: 5px;
+  padding-bottom: 10px;
+}
+
+
+
+
+
 /*---------------------------------------------*/
 @media only screen and (max-width: 400px) {
 a.btn-blog {
