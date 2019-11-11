@@ -2,7 +2,7 @@
 layout: post
 title: Zola's thoughts
 date: 2019-08-14 22:00:00
-image: /img/posts/zola-cute-small.jpg
+image: /img/posts/zola-cute.jpg
 caption: 'After one month of cycling, Zola would like to say something'
 category: drawing the bicycle
 permalink: /zola's thoughts.html
@@ -16,7 +16,7 @@ It may be the wrong time for me to share my thoughts, as I am slightly annoyed a
 You want to know why I am pissed off? Well, if you read carefully the <a class="special" href="/the fork.html">previous post</a> you may already have guessed... YES, I have been trimmed a few days ago! By a French lady!! And what is more, she was so diabolically happy about it!!!
 
 <figure>
-<img class="img-responsive center-block" src=" /img/posts/zola-trim-small.jpg" style="max-width: 360px;" alt="At the hairdresser, in Boiscommun">
+<img class="img-responsive center-block" src=" /img/posts/zola-trim.jpg" style="max-width: 360px;" alt="At the hairdresser, in Boiscommun">
 <figcaption style="text-align: center;">At the hairdresser, in Boiscommun</figcaption>
 </figure>
 
@@ -25,7 +25,7 @@ I did hear several times Arianna trying to explain in her broken French that I w
 Looks aside (I think I am always beautiful anyway), I am also profoundly outraged that nobody checked the forecasts before taking me for a haircut. It so happened that the temperatures dropped by ten degrees the day after, with not much hope for the heat to come back anytime soon. And with my 3 mm short hair, I am now too cold even inside the tent! 
 
 <figure>
-<img class="img-responsive" src=" /img/posts/zola-cold-small.jpg" alt="Zola's hair is so short that she needs her sleeping bag even inside the tent!"> 
+<img class="img-responsive" src=" /img/posts/zola-cold.jpg" alt="Zola's hair is so short that she needs her sleeping bag even inside the tent!"> 
 <figcaption>Zola's hair is so short that she needs her sleeping bag even inside the tent!</figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ Prior to this abominable event, I must admit that I have been very happy with my
 I particularly love the cargo bike: I am a very picky and pedantic dog, but I must admit that Daniel nailed this one. The cargo bay is smaller than my old doggy trailer, but big enough to allow me to move around, sit, stand and even lie down. A minor annoyance is that I have to share this space with a few rolls of toilet paper, which apparently my humans cannot spare. Of course, through riding the cargo bike I have had to learn to lean into road bends (even quite abruptly) but that has not been a big problem for me, and indeed I think my leg muscles got more toned as a consequence: it's like being on a proprioceptive board for several hours a day!
 
 <figure>  
-<img class="img-responsive" src=" /img/posts/zola-cycling1-small.jpg" alt="Zola feels super smug inside her cargo bay"> 
+<img class="img-responsive" src=" /img/posts/zola-cycling.jpg" alt="Zola feels super smug inside her cargo bay"> 
 <figcaption>Zola feels super smug inside her cargo bay</figcaption>
 </figure>
 
@@ -47,14 +47,14 @@ But let's face it: I am the real star of this trip, so it is only fair that I ge
 Seeing how comfortable and happy I have become in my cargo bike, Arianna and Daniel have also started to trust me more, and now I get to travel without the lead! There are still a few situations in which I can become agitated, for example when I see cats, and then I loose control of my feet and start tapping them in an excited dance, but I am generally very well behaved. I can jump in and out of the cargo bay on command (if accompanied by a tasty treat) and this has made it easier for me to trot alongside the bikes, which I really love!   
 
 <figure>  
-<img class="img-responsive" src=" /img/posts/zola-cycling2-small.jpg" alt="Enjoying a bit of bike-off time!"> 
+<img class="img-responsive" src=" /img/posts/zola-cycling2.jpg" alt="Enjoying a bit of bike-off time!"> 
 <figcaption>Enjoying a bit of bike-off time!</figcaption>
 </figure>
 
 The amount of time I get to walk each day really depends on the nature of the roads we use. I am not trusted enough on big roads with cars - quite rightly, as I am easily distracted by various smells and food - and so my humans try to travel on smaller roads or unpaved paths as much as possible. But regardless of whether I can walk for over an hour or for only a few minutes, this whole nomadic lifestyle experience makes me very tired! Us dogs need to sleep on average 13 hours a day, plus about 6 hours of what I call "napping", which consists in lying around awake doing nothing. But I don't rest this much!! In the cargo bike it is impossible for me too sleep... too many interesting things passing by! So I tend to relax only at lunch time and in the evenings. 
 
 <figure>  
-<img class="img-responsive" src=" /img/posts/zola-chew-small.jpg" alt="Zola relaxes with a chew after a long cycling day">
+<img class="img-responsive" src=" /img/posts/zola-chew.jpg" alt="Zola relaxes with a chew after a long cycling day">
 <figcaption>Zola relaxes with a chew after a long cycling day</figcaption>
 </figure>
 
@@ -63,7 +63,7 @@ I usually manage to stay awake just until dinner and then I immediately ask to b
 So over the weeks I have devised and refined a strategy to gain more space. From the bottom of the tent I slowly creep up during the night in between their sleeping bags; I then carefully position myself in such a way that I can push Arianna towards one side of the tent with my paws and Daniel towards the other side with my back. I thus manage to create a little rectangular space in the middle of the tent where I can fit just fine. And sometimes through this manoeuvrer I also manage to steal a bit of Daniel's sleeping bag!
 
 <figure>  
-<img class="img-responsive" src=" /img/posts/zola-tent-small.jpg" alt="In the morning, Zola wakes us up from her sleeping position in the middle of the tent">
+<img class="img-responsive" src=" /img/posts/zola-tent.jpg" alt="In the morning, Zola wakes us up from her sleeping position in the middle of the tent">
 <figcaption>In the morning, Zola wakes us up from her sleeping position in the middle of the tent</figcaption>
 </figure>
 

@@ -3,7 +3,7 @@ layout: post
 title: Building the cargo bike
 subtitle: ... with a roof 
 date: 2019-06-05 17:00:00
-image: /img/posts/cargo-small.jpg
+image: /img/posts/cargo.jpg
 caption: 'A prototype dog-tourer: light-weight, handles wonderfully, perfect sized cargo bay; we are nearly there. Zola loves it! Now on to the roof.' 
 category: trip preparations
 permalink: /building-the-cargo-bike.html

@@ -2,7 +2,7 @@
 layout: post
 title: Which tent to take?
 date: 2019-06-22 11:00:00
-image: /img/posts/tent-small.jpg
+image: /img/posts/tent.jpg
 caption: 'God I am so bored... why do I always have to make the important decisions?' 
 category: trip preparations
 permalink: /which-tent-to-take.html
@@ -23,4 +23,4 @@ Yet, I finally have a clear mind. It wasn't too hard after all, when considering
 
 So, here is my verdict: MSR Hubba Hubba NX!  
 
-<img class="img-responsive" src=" /img/posts/tent-chosen-small.jpg" alt="{{ post.title }}">
+<img class="img-responsive" src=" /img/posts/tent-chosen.jpg" alt="{{ post.title }}">

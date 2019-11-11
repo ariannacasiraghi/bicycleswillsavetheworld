@@ -2,7 +2,7 @@
 layout: post
 title: 13/07/2019 - Finally departure
 date: 2019-07-17 21:00:00
-image: /img/posts/departure-small.jpg
+image: /img/posts/departure.jpg
 caption: 'Feeling "glamorous" with so many people taking pictures of us!' 
 category: reaching the start point of the bicycle-shaped route
 permalink: /finally-departure.html
@@ -21,7 +21,7 @@ So by 6am the paper was done, we had a last decent shower, breakfasted well and 
 
 Finally we went quickly down to Orta San Giulio market square, where a journalist was waiting for us (we were late of course). From then it was a confused succession of people taking pictures of us, asking questions, making interviews, giving us t-shirts and croissants (thanks Su!), taking more pictures and even videos, asking to sign insurance documents (thanks to Sara insurance Borgomanero) and offering money (thanks to Elena, Luca and Patrizio for having come all the way from Turin and collected money for us from INRiM!). And eventually, at about 11am we were off! 
 
-<img class="img-responsive" src=" /img/posts/banner-small.jpg" alt="banner">
+<img class="img-responsive" src=" /img/posts/banner.jpg" alt="banner">
 
 After such glamorous departure it was very lucky that nobody saw (nor filmed, hopefully) the shameful moment when - after having cycled about 250 metres - my bike chain fell off. Daniel quickly fixed it and we were off again, this time for real! 
 
