@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 13/07/2019 - Finally departure
-date: 2019-07-17 21:00:00
+date: 2019-07-17 20:00:00
 image: /img/posts/departure.jpg
 caption: 'Feeling "glamorous" with so many people taking pictures of us!' 
 category: reaching the start point of the bicycle-shaped route

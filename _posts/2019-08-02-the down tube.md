@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cycling the down tube
-date: 2019-08-02 22:00:00
+date: 2019-08-02 20:00:00
 image: /img/posts/cycling-all.jpg
 caption: 'Cycling through the rural Champagne region.' 
 category: drawing the bicycle

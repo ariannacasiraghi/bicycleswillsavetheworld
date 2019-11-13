@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Zola's thoughts
-date: 2019-08-14 22:00:00
+date: 2019-08-14 20:00:00
 image: /img/posts/zola-cute.jpg
 caption: 'After one month of cycling, Zola would like to say something'
 category: drawing the bicycle
