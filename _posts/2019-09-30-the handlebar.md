@@ -42,8 +42,8 @@ Tracing the handlebar took us through a vast proportion of Normandy, and while t
 </figure>
 
 <figure>
-<img class="img-responsive center-block" src=" /img/posts/ari-cargo.jpg" alt="Arianna experiences carrying the fat dog through some peaceful Normandy countryside">
-<figcaption>Arianna experiences carrying the fat dog through some peaceful Normandy countryside</figcaption>
+<img class="img-responsive center-block" src=" /img/posts/ari-cargo.jpg" alt="I finally experience carrying the fat dog through some peaceful Normandy countryside">
+<figcaption>I finally experience carrying the fat dog through some peaceful Normandy countryside</figcaption>
 </figure>
 
 Since the original handlebar route didn't take us through many campsites, we decided to translate it north by about 15-20 km, where we had more sleeping options. But even doing so we struggled to find a camping place each night and thus we decided to try and ask for hospitality through <a class="special" href="https://www.warmshowers.org/">warmshowers</a>, a huge community of cycle-tourists that are happy to provide free support with whatever one may need (accommodation, food, and naturally warm showers). We had already attempted to use warmshowers in Switzerland, due to the high cost of some Swiss campsites, but we had little luck, as all our requests got rejected for some reason or another. So we were not too hopeful when we tried again in Normandy... But we were wrong! We asked hospitality on two occasions, with only a one-day notice, and we got accepted without any problem! 
@@ -78,8 +78,8 @@ Through the forest my knee pain became noticeable also whilst cycling and we sta
 In the meantime we found out that the Global Climate Strike, inspired by the <a class="special" href="https://www.fridaysforfuture.org">Fridays For Future international movement</a>, would take place in Paris on the 20th of September and we decided to attend. The demonstration, which started from Place de la Nation, was the biggest event of the sort that we had ever taken part in: thousands of young people, and some not so young, were marching slowly but steadily, chanting, booing, many holding those protest signs, written on cardboard, that have become an icon of the movement. It was beautiful! The enthusiasm was high and the atmosphere cheerful - one could really sense an overwhelming feeling of hope for the future. 
 
 <figure>
-<img class="img-responsive center-block" src=" /img/posts/global-strike.jpg" alt="Arianna holding her protest sign in Place de la Nation">
-<figcaption>Arianna holding her protest sign in Place de la Nation</figcaption>
+<img class="img-responsive center-block" src=" /img/posts/global-strike.jpg" alt="Holding my protest sign in Place de la Nation">
+<figcaption>Holding my protest sign in Place de la Nation</figcaption>
 </figure>
 
 These 20th - 27th September strikes, which have been mostly organised by <a class="special" href="https://350.org/">350.org</a>, have been the largest climate strikes in world history, with a global participation amounting to about 6 million people - as estimated by the Guardian. And we were very proud to have been two of those people (and one dog)! Indeed, it had been such an incredible experience that Daniel managed to forget the fact that he had been mistaken for an homeless man, earlier in the day, and even offered some scrap food (thank you to the kind lady that made this offer). Although maybe he didn't forget completely as he did go for a good wash and a full shave on the next day...      

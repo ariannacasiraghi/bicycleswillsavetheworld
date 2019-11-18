@@ -19,9 +19,12 @@ I woke up the next day at 5am to finish work. Yes, WORK! The one that supposedly
 
 So by 6am the paper was done, we had a last decent shower, breakfasted well and packed everything. I was surprised that my bike could still move with all the weight... Damn the 70L pro panniers!
 
-Finally we went quickly down to Orta San Giulio market square, where a journalist was waiting for us (we were late of course). From then it was a confused succession of people taking pictures of us, asking questions, making interviews, giving us t-shirts and croissants (thanks Su!), taking more pictures and even videos, asking to sign insurance documents (thanks to Sara insurance Borgomanero) and offering money (thanks to Elena, Luca and Patrizio for having come all the way from Turin and collected money for us from INRiM!). And eventually, at about 11am we were off! 
+Finally we went quickly down to Orta san Giulio market square, where a journalist was waiting for us (we were late of course). From then it was a confused succession of people taking pictures of us, asking questions, making interviews, giving us t-shirts and croissants (thanks Su!), taking more pictures and even videos, asking to sign insurance documents (thanks to Sara insurance Borgomanero) and offering money (thanks to Elena, Luca and Patrizio for having come all the way from Turin and collected money for us from INRiM!). And eventually, at about 11am we were off! 
 
-<img class="img-responsive" src=" /img/posts/banner.jpg" alt="banner">
+<figure>
+<img class="img-responsive" src=" /img/posts/banner.jpg" alt="The banner at our departure in Orta san Giulio market square">
+<figcaption>The banner at our departure in Orta san Giulio market square</figcaption>
+</figure>
 
 After such glamorous departure it was very lucky that nobody saw (nor filmed, hopefully) the shameful moment when - after having cycled about 250 metres - my bike chain fell off. Daniel quickly fixed it and we were off again, this time for real! 
 

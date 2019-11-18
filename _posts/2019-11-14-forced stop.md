@@ -3,7 +3,7 @@ layout: post
 title: Forced stop
 date: 2019-11-14 20:00:00
 image: /img/posts/knees.jpg
-caption: 'Arianna is feeling a bit frustrated with her knee failure...'
+caption: 'Feeling a bit frustrated with my knee failure...'
 category: drawing the bicycle
 permalink: /forced stop.html
 author: Arianna

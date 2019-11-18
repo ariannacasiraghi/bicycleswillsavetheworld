@@ -23,4 +23,7 @@ Yet, I finally have a clear mind. It wasn't too hard after all, when considering
 
 So, here is my verdict: MSR Hubba Hubba NX!  
 
-<img class="img-responsive" src=" /img/posts/tent-chosen.jpg" alt="{{ post.title }}">
+<figure>
+<img class="img-responsive" src=" /img/posts/tent-chosen.jpg" alt="Finally chosen: MSR Hubba Hubba NX!">
+<figcaption>Finally chosen: MSR Hubba Hubba NX!</figcaption>
+</figure>

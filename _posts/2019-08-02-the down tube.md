@@ -14,7 +14,10 @@ After having cycled 553 km we finally reached the starting point of our bicycle-
 
 When I initially drew the bicycle route on Google maps, I intended to set both our departure and arrival in Zurich, at the bottom of the rear wheel. It was only after consulting the Euler theorem, to try and minimise the number of bicycle sections that we would need to cover twice, that I realised it made more sense to start and end the journey at two nodal points, the crank and the top of the seat tube, respectively. This is how we ended up starting in the random village of Vy-lès-Lure and finishing (hopefully) in the equally unknown village of Compogne - basically all by chance (or poor organisation)!
 
-<img class="img-responsive" src=" /img/posts/vy-les-lure.jpg" alt="Vy-lès-Lure">
+<figure>
+<img class="img-responsive" src=" /img/posts/vy-les-lure.jpg" alt="Vy-lès-Lure! The start of our bicycle-shaped route">
+<figcaption>Vy-lès-Lure! The start of our bicycle-shaped route</figcaption>
+</figure>
 
 But let me tell you a bit about my first impressions of France. Not that I had never been to France, of course... I must have visited Paris alone at least 15 times, had some holidays on the French Riviera, cycled briefly from Calais to Paris and across the Alps region. Not to mention all the short trips, also for work and related conferences, that I took in various cities here and there. Yet I have never had a strong opinion about France - indeed I have been quite indifferent to it, perhaps due to its close proximity to Italy which made it a less appealing country to me than further and more exotic places.
 
