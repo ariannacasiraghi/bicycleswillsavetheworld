@@ -25,11 +25,12 @@ Here in Argentat we got some bad news, given that the Guinness World Record fina
 We initially got a bit disheartened by this, but finally decided to keep trying to set the record and did our best to collect all the possible evidence for it, including emails from campsites where we previously stayed at. Ultimately, we know we are not cheating, so we will have to leave it to the Guinness World Record generosity to decided whether the evidence we have is enough to get the record or not...      
 
 Thus, from Argentat onwards we started stopping random people every now and then, asking for their signature to confirm we were there on a bike, as well as taking two or three daily ridiculous pictures of us both, with the bikes, near recognisable signs and/or landmarks...   
-
+<div id="vertical_image">
 <figure>
-<img class="img-responsive center-block" src=" /img/posts/sign.jpg" style="max-width: 360px;" alt="A typical picture of us and the bikes near a sign, hoping the Guinness World Record will enjoy our smiling efforts">
+<img class="img-responsive center-block" src=" /img/posts/sign.jpg" alt="A typical picture of us and the bikes near a sign, hoping the Guinness World Record will enjoy our smiling efforts">
 <figcaption style="text-align: center;">A typical picture of us with the bikes near a sign post, hoping the Guinness World Record will enjoy our smiling efforts</figcaption>
 </figure><p></p>
+</div>
 
 In Brive-la-Gaillarde Zola felt deeply honoured to discover a bus stop named after her, and insisted to take a picture of it. We tried to tell her that there are many Zolas out there much more famous than her but she refused to listen...  
 
@@ -50,10 +51,12 @@ We then crossed briefly the north of the Dordogne region, mainly passing through
 <figcaption>A messy lunch break with a very tired Daniel</figcaption>
 </figure><p></p>
 
+<div id="vertical_image">
 <figure>
-<img class="img-responsive center-block" src=" /img/posts/perigord-limousin.jpg" style="max-width: 360px;" alt="Cycling through the Périgord-Limousin Natural Regional Park was a pleasure for Zola!">
+<img class="img-responsive center-block" src=" /img/posts/perigord-limousin.jpg" alt="Cycling through the Périgord-Limousin Natural Regional Park was a pleasure for Zola!">
 <figcaption style="text-align: center;">Cycling through the Périgord-Limousin Natural Regional Park was a pleasure for Zola!</figcaption>
 </figure><p></p>
+</div>
 
 In Dordogne we got the first puncture of the trip, on Daniel's small front wheel, and we started having problems with his rear tyre too: the tyre side walls ruptured for some reason, giving rise to a bulge in the tyre and a bumpy ride. We didn't expect this to happen, given the good reputation that Schwalbe marathon tyres hold in the cycle-touring community, and the company did at least refund us immediately upon hearing of our problem. But still, this was a real pain for us, as Daniel had to deflate his tyre considerably to keep cycling. Luckily we bumped into a small cycling shop in Saint-Pardoux-la-Rivière, literally in the middle of nowhere, where we did manage to replace the tyre with something not really very good, but suitable enough considering the circumstance... We were happy.    
 

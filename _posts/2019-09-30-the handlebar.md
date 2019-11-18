@@ -22,10 +22,12 @@ The first time I drew the bicycle on Google maps I purposely traced the head tub
 
 In Paris we had two pleasant and interesting encounters. One was with an Italian couple from Mantova, Cristina and Mauro, who offered us dinner in their campervan and spoilt us all, including Zola, with lots of food and a wonderful sbrisolona tart (which I almost entirely ate). The other one was with Patrizia, who works at the prestigious International Bureau of Weights and Measures (where the famous prototype kilogram is still kept) and was very kind to let us stay and feed us in her luxurious flat near the Bois de Boulogne.  
 
+<div id="vertical_image">
 <figure>
-<img class="img-responsive center-block" src=" /img/posts/patrizia.jpg" style="max-width: 360px;" alt="Even Zola looks more elegant in Patrizia's stylish flat">
+<img class="img-responsive center-block" src=" /img/posts/patrizia.jpg" alt="Even Zola looks more elegant in Patrizia's stylish flat">
 <figcaption style="text-align: center;">Even Zola looks more elegant in Patrizia's stylish flat</figcaption>
 </figure><p></p>
+</div>
 
 Exiting Paris was not less troublesome than entering it, and we averaged about 10 km/h. At some point I thought I lost my phone, so we even had to go back towards Paris for a few kilometres, hoping to find it along the road, but luckily we realised it was just deeply buried into the mess of my handlebar bag. Loosing my phone would have been quite a tragedy!
 
@@ -63,10 +65,12 @@ It was during this rest/writing day that I started to notice something funny was
 
 The next day we finished the handlebar, cycling across the forest of Rambouillet. Beautiful paths in the middle of rich vegetation, which reminded us a bit of Finnish forests. Zola loved it, as she could run off lead for a long time, but it was tough going for us - especially when we got stuck in sand and had to push the bikes for a couple of kilometres!
 
+<div id="vertical_image">
 <figure>
-<img class="img-responsive center-block" src=" /img/posts/rambouillet.jpg" style="max-width: 360px;" alt="A narrow footpath in the forest of Rambouillet">
+<img class="img-responsive center-block" src=" /img/posts/rambouillet.jpg" alt="A narrow footpath in the forest of Rambouillet">
 <figcaption style="text-align: center;">A narrow footpath in the forest of Rambouillet</figcaption>
 </figure><p></p>
+</div>
 
 <figure>
 <img class="img-responsive center-block" src=" /img/posts/rambouillet-sand.jpg" alt="Stuck in the sand in the forest of Rambouillet! Zola refused to look back at the camera">
@@ -91,10 +95,12 @@ After the strike I got in contact with my Romanian friend Leo and, upon hearing 
 <figcaption>With my university friend Leo in his flat in Cergy</figcaption>
 </figure><p></p>
 
+<div id="vertical_image">
 <figure>
-<img class="img-responsive center-block" src=" /img/posts/music.jpg" style="max-width: 360px;" alt="A desperate attempt from Daniel to try and to fill a huge gap in his knowledge of classical music in Leo's flat">
+<img class="img-responsive center-block" src=" /img/posts/music.jpg"alt="A desperate attempt from Daniel to try and to fill a huge gap in his knowledge of classical music in Leo's flat">
 <figcaption style="text-align: center;">A desperate attempt from Daniel to try and fill a huge gap in his knowledge of classical music in Leo's flat</figcaption>
 </figure><p></p>
+</div>
 
 Leo was great as usual and took good care of us. He arranged for me to meet his doctor and start physiotherapy in the nearby town of Pontoise. As we feared, my knee pain was a typical sign of a <a class="special" href="https://en.wikipedia.org/wiki/Patellofemoral_pain_syndrome">patellofemoral pain syndrome</a>, very common among runners and cyclists, which unfortunately requires some time and dedication to recover. We thus decided to suspend our trip, take a TGV and go back home in Italy. It was a tough choice but we agreed it was the most sensible one. We arrived back home yesterday, but the bikes have remained in Leo's flat in Cergy, because from there we will resume our trip whenever my knees will be up for it. And since every cloud has a silver lining, thanks to my knees failure I got back in touch with Leo... not all is bad! 
 

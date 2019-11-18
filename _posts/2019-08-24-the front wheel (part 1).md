@@ -26,10 +26,12 @@ So we left the flats of the Loiret department with a bit of fame before entering
 
 Our route took us through some scenic wine villages along the river Serein: Chablis (which apparently gives the name to a very famous French wine), Chemilly, and medieval Noyers - which was really beautiful with its narrow cobbled lanes and timber houses.   
 
+<div id="vertical_image">
 <figure>
-<img class="img-responsive center-block" src=" /img/posts/noyers.jpg" style="max-width: 360px;" alt="Zola seems puzzled as we take a picture of her under an arcade in Noyers... Perhaps she is ashamed of her long poodle-like ears!">
+<img class="img-responsive center-block" src=" /img/posts/noyers.jpg"alt="Zola seems puzzled as we take a picture of her under an arcade in Noyers... Perhaps she is ashamed of her long poodle-like ears!">
 <figcaption style="text-align: center;">Zola seems shocked as we take a picture of her under an arcade in Noyers... Perhaps she is ashamed of her long poodle-like ears!</figcaption>
 </figure><p></p>
+</div>
 
 In Toutry, further along the river Serein, we were just about to start cooking when we made a tragic discovery: we couldn't find a piece of the stove. We realised that I had left it on some grass the evening before, a whole 80 km back along the route. With this, the number of items already lost during the trip increased to an appalling 6: two Zola's leads (yes, two!), one fleece (mine), a camping adaptor (my fault again), and Zola's thick coat (which luckily was brought back to us by a kind man that chased us with his car). But the stove bit was by far the worst, especially for Daniel!
 
@@ -37,10 +39,12 @@ Yes, because Daniel (and I suspect most British people) does not understand the 
 
 After these mild difficulties, we were thrilled to meet my aunt and uncle, and their dog, who came all the way from Milan to meet us in Saint-Jean-de-Trézy and spend a couple of days with us. They did the journey by car, of course... but then the moment that someone in my family will stop using their car may well coincide with the moment hell freezes over and a squadron of low-flying pigs crosses the horizon - preferably at the same time.     
 
+<div id="vertical_image">
 <figure>
-<img class="img-responsive center-block" src=" /img/posts/zola-beba.jpg" style="max-width: 360px;" alt="After a lot of growling and eloquent teeth baring, Zola finally accepts to share the cargo bay with Beba, but only for the picture!">
+<img class="img-responsive center-block" src=" /img/posts/zola-beba.jpg" alt="After a lot of growling and eloquent teeth baring, Zola finally accepts to share the cargo bay with Beba, but only for the picture!">
 <figcaption style="text-align: center;">After a lot of growling and eloquent teeth baring, Zola finally accepts to share her cargo bay with Beba, but only for the picture!</figcaption>
 </figure><p></p>
+</div>
 
 With my aunt and uncle we visited Chalon-sur-Saône and Cluny, and we stayed for one night in one of the most ridiculously posh places we had ever been (they paid...). It was quite a dramatic change from our basic camps to having intelligent toilets that can do a bidet for you once you are done with your business. We also estimated, to Zola's utmost delight, that the bed alone was three times the floor area of our tent. After such a good night sleep even Daniel's neck was entirely fixed!        
 
