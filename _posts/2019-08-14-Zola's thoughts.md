@@ -15,11 +15,12 @@ It may be the wrong time for me to share my thoughts, as I am slightly annoyed a
 
 You want to know why I am pissed off? Well, if you read carefully the <a class="special" href="/the fork.html">previous post</a> you may already have guessed... YES, I have been trimmed a few days ago! By a French lady!! And what is more, she was so diabolically happy about it!!!
 
+<div id="vertical_image">
 <figure>
-<img class="img-responsive center-block" src=" /img/posts/zola-trim.jpg" style="max-width: 360px;" alt="At the hairdresser, in Boiscommun">
+<img class="img-responsive center-block" src=" /img/posts/zola-trim.jpg" alt="At the hairdresser, in Boiscommun">
 <figcaption style="text-align: center;">At the hairdresser, in Boiscommun</figcaption>
 </figure><p></p>
-
+</div>
 I did hear several times Arianna trying to explain in her broken French that I was a Lagotto, and not a poodle... but there must be a deep-seated desire for any French hairdresser to turn a dignified curly-haired dog into a poodle-looking thing. And so there I was, only an hour later, trotting away with some stupidly fluffy long ears. Thankfully nobody knows me around here...
 
 Looks aside (I think I am always beautiful anyway), I am also profoundly outraged that nobody checked the forecasts before taking me for a haircut. It so happened that the temperatures dropped by ten degrees the day after, with not much hope for the heat to come back anytime soon. And with my 3 mm short hair, I am now too cold even inside the tent! 
