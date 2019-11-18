@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Cycling in the heatwave through Franche-Comté
+title: Cycling in the heatwave
 date: 2019-07-27 20:00:00
 image: /img/posts/heatwave.jpg
 caption: 'So, so hot...' 
 category: reaching the start point of the bicycle-shaped route
-permalink: /cycling-in-the-heatwave-through-Franche-Comté.html
+permalink: /cycling-in-the-heatwave.html
 author: Arianna
 sitemap:
   lastmod: 2019-07-27
