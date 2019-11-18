@@ -28,7 +28,7 @@ Our route took us through some scenic wine villages along the river Serein: Chab
 
 <div id="vertical_image">
 <figure>
-<img class="img-responsive center-block" src=" /img/posts/noyers.jpg"alt="Zola seems puzzled as we take a picture of her under an arcade in Noyers... Perhaps she is ashamed of her long poodle-like ears!">
+<img class="img-responsive center-block" src=" /img/posts/noyers.jpg" alt="Zola seems puzzled as we take a picture of her under an arcade in Noyers... Perhaps she is ashamed of her long poodle-like ears!">
 <figcaption style="text-align: center;">Zola seems shocked as we take a picture of her under an arcade in Noyers... Perhaps she is ashamed of her long poodle-like ears!</figcaption>
 </figure><p></p>
 </div>
