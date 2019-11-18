@@ -21,7 +21,7 @@ In the past few weeks I went through lots of these painful kneecap manipulations
 
 <div id="vertical_image">
 <figure>
-<img class="img-responsive center-block" src=" /img/posts/fisio.jpg"alt="Even if I was briefly smiling in the picture, I guarantee that I was suffering hellish pains!">
+<img class="img-responsive center-block" src=" /img/posts/fisio.jpg" alt="Even if I was briefly smiling in the picture, I guarantee that I was suffering hellish pains!">
 <figcaption style="text-align: center;">Even if I was briefly smiling in the picture, I guarantee that I was suffering hellish pains!</figcaption>
 </figure><p></p>
 </div>
@@ -71,7 +71,7 @@ Given that my knees seem to be fixed and my physiotherapist thinks we can resume
 
 <div id="vertical_image">
 <figure>
-<img class="img-responsive center-block" src=" /img/posts/finland.jpg"alt="This is me cycling to work in Finland in -23 °C, back in January 2012">
+<img class="img-responsive center-block" src=" /img/posts/finland.jpg" alt="This is me cycling to work in Finland in -23 °C, back in January 2012">
 <figcaption style="text-align: center;">This is me cycling to work in Finland in -23 °C, back in January 2012</figcaption>
 </figure><p></p>
 </div>
