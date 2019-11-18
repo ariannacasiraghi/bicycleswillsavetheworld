@@ -97,7 +97,7 @@ After the strike I got in contact with my Romanian friend Leo and, upon hearing 
 
 <div id="vertical_image">
 <figure>
-<img class="img-responsive center-block" src=" /img/posts/music.jpg"alt="A desperate attempt from Daniel to try and to fill a huge gap in his knowledge of classical music in Leo's flat">
+<img class="img-responsive center-block" src=" /img/posts/music.jpg" alt="A desperate attempt from Daniel to try and to fill a huge gap in his knowledge of classical music in Leo's flat">
 <figcaption style="text-align: center;">A desperate attempt from Daniel to try and fill a huge gap in his knowledge of classical music in Leo's flat</figcaption>
 </figure><p></p>
 </div>
