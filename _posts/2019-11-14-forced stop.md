@@ -4,7 +4,7 @@ title: Forced stop
 date: 2019-11-14 20:00:00
 image: /img/posts/knees.jpg
 caption: 'Feeling a bit frustrated with my knee failure...'
-category: drawing the bicycle
+category: drawing the bicycle 
 permalink: /forced stop.html
 author: Arianna
 sitemap:
@@ -76,7 +76,7 @@ Given that my knees seem to be fixed and my physiotherapist thinks we can resume
 </figure><p></p>
 </div>
 
-Indeed, I am not so much scared by the cold, nor the darkness... It's true that it will be demanding for all of us but I know that we will be able to manage, perhaps relying more on platforms like warmshowers or couchsurfing. What worries me most now are my knees, because I am not sure how much I can trust them, and I really hope that they will not let me down again soon! Unfortunatley this long break also means that we will not be able to claim the Guinnes World Record, even if we will manage to complete the drawing, but this would have really just been a cherry on top of the cake... Now we will focus on the cake only!      
+Indeed, I am not so much scared by the cold, nor the darkness... It's true that it will be demanding for all of us but I know that we will be able to manage, perhaps relying more on platforms like warmshowers or couchsurfing. What worries me most now are my knees, because I am not sure how much I can trust them, and I really hope that they will not let me down again soon! Unfortunatley this long break also means that we will not be able to claim the Guinness World Record, even if we will manage to complete the drawing, but this would have really just been a cherry on top of the cake... Now we will focus on the cake only!      
 
 
 
