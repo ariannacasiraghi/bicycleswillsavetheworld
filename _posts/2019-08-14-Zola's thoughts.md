@@ -18,7 +18,7 @@ You want to know why I am pissed off? Well, if you read carefully the <a class="
 <figure>
 <img class="img-responsive center-block" src=" /img/posts/zola-trim.jpg" style="max-width: 360px;" alt="At the hairdresser, in Boiscommun">
 <figcaption style="text-align: center;">At the hairdresser, in Boiscommun</figcaption>
-</figure>
+</figure><p></p>
 
 I did hear several times Arianna trying to explain in her broken French that I was a Lagotto, and not a poodle... but there must be a deep-seated desire for any French hairdresser to turn a dignified curly-haired dog into a poodle-looking thing. And so there I was, only an hour later, trotting away with some stupidly fluffy long ears. Thankfully nobody knows me around here...
 
@@ -27,7 +27,7 @@ Looks aside (I think I am always beautiful anyway), I am also profoundly outrage
 <figure>
 <img class="img-responsive" src=" /img/posts/zola-cold.jpg" alt="My hair is so short that I need my sleeping bag even inside the tent!"> 
 <figcaption>My hair is so short that I need my sleeping bag even inside the tent!</figcaption>
-</figure>
+</figure><p></p>
 
 Prior to this abominable event, I must admit that I have been very happy with my new lifestyle. I had never been on the road for so long, and I knew that Arianna and Daniel were slightly concerned that I could become desperate for a more sedentary life, but the truth is that I was born to travel! So, I adapted without a problem to my new routine and, in fact, I grew even more fond of it.
 
@@ -36,7 +36,7 @@ I particularly love the cargo bike: I am a very picky and pedantic dog, but I mu
 <figure>  
 <img class="img-responsive" src=" /img/posts/zola-cycling.jpg" alt="Feeling super smug inside my cargo bay!"> 
 <figcaption>Feeling super smug inside my cargo bay!</figcaption>
-</figure>
+</figure><p></p>
 
 But the best thing about the cargo bike is, by far, the fact that I can be at the front and see everything comfortably, without needing to stretch out - which was my problem with the trailer. With this in mind I was outraged when I understood that Daniel was going to be my chauffeur, and not Arianna, whom instead used to be carrying my trailer. In point of fact, my humans have always cycle-toured in a regimented pattern: Arianna first, followed by Daniel. Always. Which doesn't make sense as Daniel has always been navigating... but this is another story. So then, what would have been the advantage, in terms of my viewing pleasures, if rather than been carried in the trailer by Arianna, I got instead to travel at the front of the cargo bike with Daniel? Absolutely NOTHING.
 
@@ -49,14 +49,14 @@ Seeing how comfortable and happy I have become in my cargo bike, Arianna and Dan
 <figure>  
 <img class="img-responsive" src=" /img/posts/zola-cycling2.jpg" alt="Enjoying a bit of bike-off time!"> 
 <figcaption>Enjoying a bit of bike-off time!</figcaption>
-</figure>
+</figure><p></p>
 
 The amount of time I get to walk each day really depends on the nature of the roads we use. I am not trusted enough on big roads with cars - quite rightly, as I am easily distracted by various smells and food - and so my humans try to travel on smaller roads or unpaved paths as much as possible. But regardless of whether I can walk for over an hour or for only a few minutes, this whole nomadic lifestyle experience makes me very tired! Us dogs need to sleep on average 13 hours a day, plus about 6 hours of what I call "napping", which consists in lying around awake doing nothing. But I don't rest this much!! In the cargo bike it is impossible for me too sleep... too many interesting things passing by! So I tend to relax only at lunch time and in the evenings. 
 
 <figure>  
 <img class="img-responsive" src=" /img/posts/zola-chew.jpg" alt="Relaxing with a chew after a long cycling day">
 <figcaption>Relaxing with a chew after a long cycling day</figcaption>
-</figure>
+</figure><p></p>
 
 I usually manage to stay awake just until dinner and then I immediately ask to be let inside the tent; I even refuse to do the last pee! While they finish with their day chores I can finally enjoy some alone sleeping time, with unmatched freedom to place and expand myself in whichever direction I like... But when they both get in, all of the sudden the tent becomes too crammed and I get segregated at the bottom of their feet, no matter how I voice my disapproval (I growl a lot). And yet <a class="special" href="/which-tent-to-take.html">I did state that the tent was going to be too small</a> for the three of us!  
 
@@ -65,7 +65,7 @@ So over the weeks I have devised and refined a strategy to gain more space. From
 <figure>  
 <img class="img-responsive" src=" /img/posts/zola-tent.jpg" alt="This is me in the morning, waking my humans up from my sleeping position in the middle of the tent">
 <figcaption>This is me in the morning, waking my humans up from my sleeping position in the middle of the tent</figcaption>
-</figure>
+</figure><p></p>
 
 Regarding the final important aspect of the trip, which is food, I have to say that my humans are exceeding my expectations. I am fed loads, two or even three times a day, and I feel quite full. Sure enough, I have stopped begging for food so much and I jump over street food that I sniff out with much less enthusiasm. But I have to be careful, as I heard the other day that Daniel noticed these changes and he suggested to take me somewhere to be weighed to see if I became fat. I even heard the word "vet" being enunciated... Please help!! I am so worried! I am sure I put on weight and I don't want to go on a diet!    
 

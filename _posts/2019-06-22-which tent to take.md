@@ -26,4 +26,4 @@ So, here is my verdict: MSR Hubba Hubba NX!
 <figure>
 <img class="img-responsive" src=" /img/posts/tent-chosen.jpg" alt="Finally chosen: MSR Hubba Hubba NX!">
 <figcaption>Finally chosen: MSR Hubba Hubba NX!</figcaption>
-</figure>
+</figure><p></p>

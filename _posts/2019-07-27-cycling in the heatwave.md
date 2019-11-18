@@ -16,7 +16,7 @@ I do not sweat much. In fact, I typically sweat very little even during sport ac
 <figure>
 <img class="img-responsive" src=" /img/posts/zola-swamp.jpg" alt="Zola swimming in a lake to cool down">
 <figcaption>Zola swimming in a lake to cool down</figcaption>
-</figure>
+</figure><p></p>
 
 Given the heat, the contrast with passing ski slopes at a modest 1000 m of altitude couldn't strike me more and made me wonder whether they could actually get any skiing going in winter in this resort near Jougne (on the Swiss-French border). The owner of the campsite where we stayed that evening, while harshly commenting on the French government inaction towards climate breakdown, confirmed that skiing in Jougne was a bit temperamental these days. At least we were pleased to hear that some people are aware of how bad the situation is.
 
@@ -30,7 +30,7 @@ Scientists are trying to convey the message of a fast warming world to the wides
 
 <figure>
 <img class="img-responsive" src=" /img/posts/stripes.jpg" alt="Temperature stripes for Italy"> <figcaption>Temperature stripes for Italy</figcaption>  
-</figure>
+</figure><p></p>
 
 Here, each stripe represents the temperature in Italy averaged over a year. For simplicity, there are neither numbers nor scales, as the only information that one needs to know is that blue means cooler than red. This is an example of what everyone needs to see and what media and press should frequently report through their channels in order to create awareness of climate change among people. In fact, simply referring to the heatwaves as "climate emergencies" may already be something that we all should do - me included.      
 

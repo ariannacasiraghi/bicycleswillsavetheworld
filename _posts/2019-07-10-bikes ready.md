@@ -15,14 +15,14 @@ After months of design work, brazing, prototypes, trials, refinements and more b
 <figure>
 <img class="img-responsive" src=" /img/posts/cargo2.jpg" alt="My touring cargo bike">
 <figcaption>My touring cargo bike</figcaption>
-</figure>
+</figure><p></p>
 
 The more standard touring bike fits Arianna perfectly (of course... it’s custom made...) and has a wonderful balance of being easy and fun to ride both loaded and unloaded. The paint, done by CGM Decora from Orta San Giulio, gives a lovely bright and hard wearing finish. 
 
 <figure>
 <img class="img-responsive" src=" /img/posts/tourer.jpg" alt="Arianna's touring bicycle">
 <figcaption>Arianna's touring bicycle</figcaption>
-</figure>
+</figure><p></p>
 
 Now we just have to wait for the last few items to arrive, put racks on, pack, throw away a few things, repack, get frustrated at the small size of the panniers, throw yet more stuff away, repack, wash the dog one last time and go! 
 

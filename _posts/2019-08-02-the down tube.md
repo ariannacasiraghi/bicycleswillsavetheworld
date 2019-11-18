@@ -17,7 +17,7 @@ When I initially drew the bicycle route on Google maps, I intended to set both o
 <figure>
 <img class="img-responsive" src=" /img/posts/vy-les-lure.jpg" alt="Vy-lès-Lure! The start of our bicycle-shaped route">
 <figcaption>Vy-lès-Lure! The start of our bicycle-shaped route</figcaption>
-</figure>
+</figure><p></p>
 
 But let me tell you a bit about my first impressions of France. Not that I had never been to France, of course... I must have visited Paris alone at least 15 times, had some holidays on the French Riviera, cycled briefly from Calais to Paris and across the Alps region. Not to mention all the short trips, also for work and related conferences, that I took in various cities here and there. Yet I have never had a strong opinion about France - indeed I have been quite indifferent to it, perhaps due to its close proximity to Italy which made it a less appealing country to me than further and more exotic places.
 
@@ -26,24 +26,24 @@ I have an opinion now, however: France is wonderful! Or at least it has been so 
 <figure>
 <img class="img-responsive" src=" /img/posts/sunflowers.jpg" alt="Sunflower field in Bourgogne">
 <figcaption>Sunflower field in Bourgogne</figcaption>
-</figure>
+</figure><p></p>
 
 <figure>
 <img class="img-responsive" src=" /img/posts/onions.jpg" alt="Onion(?) field in Bourgogne">
 <figcaption>Onion(?) field in Bourgogne</figcaption>
-</figure>
+</figure><p></p>
 
 The villages themselves often consisted in nothing more than a bundle of stone cottages with colorful shutters (sometimes matching the color of the surrounding flowers), a few equally charming barns with beautiful wooden portals, a town hall and a little church - respectively located in "rue de la mairie" and "rue de l'eglise". Not even the ubiquitous boulangerie would spoil the sleeping beauty of some of these hamlets, where life literally seems to have come to an halt.  
 
 <figure>
 <img class="img-responsive" src=" /img/posts/cottage.jpg" alt="A typical cottage in rural Champagne">  
 <figcaption>A typical cottage in rural Champagne</figcaption>
-</figure>
+</figure><p></p>
 
 <figure>
 <img class="img-responsive" src=" /img/posts/barn.jpg" alt="A wonderful barn in rural Champagne">
 <figcaption>A wonderful barn in rural Champagne</figcaption>
-</figure>
+</figure><p></p>
 
 The bucolic tranquility of the places we passed was only broken for a couple of days when, completely by chance once more, we found ourselves along the Champagne route during the "Champagne en fête" week-end. Thankfully Champagne is not amongst our favourite drinks, otherwise we would have surely ended up drawing lots of drunken wiggles around our "straight" down tube route. The amount of cars from all over Europe, queuing up to visit the various cellars, was just crazy, especially near the little town of Bar-sur-Seine. We felt smug overtaking them one by one in our bikes! Daniel enjoyed particularly the frequent hierarchical sculptures we met along the way, typically huge outlines of Champagne bottles made of Champagne bottles (hopefully empty), or 3D shapes of giant corks made of... little corks! After years spent working on fractal and hierarchical structures, he could not help but love this stuff! (sad bastard)
 
@@ -54,7 +54,7 @@ And shall we talk about the French hospitality? Again, we were impressed! On sev
 <figure>
 <img class="img-responsive" src=" /img/posts/front-of-house.jpg" alt="While posing for this picture, we got invited in the house by its owners for an ice cream"> 
 <figcaption>While posing for this picture, we got invited in the house by its owners for an ice cream</figcaption>
-</figure>
+</figure><p></p>
 
 One last thing to mention: thanks to social media and their environmental campaigning, we discovered a few days ago the concept of <a class="special" href="https://overshootday.org">"Earth overshoot day"</a>, which this year occurred on the 29th of July. The Earth overshoot day is calculated each year by the <a class="special" href="https://footprintnetwork.org">Global Footprint Network</a> and represents the day of the year on which global resource consumption exceeds the Earth's capacity to regenerate those resources for that year. In other words, the Earth overshoot day represents the day in which humanity enters an ecological deficit with the Earth. Similarly, it also indicates the day beyond which global CO<sub>2</sub> emissions exceed the Earth capacity of CO<sub>2</sub> sequestration for that year, leading to rising global temperatures and all the other issues related with climate change. The two concepts are indeed intimately related: as average global temperature increases, the Earth overshoot day occurs earlier year after year. 
 

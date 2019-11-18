@@ -24,7 +24,7 @@ Finally we went quickly down to Orta san Giulio market square, where a journalis
 <figure>
 <img class="img-responsive" src=" /img/posts/banner.jpg" alt="The banner at our departure in Orta san Giulio market square">
 <figcaption>The banner at our departure in Orta san Giulio market square</figcaption>
-</figure>
+</figure><p></p>
 
 After such glamorous departure it was very lucky that nobody saw (nor filmed, hopefully) the shameful moment when - after having cycled about 250 metres - my bike chain fell off. Daniel quickly fixed it and we were off again, this time for real! 
 

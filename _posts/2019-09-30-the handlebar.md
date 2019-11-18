@@ -18,14 +18,14 @@ The first time I drew the bicycle on Google maps I purposely traced the head tub
 <figure>
 <img class="img-responsive center-block" src=" /img/posts/eiffel.jpg" alt="A necessary classic, but Zola looks unimpressed by how long it took to get this shot">
 <figcaption>A necessary classic, but Zola looks unimpressed by how long it took to get this shot</figcaption>
-</figure> 
+</figure><p></p> 
 
 In Paris we had two pleasant and interesting encounters. One was with an Italian couple from Mantova, Cristina and Mauro, who offered us dinner in their campervan and spoilt us all, including Zola, with lots of food and a wonderful sbrisolona tart (which I almost entirely ate). The other one was with Patrizia, who works at the prestigious International Bureau of Weights and Measures (where the famous prototype kilogram is still kept) and was very kind to let us stay and feed us in her luxurious flat near the Bois de Boulogne.  
 
 <figure>
 <img class="img-responsive center-block" src=" /img/posts/patrizia.jpg" style="max-width: 360px;" alt="Even Zola looks more elegant in Patrizia's stylish flat">
 <figcaption style="text-align: center;">Even Zola looks more elegant in Patrizia's stylish flat</figcaption>
-</figure>
+</figure><p></p>
 
 Exiting Paris was not less troublesome than entering it, and we averaged about 10 km/h. At some point I thought I lost my phone, so we even had to go back towards Paris for a few kilometres, hoping to find it along the road, but luckily we realised it was just deeply buried into the mess of my handlebar bag. Loosing my phone would have been quite a tragedy!
 
@@ -34,17 +34,17 @@ Tracing the handlebar took us through a vast proportion of Normandy, and while t
 <figure>
 <img class="img-responsive center-block" src=" /img/posts/gerberoy2.jpg" alt="Zola sniffs, probably some dog pee, along a narrow cobbled lane in Gerberoy">
 <figcaption>Zola sniffs, probably some dog pee, along a narrow cobbled lane in Gerberoy</figcaption>
-</figure>
+</figure><p></p>
 
 <figure>
 <img class="img-responsive center-block" src=" /img/posts/lyons.jpg" alt="The covered market in Lyons-la-Forêt">
 <figcaption>The covered market in Lyons-la-Forêt</figcaption>
-</figure>
+</figure><p></p>
 
 <figure>
 <img class="img-responsive center-block" src=" /img/posts/ari-cargo.jpg" alt="I finally experience carrying the fat dog through some peaceful Normandy countryside">
 <figcaption>I finally experience carrying the fat dog through some peaceful Normandy countryside</figcaption>
-</figure>
+</figure><p></p>
 
 Since the original handlebar route didn't take us through many campsites, we decided to translate it north by about 15-20 km, where we had more sleeping options. But even doing so we struggled to find a camping place each night and thus we decided to try and ask for hospitality through <a class="special" href="https://www.warmshowers.org/">warmshowers</a>, a huge community of cycle-tourists that are happy to provide free support with whatever one may need (accommodation, food, and naturally warm showers). We had already attempted to use warmshowers in Switzerland, due to the high cost of some Swiss campsites, but we had little luck, as all our requests got rejected for some reason or another. So we were not too hopeful when we tried again in Normandy... But we were wrong! We asked hospitality on two occasions, with only a one-day notice, and we got accepted without any problem! 
 
@@ -55,7 +55,7 @@ Our second warmshower stay, a few days later, was no less pleasant. This time we
 <figure>
 <img class="img-responsive center-block" src=" /img/posts/philippe-sandrine.jpg" alt="Philippe, Sandrine and Etan - such a pleasure to meet them!">
 <figcaption>Philippe, Sandrine and Etan - such a pleasure to meet them!</figcaption>
-</figure>
+</figure><p></p>
 
 Towards the end of the handlebar we found a cheap municipal campsite that featured a little indoor room, equipped with a table and two chairs near an electric plug - the perfect spot for us to get some writing done! We decided to stay there for two days, in order to renew our efforts to publicise our trip and, in my case, to send some work-related emails again (I wonder how long it will take for my research job to stop hunting me). After securing some initial interest from a BBC journalist, of which we were absolutely thrilled, we eventually got nowhere... Frustrating, but we will keep trying!
 
@@ -66,12 +66,12 @@ The next day we finished the handlebar, cycling across the forest of Rambouillet
 <figure>
 <img class="img-responsive center-block" src=" /img/posts/rambouillet.jpg" style="max-width: 360px;" alt="A narrow footpath in the forest of Rambouillet">
 <figcaption style="text-align: center;">A narrow footpath in the forest of Rambouillet</figcaption>
-</figure>
+</figure><p></p>
 
 <figure>
 <img class="img-responsive center-block" src=" /img/posts/rambouillet-sand.jpg" alt="Stuck in the sand in the forest of Rambouillet! Zola refused to look back at the camera">
 <figcaption>Stuck in the sand in the forest of Rambouillet! Zola refused to look back at the camera</figcaption>
-</figure>
+</figure><p></p>
 
 Through the forest my knee pain became noticeable also whilst cycling and we started to get worried. We continued anyhow towards Auvers-sur-Oise (famous for its association with van Gogh) and we resolved to stay there for a few days, in a campsite, to evaluate how to proceed. Furthermore, Daniel's grandmother had passed away a few weeks ago and this stop near Paris gave Daniel the perfect opportunity to catch a Eurostar and attend the funeral in Halifax (UK). It was a few miserable days for both of us...     
 
@@ -80,7 +80,7 @@ In the meantime we found out that the Global Climate Strike, inspired by the <a 
 <figure>
 <img class="img-responsive center-block" src=" /img/posts/global-strike.jpg" alt="Holding my protest sign in Place de la Nation">
 <figcaption>Holding my protest sign in Place de la Nation</figcaption>
-</figure>
+</figure><p></p>
 
 These 20th - 27th September strikes, which have been mostly organised by <a class="special" href="https://350.org/">350.org</a>, have been the largest climate strikes in world history, with a global participation amounting to about 6 million people - as estimated by the Guardian. And we were very proud to have been two of those people (and one dog)! Indeed, it had been such an incredible experience that Daniel managed to forget the fact that he had been mistaken for an homeless man, earlier in the day, and even offered some scrap food (thank you to the kind lady that made this offer). Although maybe he didn't forget completely as he did go for a good wash and a full shave on the next day...      
 
@@ -89,21 +89,21 @@ After the strike I got in contact with my Romanian friend Leo and, upon hearing 
 <figure>
 <img class="img-responsive center-block" src=" /img/posts/leo.jpg" alt="With my university friend Leo in his flat in Cergy">
 <figcaption>With my university friend Leo in his flat in Cergy</figcaption>
-</figure>
+</figure><p></p>
 
 <figure>
 <img class="img-responsive center-block" src=" /img/posts/music.jpg" style="max-width: 360px;" alt="A desperate attempt from Daniel to try and to fill a huge gap in his knowledge of classical music in Leo's flat">
 <figcaption style="text-align: center;">A desperate attempt from Daniel to try and fill a huge gap in his knowledge of classical music in Leo's flat</figcaption>
-</figure>
+</figure><p></p>
 
 Leo was great as usual and took good care of us. He arranged for me to meet his doctor and start physiotherapy in the nearby town of Pontoise. As we feared, my knee pain was a typical sign of a <a class="special" href="https://en.wikipedia.org/wiki/Patellofemoral_pain_syndrome">patellofemoral pain syndrome</a>, very common among runners and cyclists, which unfortunately requires some time and dedication to recover. We thus decided to suspend our trip, take a TGV and go back home in Italy. It was a tough choice but we agreed it was the most sensible one. We arrived back home yesterday, but the bikes have remained in Leo's flat in Cergy, because from there we will resume our trip whenever my knees will be up for it. And since every cloud has a silver lining, thanks to my knees failure I got back in touch with Leo... not all is bad! 
 
 <figure>
 <img class="img-responsive center-block" src=" /img/posts/leo-all.jpg" alt="Our last night in Paris with Leo, before taking the TGV back home">
 <figcaption>Our last night in Paris with Leo, before taking the TGV back home</figcaption>
-</figure>
+</figure><p></p>
 
 <figure>
 <img class="img-responsive center-block" src=" /img/posts/bikes-leo.jpg" alt="The bikes will rest on Leo's balcony until when we will be back">
 <figcaption>The bikes will rest on Leo's balcony until when we will be back</figcaption>
-</figure>
+</figure><p></p>
