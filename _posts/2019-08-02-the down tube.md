@@ -29,8 +29,8 @@ I have an opinion now, however: France is wonderful! Or at least it has been so 
 </figure>
 
 <figure>
-<img class="img-responsive" src=" /img/posts/onions.jpg" alt="Onion (?) field in Bourgogne">
-<figcaption>Onion (?) field in Bourgogne</figcaption>
+<img class="img-responsive" src=" /img/posts/onions.jpg" alt="Onion(?) field in Bourgogne">
+<figcaption>Onion(?) field in Bourgogne</figcaption>
 </figure>
 
 The villages themselves often consisted in nothing more than a bundle of stone cottages with colorful shutters (sometimes matching the color of the surrounding flowers), a few equally charming barns with beautiful wooden portals, a town hall and a little church - respectively located in "rue de la mairie" and "rue de l'eglise". Not even the ubiquitous boulangerie would spoil the sleeping beauty of some of these hamlets, where life literally seems to have come to an halt.  
