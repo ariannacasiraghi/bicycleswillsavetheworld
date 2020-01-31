@@ -51,12 +51,10 @@ Alongside fixing my knees, the second most useful thing that we have achieved du
 
 Selling the car was really exciting and left us with a wonderful sensation of freedom. Strange how most people think the opposite, and view the private car as a must-have in order to become free. However, our timing choice for selling was quite funny since, after years of pressure from me, my family and his own family, Daniel had finally, unhappily, surrendered to the idea of getting a driving licence and had recently passed the theory test... Well, I guess the whole process will have to be postponed!
 
-<div id="vertical_image">
 <figure>
 <img class="img-responsive center-block" src=" /img/posts/car.jpg" alt="Finally sold!">
-<figcaption style="text-align: center;">Finally sold!</figcaption>
+<figcaption>Finally sold!</figcaption>
 </figure><p></p>
-</div>
 
 While I was engaged with various medical visits, bike re-training, and finally finishing work (this time for real) Daniel and Zola carried on with their usual activities: one busying himself in his workshop, trying to design one (or two) electric cargo bikes that will have to replace our car, and the other mastering various napping techniques on the sofa or directly in bed. We feel that Zola has actually suffered a bit our return to a semi-normal lifestyle and is getting bored. The other day, to entertain herself, she even decided to write something on a cardboard, claiming that she came up with it all by herself, even if we know that she has been reading H. G. Wells in secret...    
 
