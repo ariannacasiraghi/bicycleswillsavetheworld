@@ -14,14 +14,14 @@
     </div>
     <div class="collapse navbar-collapse" id="Navbar">
       <ul class="nav navbar-nav">
-        <li {% if page.url == "/" %}class="active"{% endif %}><a href="index">Home</a></li>
-        <li {% if page.url == "/project" %}class="active"{% endif %}><a href="project">Project</a></li>
-        <li {% if page.url == "/pledge" %}class="active"{% endif %}><a href="pledge">Pledge</a></li>
-        <li {% if page.url == "/about-us" %}class="active"{% endif %}><a href="about-us">About us</a></li>
-        <li {% if page.url == "/press" %}class="active"{% endif %}><a href="press">Press</a></li>
-        <li {% if page.url contains "/blog/" %}class="active"{% endif %}><a href="blog">Blog</a></li>
+        <li {% if page.url == "/" %}class="active"{% endif %}><a href="/index">Home</a></li>
+        <li {% if page.url == "/project" %}class="active"{% endif %}><a href="/project">Project</a></li>
+        <li {% if page.url == "/pledge" %}class="active"{% endif %}><a href="/pledge">Pledge</a></li>
+        <li {% if page.url == "/about-us" %}class="active"{% endif %}><a href="/about-us">About us</a></li>
+        <li {% if page.url == "/press" %}class="active"{% endif %}><a href="/press">Press</a></li>
+        <li {% if page.url contains "/blog/" %}class="active"{% endif %}><a href="/blog">Blog</a></li>
         <!--<li {% if page.url == "/support-us" %}class="active"{% endif %}><a href="support-us">Support us</a></li>-->
-        <li {% if page.url == "/contact" %}class="active"{% endif %}><a href="contact">Contact</a></li>
+        <li {% if page.url == "/contact" %}class="active"{% endif %}><a href="/contact">Contact</a></li>
       </ul>
     </div> 
   </div>
