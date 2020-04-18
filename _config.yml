@@ -24,7 +24,7 @@ url: "bicycleswillsavetheworld.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
-permalink: /blog/:title
+#permalink: /blog/:title
 comments: true
 
 paginate: 7
