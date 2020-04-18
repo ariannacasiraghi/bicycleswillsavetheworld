@@ -2,111 +2,54 @@
 layout: default
 ---
 
+<!-- post-content start -->
+<section id="post">
+  <div class="container">
+    <div class="row border">
+      <div class="col-md-12">
 
-    <!-- header-post start -->
-  <header>
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          
-          {% include nav.html %}
-
+        <div id="post-slider" class="block slider">
+          {% if page.image-small %}
+          <img class="img-responsive center-block slider-img" src="{{ page.image-small }}" alt="{{ page.image-small }}">
+          <!--<p>{{ page.caption }}</p>-->
+          {% endif %}      
         </div>
+
+        <div id="post-title">
+          <h2 class="text-uppercase">{{ page.title }}</h2>
+          <p><span class="glyphicon glyphicon-time"></span> Posted on {{ page.date | date: "%d %B %Y" }}, by {{ page.author }}</p>
+        </div>
+
+        <div id="post-content">
+          <p> {{ page.content }} </p>
+        </div>
+
+        <div id="post-navigation">
+          {% if page.previous %}
+          <a class="green" rel="prev" href="{{ page.previous.url }}"><span class="glyphicon glyphicon-chevron-left"></span>Previous post</a>
+          {% endif %}       
+          {% if page.next %} 
+          <!--<span class="next-link pull-right">
+          <a class="green" rel="next" href="{{ page.next.url }}">Next post<span class="glyphicon glyphicon-chevron-right"></span></a></span>-->
+          <a class="green pull-right" rel="next" href="{{ page.next.url }}">Next post<span class="glyphicon glyphicon-chevron-right"></span></a>
+          {% endif %}
+
+          <hr class="hr hr-blog">
+        </div>
+
+        <div id="post-comments">
+          {% if site.comments %}
+          {% include comments.html %} 
+          {% endif %}
+          <!--<script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>-->
+          <script id="dsq-count-scr" src="//bicycleswillsavetheworld-com.disqus.com/count.js" async></script>
+        </div>
+
       </div>
     </div>
-  </header>
+  </div>
+</section>
 
-
-
-
-<!-- post-content start -->
-<article id="post-content">
-    <div class="container">
-        <div class="row">
-            <!-- post-content Column -->
-            <div class="col-lg-8">
-
-              <!-- Title -->
-              <h1>{{ page.title }}</h1>
-
-              <!-- Date/Time/Author -->
-              <h2><span class="glyphicon glyphicon-time"></span> Posted on {{ page.date | date: "%d %B %Y" }}, by {{ page.author }}</h2>
-              <!-- Preview Image -->
-              {% if page.image %}
-              <img class="img-responsive" src="{{ page.image }}" alt="{{ page.image }}">
-              <h4>{{ page.caption }}</h4>
-              {% endif %}      
-                
-              <p> {{ page.content }} <p>
-
-              {% if page.previous %}
-              <a class="special" rel="prev" href="{{ page.previous.url }}"><span class="glyphicon glyphicon-chevron-left"></span>Previous article</a>
-              {% endif %}
-                  
-              {% if page.next %} 
-              <span class="next-link pull-right">
-              <a class="special" rel="next" href="{{ page.next.url }}">Next article<span class="glyphicon glyphicon-chevron-right"></span></a></span>
-
-              {% endif %}
-              <br>
-              <hr class="hr hr-post">
-
-              {% if site.comments %}
-              {% include comments.html %} 
-              {% endif %}
-
-            </div>
-
-            <!-- post-sidebar start-->
-            <div id="post-sidebar">
-              <div class="col-lg-4 col-lg-offset-0 col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 col-xs-12">
-
-                <!-- post-categories -->
-                <div class="well">
-                  {% for category_name in page.categories limit:3 %}
-                  <h3>{{ category_name }}</h3>
-                    
-                    <div class="row">
-                      <div class="col-lg-12">
-                        <ul class="list-unstyled">
-                        {% for post in site.categories[category_name] limit:5 %}
-                        <li><a class="special" href="{{ post.url }}">{{ post.title }}</a>
-                        </li>
-                        {% endfor %}
-                        </ul>
-                      </div>
-                    </div>
-                  {% endfor %}
-                </div>
-
-                <!-- post-contact -->
-                <div class="well">
-                  <h3>Contact us</h3>
-                    <ul class="address-block">
-                      <li class="special">
-                        <i class="fa fa-envelope-o fa_custom"><style type="text/css"> .fa_custom {color: #88aa00}</style><span style="display:inline-block; width: 10px;"></span></i> info@bicycleswillsavetheworld.com
-                      </li>
-                    </ul>
-                </div>
-
-                <div id="post-contact">
-                  <div class="well">
-                    <h3>Follow us on</h3>
-                    {% include contact-social-icons.html %}
-                  </div>
-                </div>
-              </div>
-            </div>
-        </div>
-    </div>
-</article>
-
-
-           
+             
             
-  <!--<script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>-->
-     
-    <script id="dsq-count-scr" src="//bicycleswillsavetheworld-com.disqus.com/count.js" async></script>     
-    
-    </body>
-</html>
+         

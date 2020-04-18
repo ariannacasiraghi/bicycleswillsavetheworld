@@ -1,31 +1,33 @@
-          <nav class="navbar navbar-default navbar-fixed-top">
-            <div class="container-fluid">
-              <div class="navbar-header">
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                </button>
-                
-                <a class="navbar-brand" href="index.html">
-                  <picture>
-                    <source media="(min-width: 0px) and (max-width: 1100px)" srcset="img/logo-small.png">
-                    <source media="(min-width: 1101px) and (max-width: 1200px)" srcset="img/logo-medium.png">
-                    <source media="(min-width: 1201px) and (max-width: 10000px)" srcset="img/logo-big.png"> 
-                    <img src="img/logo.png" alt="IfItDoesntMatchAnyMedia" width=59%>
-                  </picture>
-                </a>
-              </div>
-                
-                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                  <ul class="nav navbar-nav navbar-right">
-                    <li {% if page.url == "/" %}class="active"{% endif %}><a href="index.html">Home</a></li>
-                    <li {% if page.url == "/project.html" %}class="active"{% endif %}><a href="project.html">Project</a></li>
-                    <li {% if page.url == "/about-us.html" %}class="active"{% endif %}><a href="about-us.html">About us</a></li>
-                    <li {% if page.url == "/blog.html" %}class="active"{% endif %}><a href="blog.html">Blog</a></li>
-                    <li {% if page.url == "/contact.html" %}class="active"{% endif %}><a href="contact.html">Contact</a></li>
-                  </ul>
-                </div>
-              </div>
-            </nav>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="pull-left navbar-toggle" data-toggle="collapse" data-target="#Navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <div class="menu pull-left" data-toggle="collapse" data-target="#Navbar">
+        <p><b>MENU</b></p> 
+      </div>
+      <span class="menu-pledge pull-right"><a class="black" target="_blank" href="pledge.html"><b>PLEDGE</b></a></span>
+    </div>
+    <div class="collapse navbar-collapse" id="Navbar">
+      <ul class="nav navbar-nav">
+        <li {% if page.url == "/" %}class="active"{% endif %}><a href="index">Home</a></li>
+        <li {% if page.url == "/project" %}class="active"{% endif %}><a href="project">Project</a></li>
+        <li {% if page.url == "/pledge" %}class="active"{% endif %}><a href="pledge">Pledge</a></li>
+        <li {% if page.url == "/about-us" %}class="active"{% endif %}><a href="about-us">About us</a></li>
+        <li {% if page.url == "/press" %}class="active"{% endif %}><a href="press">Press</a></li>
+        <li {% if page.url contains "/blog/" %}class="active"{% endif %}><a href="blog">Blog</a></li>
+        <!--<li {% if page.url == "/support-us" %}class="active"{% endif %}><a href="support-us">Support us</a></li>-->
+        <li {% if page.url == "/contact" %}class="active"{% endif %}><a href="contact">Contact</a></li>
+      </ul>
+    </div> 
+  </div>
+</nav>
+
+
+
+    
+    

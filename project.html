@@ -1,92 +1,93 @@
 ---
 layout: default
-title: The project
+title: Project
 subtitle: What we are doing and why we are doing it 
-date: 2019-06-05 17:00:00 
+date: 2020-02-15 17:00:00 
 sitemap:
-  lastmod: 2019-06-05
+  lastmod: 2020-02-15
 ---
 
 
-<!-- project-slider start -->
-        <section id="project-slider">
-          <div class="container">
-            <div class="row">
-              <div class="col-md-12">
-                <div class="block">
-                  <h1>{{ page.title}}</h1>
-                  {% if page.subtitle %}
-                  <h2>{{ page.subtitle }}</h2>
-                  {% endif %} 
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
+<section id="project">
+  <div class="container">
+    <div class="row border">
+      <div class="col-md-12">
 
-
-<!-- project-text1 start -->
-    <section id="project-text1">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            <div class="block">
-            <p>Inspired by Swedish activist <a class="special" href="https://en.wikipedia.org/wiki/Greta_Thunberg">Greta Thunberg</a> and environmental mass movements, including <a class="special" href="https://rebellion.earth/">Extinction Rebellion</a>, we want to add our voices to a growing chorus: we must take action now to keep our planet habitable.</p>
-
-            <p>As a reminder that transport alternatives to our most common choices exist, we are cycling 6000+ km in a route that draws the shape of a huge bicycle across 7 countries of western Europe. We will then continue cycling across other countries (both inside and outside Europe) to speak in international schools and bring our message directly to the young people.</p>
-
-            <p>With this, we aim to encourage individuals to cycle as much as possible and prompt governments to invest in suitable and safe infrastructure - following the Dutch model. We sincerely believe that bicycles can take us a long way in our battle to tackle climate change and environmental breakdown.</p>
-            </div>
+        <div id="project-slider" class="block slider">
+          <img class="img-responsive center-block slider-img" src="img/project-slider-large.jpg" alt="project-slider">
+          <div class="centered">
+            <h1 class="text-uppercase">{{ page.title}}</h1>
+            <br>
+            {% if page.subtitle %}
+            <h4>{{ page.subtitle }}</h4>
+            {% endif %}
           </div>
         </div>
-      </div>
-    </section>
-
-
-<!-- project-map start -->
-    <section id="project-map">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            <div class="block">
-              <div class="iframe-container">
-                  <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1pgG9Kud3bW40mDF_Yh9OfFmVGMLopEnb&zoom=14&ll=48.769613572940884%2C5.250850468750059&z=5" width="900" height="550" frameborder="0" style="margin-top: -49px;margin-bottom: -22px;"></iframe>
-              </div>
-            </div>
+        <!--This code below is valid only for very small screens-->
+        <div class="slider-below block">
+          <h1 class="text-uppercase center-block" style="color:#E4B363">{{ page.title}}</h1>
+          <br>
+          {% if page.subtitle %}
+          <h4 class="center-block" style="color:#E4B363">{{ page.subtitle }}</h4>
+          {% endif %}
+        </div> 
+          
+        <div id="project-text1" class="block">
+          <p class="center-block">Our project is born as a reaction to the political inertia towards the climate and environmental emergency we are facing. Inspired by Swedish activist <a class="green" target="_blank"  href="https://en.wikipedia.org/wiki/Greta_Thunberg">Greta Thunberg</a> and global environmental movements, including <a class="green" target="_blank"  href="https://350.org/">350.org</a> and <a class="green" target="_blank"  href="https://rebellion.earth/">Extinction Rebellion</a>, we want to add our voices to a growing chorus: we must take action NOW to keep our planet habitable.</p>
+          <br>
+          <p class="center-block">As a reminder that transport alternatives to our most common choices exist, we are currently cycling some 7000 km to draw the shape of a huge bicycle across 7 countries of western Europe. Following the end of the drawing, we intend to continue travelling by bicycle across Europe to speak in schools, and bring our message directly to those that will be affected the most by this crisis - the young people.</p>
+          <br>
+          <p class="center-block">We hope that our mad endevour might inspire others to ditch their car in favour of the bicycle for daily transport needs. If you think you can use the car a bit less, please <a class="green" target="_blank" href="pledge.html">sign our pledge</a> and help spreading our message!<!--ith this, we aim to encourage individuals to cycle as much as possible and prompt governments to invest in suitable and safe infrastructure - following the Dutch model.--> We do sincerely believe that bicycles can take us a long way in our battle to tackle climate change and environmental breakdown.</p>
+        </div>
+        
+        <div id="project-map" class="block">
+          <div class="iframe-container">
+              <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1tto3DsVqUGybPRRIhGxZgCiQQy2qNbp9&zoom=14&ll=48.769613572940884%2C5.250850468750059&z=5" width="900" height="550" frameborder="0" style="margin-top: -49px;margin-bottom: -22px;"></iframe>
           </div>
         </div>
-      </div>
-    </section>
-
-
-<!-- project-text2 start -->
-    <section id="project-text2">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-7 col-sm-12">
-            <div class="block">
-              <h2>Some trip details</h2>
-              <p>We left from Orta San Giulio, in northern Italy, on July the 13th and we reached the crank of the bicycle, in the French village of Vy-lès-Lure, 10 days later. From there we have started tracing the bicycle route, minimising the number of sections that must be covered twice (in purple). We will end our undertaking at the top of the bicycle seat tube in Compogne, Belgium, hopefully towards the end of November. Afterwards we intend to continue our journey cycling towards Spain, then on to Morocco or wherever the mood takes us. In this second part of the journey we will endeavor to speak in international schools to reach directly young people with this ecological message. 
-
-
-              </p>  
-            </div>
-          </div><!-- .col-md-7 close -->
-          <div class="col-md-5 col-sm-12">
-            <div class="block">
-              <img src="img/route-small.png" alt="bicycles will save the world route" style="max-width:100%;height:auto;float:right;">
-            </div>
-          </div><!-- .col-md-5 close -->
-
-          <div class="col-md-12">
-            <div class="block">
-              <br>
-              <p>It is the three of us - <a class="special" href="about-us.html">Arianna, Daniel and Zola the dog</a>. While Zola and Daniel are travelling on a custom-built cargo bike, Arianna is cycling on a more standard custom-made tourer. <a class="special" href="bikes-ready.html">Both these bikes</a> were built by Daniel, who has recently left academia for the workshop, where he is specialising in building custom cargo, touring and city bikes (see his website at: <a class="special" href="https://drkcycles.com">www.drkcycles.com</a>).</p>
-            </div>
-          </div> 
+        
+        <div id="project-text2-title" class="block">
+          <h2 class="text-uppercase center-block">Some details of the journey</h2>
         </div>
-      </div>
-    </section>
+
+        <div id="project-route"> 
+          <img class="img-responsive pull-right" src="img/route-medium.png" alt="route">
+        </div>
+        
+        <div id="project-text2">
+          <p class="center-block">We left from Orta San Giulio (Italy) in July 2019 and we cycled the first 550 km across the Swiss Alps, to reach the starting point of the bicycle drawing, in the French village of Vy-lès-Lure. From there, we started tracing the bicycle shape following the directions indicated in the diagram.</p> 
+          <br>
+          <p class="center-block">We aimed to finish the drawing by the end of November 2019, but <a class="green" target="_blank"  href="blog/forced-stop.html">things didn't quite go to plan</a>. We both suffered from patellofemoral pain syndrome and had to take time off cycling to do physiotherapy. Since March 2020 we were also prevented to travel due to the coronavirus lockdown measures.</p> 
+          <br>
+          <p class="center-block">Thus far, we covered about 5000 km of the bicycle-shaped route (in yellow). We drew <a class="green" target="_blank" href="blog/cycling-the-down-tube.html">the down tube</a>, <a class="green" target="_blank"  href="blog/cycling-the-fork-(twice).html">the fork</a>, <a class="green" target="_blank" href="blog/cycling-the-front-wheel-(part-1).html">the front wheel</a>, <a class="green" target="_blank" href="blog/cycling-the-handlebar.html">the handlebar</a>, <a class="green" target="_blank" href="blog/cycling-the-top-tube.html">the top tube</a>, <a class="green" target="_blank" href="blog/cycling-the-saddle.html">the saddle</a>, and <a class="green" target="_blank" href="blog/cycling-the-seat-tube.html">the seat tube</a>. We still need to cycle some 2000 km in order to reach the end of the drawing, in the Belgian village of Compogne.</p>
+          <br>
+          <p class="center-block">Afterwards we intend to continue travelling by bike through Europe, this time following our mood rather than a set route. In this second part of the journey we aim to speak in schools about our project.</p>
+          <br>
+          <p class="center-block">The "drawing travellers" are <a class="green" target="_blank"  href="about-us.html">Arianna, Daniel and Zola the dog</a>. While Daniel and Zola are cycling on a custom cargo bike, Arianna is using a more standard custom tourer. <a class="green" target="_blank"  href="blog/the-bikes-are-ready.html">Both these bikes</a> were built by Daniel, who has recently left academia for the workshop, where he is specialising in building bespoke cargo, touring and city bikes (see his website at: <a class="green" target="_blank"  href="https://drkcycles.com">www.drkcycles.com</a>).</p>
+        </div>
+      <!-- Code below valid for screen size below 992px-->
+        <div id="project-text2-small">
+          <p class="center-block">We left from Orta San Giulio (Italy) in July 2019 and we cycled the first 550 km across the Swiss Alps, to reach the starting point of the bicycle drawing, in the French village of Vy-lès-Lure. From there, we started tracing the bicycle shape following the directions indicated in the diagram.</p> 
+          <br>
+          <p class="center-block">We aimed to finish the drawing by the end of November 2019, but <a class="green" target="_blank"  href="blog/forced-stop.html">things didn't quite go to plan</a>. We both suffered from patellofemoral pain syndrome and had to take time off cycling to do physiotherapy. Since March 2020 we were also prevented to travel due to the coronavirus lockdown measures.</p> 
+          <br>
+        </div>
+
+        <div id="project-route-small"> 
+          <img class="img-responsive center-block" src="img/route-medium.png" alt="route">
+        </div>
+
+        <div id="project-text3-small">
+          <p class="center-block">Thus far, we covered about 5000 km of the bicycle-shaped route (in yellow). We drew <a class="green" target="_blank" href="blog/cycling-the-down-tube.html">the down tube</a>, <a class="green" target="_blank"  href="blog/cycling-the-fork-(twice).html">the fork</a>, <a class="green" target="_blank" href="blog/cycling-the-front-wheel-(part-1).html">the front wheel</a>, <a class="green" target="_blank" href="blog/cycling-the-handlebar.html">the handlebar</a>, <a class="green" target="_blank" href="blog/cycling-the-top-tube.html">the top tube</a>, <a class="green" target="_blank" href="blog/cycling-the-saddle.html">the saddle</a>, and <a class="green" target="_blank" href="blog/cycling-the-seat-tube.html">the seat tube</a>. We still need to cycle some 2000 km in order to reach the end of the drawing, in the Belgian village of Compogne.</p>
+          <br>
+          <p class="center-block">Afterwards we intend to continue travelling by bike through Europe, this time following our mood rather than a set route. In this second part of the journey we aim to speak in schools about our project.</p>
+          <br>
+          <p class="center-block">The "drawing travellers" are <a class="green" target="_blank"  href="about-us.html">Arianna, Daniel and Zola the dog</a>. While Daniel and Zola are cycling on a custom cargo bike, Arianna is using a more standard custom tourer. <a class="green" target="_blank"  href="blog/the-bikes-are-ready.html">Both these bikes</a> were built by Daniel, who has recently left academia for the workshop, where he is specialising in building bespoke cargo, touring and city bikes (see his website at: <a class="green" target="_blank"  href="https://drkcycles.com">www.drkcycles.com</a>).</p>
+        </div>
+
+    </div>
+  </div>
+</section>
     
 
   

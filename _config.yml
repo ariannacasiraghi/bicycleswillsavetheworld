@@ -24,8 +24,12 @@ url: "bicycleswillsavetheworld.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
-permalink: none
+permalink: /blog/:title
 comments: true
+
+paginate: 7
+paginate_path: "/blog/page:num/"
+
 defaults:
   -
     scope:
@@ -34,18 +38,11 @@ defaults:
     values:
       layout: "post"
       author: "Arianna Casiraghi"
-      category: "trip preparations" 
-      category: "reaching the start point of the bicycle-shaped route" 
-      category: "drawing the bicycle"
 
 
 
 
-
-
-
-#plugins:
-#  - jekyll-feed
+plugins: [jekyll-paginate]
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
