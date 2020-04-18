@@ -432,8 +432,8 @@ header .navbar-default {
   text-align: left;
   border-top: 1px solid #191919;
   border-bottom: 1px solid #191919;
-  border-top: double;
-  border-bottom: double;
+/*border-top: double;
+  border-bottom: double;*/
   border-radius: 0px;
   z-index: 100;
   margin-left: -3px;
@@ -464,7 +464,7 @@ header .navbar-default .navbar-nav > li > a:hover,
 }
 .navbar-default .navbar-collapse {
   border-top: 1px solid #191919;
-  border-top: double;
+/*border-top: double;*/  
   border-radius: 0px;
 }
 .navbar-default .navbar-toggle {
@@ -518,8 +518,8 @@ header .navbar-default {
   text-align: left;
   border-top: 1px solid #191919;
   border-bottom: 1px solid #191919;
-  border-top: double;
-  border-bottom: double;
+/*border-top: double;
+  border-bottom: double;*/
   border-radius: 0px;
   z-index: 100;
   margin-left: 3px;
@@ -550,7 +550,7 @@ header .navbar-default .navbar-nav > li > a:hover,
 }
 .navbar-default .navbar-collapse {
   border-top: 1px solid #191919;
-  border-top: double;
+/*border-top: double;*/
   border-radius: 0px;
 }
 .navbar-default .navbar-toggle {
@@ -615,8 +615,8 @@ header .navbar-default {
   border: none;
   border-top: 1px solid #191919;
   border-bottom: 1px solid #191919;
-  border-top: double;
-  border-bottom: double;
+/*border-top: double;
+  border-bottom: double;*/
   z-index: 100;
   border-radius: 0px;
   margin-left: 3px;
@@ -647,7 +647,7 @@ header .navbar-default .navbar-nav > li > a:hover,
 }
 .navbar-default .navbar-collapse {
   border-top: 1px solid #191919;
-  border-top: double;
+/*border-top: double;*/
   border-radius: 0px;
 }
 .navbar-default .navbar-toggle {
