@@ -1420,7 +1420,10 @@ header .navbar-default {
   margin-right: auto;
   margin-bottom: 3%;
 }
-#arianna-txt-small, #daniel-txt-small, #zola-txt-small {
+#arianna-txt1-small, #daniel-txt1-small, #zola-txt1-small {
+  margin-bottom: 3%;
+}
+#arianna-txt2-small, #daniel-txt2-small, #zola-txt2-small {
   margin-bottom: 5%;
 }
 #about-us .row {
@@ -1445,7 +1448,10 @@ header .navbar-default {
   margin-right: auto;
   margin-bottom: 3%;
 }
-#arianna-txt-small, #daniel-txt-small, #zola-txt-small {
+#arianna-txt1-small, #daniel-txt1-small, #zola-txt1-small {
+  margin-bottom: 3%;
+}
+#arianna-txt2-small, #daniel-txt2-small, #zola-txt2-small {
   margin-bottom: 5%;
 }
 #about-us .row {
@@ -1469,7 +1475,10 @@ header .navbar-default {
   margin-right: auto;
   margin-bottom: 3%;
 }
-#arianna-txt-small, #daniel-txt-small, #zola-txt-small {
+#arianna-txt1-small, #daniel-txt1-small, #zola-txt1-small {
+  margin-bottom: 3%;
+}
+#arianna-txt2-small, #daniel-txt2-small, #zola-txt2-small {
   margin-bottom: 5%;
 }
 #about-us .row {
@@ -1506,8 +1515,9 @@ header .navbar-default {
 #about-us .row {
   padding-bottom: 4%;
 }
-#arianna-small, #arianna-txt-small, #arianna-img-small, #daniel-small, #daniel-txt-small, 
-#daniel-img-small, #zola-small, #zola-txt-small, #zola-img-small  {
+#arianna-small, #arianna-txt1-small, #arianna-txt2-small, #arianna-img-small, 
+#daniel-small, #daniel-txt1-small, #daniel-txt2-small, #daniel-img-small, 
+#zola-small, #zola-txt1-small, #zola-txt2-small, #zola-img-small {
   display:none;
 }
 #arianna, #arianna-txt, #arianna-img, #daniel, #daniel-txt, 
