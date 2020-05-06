@@ -17,14 +17,14 @@ The start (or perhaps I should say the second start...) was really not great. Af
 <br>
 On the next day I felt well enough to start cycling, and so we waved goodbye to Leo and his parents and set off to undertake what would be our first bike travel through winter. We really had no idea whether we could do it or not... both the cold and my knee gave us reasons to be doubtful. Fortunately for us, the first few days were some of the sunniest and warmest we could have hoped for, gently acclimatising us to what was to come. 
 
-<div id="horizontal-image" style="padding-bottom: 0px">
+<div id="horizontal-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive center-block" src=" /img/posts/ermenonville2.jpg" alt="A quick lunch in the forest of Ermenonville">
 	<figcaption style="text-align: center;">A quick lunch in the forest of Ermenonville</figcaption>
 	</figure><p></p>
 </div>
 
-<div id="horizontal-image" style="padding-bottom: 0px">
+<div id="horizontal-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive center-block" src=" /img/posts/champagne-ardenne.jpg" alt="Zola trotting happily through the paths of the Champagne-Ardenne region">
 	<figcaption style="text-align: center;">Zola happily trotting through the paths of the Champagne-Ardenne region</figcaption>
@@ -49,14 +49,14 @@ After a couple of nights spent in a warm bed (thanks to <a class="green" target=
 
 During these surprisingly sunny days we found ourselves crossing a series of World War I memorials, dotted along what is known as the "Chemin des Dames". We stopped at the French and German military graveyards in Cerny-en-Laonnois, and felt overwhelmed by the vast display of countless simple graves. Later on we also came across the impressive site of the Vauclair abbey, which was almost totally destroyed during the war.  
 
-<div id="horizontal-image" style="padding-bottom: 0px">
+<div id="horizontal-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive center-block" src=" /img/posts/graveyard.jpg" alt="The French military graveyard in Cerny-en-Laonnois">
 	<figcaption style="text-align: center;">The French military graveyard in Cerny-en-Laonnois</figcaption>
 	</figure><p></p>
 </div>
 
-<div id="horizontal-image" style="padding-bottom: 0px">
+<div id="horizontal-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive center-block" src=" /img/posts/graveyard2.jpg" alt="The German military graveyard in Cerny-en-Laonnois">
 	<figcaption style="text-align: center;">The German military graveyard in Cerny-en-Laonnois</figcaption>
@@ -85,7 +85,7 @@ But there are some positives of winter cycling too. Firstly we don't sweat so mu
 <br>
 The last day in France was stunningly beautiful and we enjoyed splendid views of the Meuse river, especially near the French town of Monthermé. We then followed the windy course of the Semois river to finally enter Belgium, having been more or less dry for an entire week. 
 
-<div id="horizontal-image" style="padding-bottom: 0px">
+<div id="horizontal-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive center-block" src=" /img/posts/montherme.jpg" alt="Looking over the Meuse river in Monthermé, a few km from the French-Belgium border">
 	<figcaption style="text-align: center;">Looking over the Meuse river in Monthermé, a few km from the French-Belgium border</figcaption>
@@ -112,7 +112,7 @@ And then it started to rain - not just a light drizzly rainfall or sporadic show
 
 People told us that we were in the rainiest area of Belgium during the rainiest time of the year... oh yeah! It really wasn't fun to cycle in these conditions. Especially when we understood that our Hestra overgloves were not waterproof, which meant that after about an hour of cycling under the rain our hands would get wet... Let alone the fact that I didn't follow Daniel's advice and didn't take boots! What a mistake! So while Daniel's feet have been nicely dry in his heavy mountaineering boots, mine have been swimming in two shoe-shaped water containers... oh dear! 
 
-<div id="vertical-image" style="padding-bottom: 0px">
+<div id="vertical-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive center-block" src=" /img/posts/cycling-rain.jpg" alt="Simply miserable...">
 	<figcaption style="text-align: center;">Simply miserable...</figcaption>

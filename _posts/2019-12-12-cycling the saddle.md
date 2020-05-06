@@ -37,14 +37,14 @@ And finally it stopped raining. For a bit. And it became cold. So cold that on t
 
 With the hills progressively smoothing down as we rode north and finally blessed with a pale hint of sun, we smoothly glided towards Liège, a relatively big city and a pleasant change after many rural days. Nothing exceptional there to visit, but we were reasonably impressed with the modern architecture of the Liège-Guillemins train station, as well as with the staircase of the Montagne de Bueren, which luckily we didn't have to climb.    
 
-<div id="horizontal-image" style="padding-bottom: 0px">
+<div id="horizontal-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive center-block" src=" /img/posts/liege1.jpg" alt="View from the main entrance of the Liège-Guillemins train station">
 	<figcaption style="text-align: center;">View from the main entrance of the Liège-Guillemins train station</figcaption>
 	</figure><p></p>
 </div>
 
-<div id="horizontal-image" style="padding-bottom: 0px">
+<div id="horizontal-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive center-block" src=" /img/posts/liege2.jpg" alt="A detail of the roof, made of steel, glass and white concrete">
 	<figcaption style="text-align: center;">A detail of the station roof, made of steel, glass and white concrete</figcaption>
@@ -73,7 +73,7 @@ For the first time through our journey we didn't feel like an anomaly... with lo
 <br>
 Fitting several Dutch stereotypes, our warmshowers hosts in Brunssum, where we spent our only night in the Netherlands, were also keen (and tall) cyclists as well as hardcore cycletourists, deeply in love with their Dutch-manufactured Santos bikes. They explained to us how in the Netherlands drivers are always assumed to be at fault when involved in a collision with a cyclist. Known as "strict liability", this law aims to protect more vulnerable road users, and while it may end up with cyclists behaving less responsibly, we loved the idea!
 
-<div id="horizontal-image" style="padding-bottom: 0px">
+<div id="horizontal-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive center-block" src=" /img/posts/maastricht.jpg" alt="Following the river Meuse on the outskirts of Maastricht">
 	<figcaption style="text-align: center;">Following the river Meuse on the outskirts of Maastricht</figcaption>
@@ -128,7 +128,7 @@ Warmshowers is indeed a beautiful life philosophy, that we totally want to embra
 <br>
 With the mind full of these philosophical considerations, we concluded the drawing of the saddle (retracing the seat post) near Compogne again, with the weather playing some bad tricks on us, but also rewarding us with a few hours of sunshine every now and then. Most importantly anyhow, my knee held just fine, giving us no more reason to worry.  
  
-<div id="vertical-image" style="padding-bottom: 0px">
+<div id="vertical-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive center-block" src=" /img/posts/dan-rain-close.jpg" alt="A classic day along the saddle: wet and miserable">
 	<figcaption style="text-align: center;">A classic day along the saddle: wet and miserable</figcaption>

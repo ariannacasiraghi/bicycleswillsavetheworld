@@ -44,14 +44,14 @@ In Brive-la-Gaillarde Zola felt deeply honoured to discover a bus stop named aft
 
 We then crossed briefly the north of the Dordogne region, mainly passing through the Périgord-Limousin Natural Regional Park. It's a shame we couldn't see more of this area as we loved the landscape, hilly but not as strenuous as in the Massif central, and we read about all the interesting tourist highlights that we unfortunately missed!! The food culture here is great too and while we did not eat at restaurants to test it, purely for economic reasons, Daniel did enjoy taking a break from his pescetarian diet for a couple of days to taste the famous foie gras.       
 
-<div id="horizontal-image" style="padding-bottom: 0px">
+<div id="horizontal-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive center-block" src=" /img/posts/blackberry.jpg" alt="A quiet wild camping spot in Dordogne. The huge bush in the background was filled with black berries, which both me and Zola thoroughly enjoyed...">
 	<figcaption style="text-align: center;">A quiet wild camping spot in Dordogne. The huge bush in the background was filled with black berries, which both me and Zola thoroughly enjoyed...</figcaption>
 	</figure><p></p>
 </div>
 
-<div id="horizontal-image" style="padding-bottom: 0px">
+<div id="horizontal-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive center-block" src=" /img/posts/tired-dan.jpg" alt="A messy lunch break with a very tired Daniel">
 	<figcaption style="text-align: center;">A messy lunch break with a very tired Daniel</figcaption>
@@ -109,7 +109,7 @@ After Chinon we continued towards the Loire but realised we left Zola's titanium
 
 And finally we reached the Loire again, where we saw the majestic castle of Ussé, which apparently inspired the French author Charles Perrault when writing "the sleeping beauty", and the medieval castle of Langeais. We then stopped in Cinq-Mars-la-Pile, or rather I stopped, as Daniel decided to exploit the proximity to Tours to go and buy a replacement for his bottom bracket (which was starting to emit disturbing sounds at every pedal spin). Thankfully he managed to find a well-equipped bike shop and replaced it. I hope mine will not need the same treatment any time soon...  
 
-<div id="horizontal-image" style="padding-bottom: 0px">
+<div id="horizontal-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive center-block" src=" /img/posts/usse.jpg" alt="Château d'Ussé">
 	<figcaption style="text-align: center;">Château d'Ussé</figcaption>
@@ -129,14 +129,14 @@ After a quick look at Yèvre-le-Châtel, a member of the "Les plus beaux village
 <br>
 Thanks again to Patrick and Françoise for helping us so much!      
 
-<div id="horizontal-image" style="padding-bottom: 0px">
+<div id="horizontal-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive center-block" src=" /img/posts/yevre.jpg" alt="Zola is not too happy of posing for us at the church of Saint-Lubin, in Yèvre-le-Châtel">
 	<figcaption style="text-align: center;">Zola is not too happy of posing for us at the church of Saint-Lubin, in Yèvre-le-Châtel</figcaption>
 	</figure><p></p>
 </div>
 
-<div id="horizontal-image" style="padding-bottom: 0px">
+<div id="horizontal-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive center-block" src=" /img/posts/pandf-outside.jpg" alt="Enjoying a morning coffee outside Patrick and Françoise's barn">
 	<figcaption style="text-align: center;">Enjoying a morning coffee outside Patrick and Françoise's barn</figcaption>

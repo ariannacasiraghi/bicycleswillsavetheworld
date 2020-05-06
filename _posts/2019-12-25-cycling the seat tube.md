@@ -62,14 +62,14 @@ Daniel and his wife Colette were genuinely incredible hosts: their hospitality w
 <br>
 Being on the road without the incessant rain felt like a dream and in a couple of fast days we reached Nancy, overall relatively dry. 
 
-<div id="horizontal-image" style="padding-bottom: 0px">
+<div id="horizontal-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive center-block" src=" /img/posts/canal-de-lest.jpg" alt="Easy cycling along a canal, just next to the river Moselle">
 	<figcaption style="text-align: center;">Easy cycling along a canal, just next to the river Moselle</figcaption>
 	</figure><p></p>
 </div>
 
-<div id="horizontal-image" style="padding-bottom: 0px">
+<div id="horizontal-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive center-block" src=" /img/posts/path-countryside.jpg" alt="A nice stretch of off-road cycling to allow Zola a bit of exercise">
 	<figcaption style="text-align: center;">A nice stretch of off-road cycling to allow Zola a bit of exercise</figcaption>
@@ -91,7 +91,7 @@ In the fraction of a second a screaming cat jumped out and run away, while we st
 <br>
 Panicking, we tried to catch the cat as quickly as we could. The little bugger however, was having none of it! By hiding Zola away, perfecting our miaowing sounds and using a few dog treats, it was with immense relief that we eventually managed to grab the escapee and shove it back into his own house. All this before the owners got back... and then we managed to relax in our cosy dépendance. If only that cat could speak, what stories it would tell!  
 
-<div id="horizontal-image" style="padding-bottom: 0px">
+<div id="horizontal-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive center-block" src=" /img/posts/vosges.jpg" alt="The beautiful undulating landscape at the beginning of the Massif des Vosges, near Épinal">
 	<figcaption style="text-align: center;">The beautiful undulating landscape at the beginning of the Massif des Vosges, near Épinal</figcaption>
@@ -109,14 +109,14 @@ On the following day we experienced what even us Italians would refer to as a gl
 <br>
 Under this gorgeous sun we reached Vy-lès-Lure, where we started tracing the bicycle shape a few months ago, during an intense <a class="green" target="_blank"  href="/blog/cycling-in-the-heatwave">heatwave</a>. Technically speaking, the seat tube ends in Vy-lès-Lure, and so should this post... However, for a while now we had been maturing the thought of reaching Basel to catch a train and have a break back at home - which I think authorises me to continue this post for a few kilometres more, thus entering the drawing of the "chain stay" (from Vy-lès-Lure to Fellering) and of the "back wheel" (from Fellering to Basel). 
 
-<div id="horizontal-image" style="padding-bottom: 0px">
+<div id="horizontal-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive center-block" src=" /img/posts/dan-zola-sun.jpg" alt="Isn't it gorgeous?">
 	<figcaption style="text-align: center;">Isn't it gorgeous?</figcaption>
 	</figure><p></p>
 </div>
 
-<div id="horizontal-image" style="padding-bottom: 0px">
+<div id="horizontal-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive center-block" src=" /img/posts/sunny.jpg" alt="Pointing at the incredibly blue sky">
 	<figcaption style="text-align: center;">Pointing at the incredibly blue sky</figcaption>
@@ -167,7 +167,7 @@ With only a few more easy kilometres we reached Basel, the end to this second st
 <br>
 After catching the train and convincing an angry Swiss controller that we didn't need to pay double for our cargo bike, we finally reached home in olny a few hours. Just in time for Christmas. 
 
-<div id="horizontal-image" style="padding-bottom: 0px">
+<div id="horizontal-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive center-block" src=" /img/posts/basel.jpg" alt="View of Basel from the bank of the Rhine river">
 	<figcaption style="text-align: center;">View of Basel from the bank of the Rhine river</figcaption>

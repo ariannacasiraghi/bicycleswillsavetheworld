@@ -17,7 +17,7 @@ As we learnt from Daniel's experience, <a class="green" target="_blank"  href="h
 <br>
 In the past few weeks I went through lots of these painful kneecap manipulations and I slowly re-learnt how to bend my knees properly. 
 
-<div id="vertical-image" style="padding-bottom: 0px">
+<div id="vertical-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive center-block" src=" /img/posts/fisio.jpg" alt="Even if I was briefly smiling in the picture, I guarantee that I was suffering hellish pains!">
 	<figcaption style="text-align: center;">Even if I was briefly smiling in the picture, I guarantee that I was suffering hellish pains!</figcaption>

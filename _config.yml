@@ -15,8 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: Bicycles will save the world
 email: info@bicycleswillsavetheworld.com
-description: >- # this means to ignore newlines until "baseurl:"
-  A project to raise awareness about cycling as a means to fight climate change and shape a better world
+#description: >- # this means to ignore newlines until "baseurl:"
+  #A project to raise awareness about cycling as a means to fight climate and environmental breakdown, and shape a better world. 
+description: >-
+  We are Arianna, Daniel, and Zola the dog. We believe that bicycles will save the world against the threat posed by climate and environmental breakdown... as long as people start to use them more often! To promote change and demonstrate the wonderful potential of bicycles, we are currently cycling about 7000 km to draw the shape of a huge bicycle across western Europe, hoping that our mad endeavour might inspire others to ditch their car in favour of the bicycle for daily transport needs. Following the end of the drawing, we intend to continue travelling by bicycle across Europe to speak in schools about our project, addressing the issues linked with climate and environmental breakdown, and illustrating pathways towards sustainable transport and green living in general.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "bicycleswillsavetheworld.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: arianna

@@ -33,14 +33,14 @@ Exiting Paris was not less troublesome than entering it, and we averaged about 1
 <br>
 Tracing the handlebar took us through a vast proportion of Normandy, and while the most interesting touristic attractions are along the coast (which we didn't reach), we managed nonetheless to discover some little gems in the inland. Gerberoy, another member of the "Les plus beaux villages de France" (The most beautiful villages of France) association, was my favourite: a handful of timber-framed houses, uneven cobbled lanes and pastel-coloured roses that granted a multitude of picturesque views. I literally couldn't stop taking pictures! Lyons-la-Forêt was another lovely village, whose most notable sight was a 17th-century covered market in the main square. In Pont-de-l'Arche instead we visited the church of Notre-Dame-des-Arts, built in a flamboyant Gothic style and richly decorated.    
 
-<div id="horizontal-image" style="padding-bottom: 0px">
+<div id="horizontal-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive center-block" src=" /img/posts/gerberoy2.jpg" alt="Zola sniffs, probably some dog pee, along a narrow cobbled lane in Gerberoy">
 	<figcaption style="text-align: center;">Zola sniffs, probably some dog pee, along a narrow cobbled lane in Gerberoy</figcaption>
 	</figure><p></p>
 </div>
 
-<div id="horizontal-image" style="padding-bottom: 0px">
+<div id="horizontal-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive center-block" src=" /img/posts/lyons.jpg" alt="The covered market in Lyons-la-Forêt">
 	<figcaption style="text-align: center;">The covered market in Lyons-la-Forêt</figcaption>
@@ -73,7 +73,7 @@ It was during this rest/writing day that I started to notice something funny was
 <br>
 The next day we finished the handlebar, cycling across the forest of Rambouillet. Beautiful paths in the middle of rich vegetation, which reminded us a bit of Finnish forests. Zola loved it, as she could run off lead for a long time, but it was tough going for us - especially when we got stuck in sand and had to push the bikes for a couple of kilometres!
 
-<div id="vertical-image" style="padding-bottom: 0px">
+<div id="vertical-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive center-block" src=" /img/posts/rambouillet.jpg" alt="A narrow footpath in the forest of Rambouillet">
 	<figcaption style="text-align: center;">A narrow footpath in the forest of Rambouillet</figcaption>
@@ -102,7 +102,7 @@ These 20th - 27th September strikes, which have been mostly organised by <a clas
 <br>
 After the strike I got in contact with my Romanian friend Leo and, upon hearing of our difficult situation, he immediately offered us hospitality in his flat in Cergy. Living under the same roof with Leo, even if for a few days, brought me back by about 15 years... when me and him were studying at the University in Pavia, eating kebabs and sharing a horrible flat, together with a bunch of cockroaches! And like in the old times, hearing Leo converse so eloquently and expertly on the most disparate topics of culture and arts, from German Romanticism to Hungarian composers to contemporary political movements, reminded me how illiterate and uncultured I am. Also Daniel suffered a bit when he understood that Leo could speak fluently in five different languages... he is still struggling to master Italian (at home, he can often be heard yelling "fuck you, subjunctive!"). 
 
-<div id="horizontal-image" style="padding-bottom: 0px">
+<div id="horizontal-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive center-block" src=" /img/posts/leo.jpg" alt="With my university friend Leo in his flat in Cergy">
 	<figcaption style="text-align: center;">With my university friend Leo in his flat in Cergy</figcaption>
@@ -118,7 +118,7 @@ After the strike I got in contact with my Romanian friend Leo and, upon hearing 
 
 Leo was great as usual and took good care of us. He arranged for me to meet his doctor and start physiotherapy in the nearby town of Pontoise. As we feared, my knee pain was a typical sign of a <a class="green" target="_blank"  href="https://en.wikipedia.org/wiki/Patellofemoral_pain_syndrome">patellofemoral pain syndrome</a>, very common among runners and cyclists, which unfortunately requires some time and dedication to recover. We thus decided to suspend our trip, take a TGV and go back home in Italy. It was a tough choice but we agreed it was the most sensible one. We arrived back home yesterday, but the bikes have remained in Leo's flat in Cergy, because from there we will resume our trip whenever my knees will be up for it. And since every cloud has a silver lining, thanks to my knees failure I got back in touch with Leo... not all is bad! 
 
-<div id="horizontal-image" style="padding-bottom: 0px">
+<div id="horizontal-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive center-block" src=" /img/posts/leo-all.jpg" alt="Our last night in Paris with Leo, before taking the TGV back home">
 	<figcaption style="text-align: center;">Our last night in Paris with Leo, before taking the TGV back home</figcaption>

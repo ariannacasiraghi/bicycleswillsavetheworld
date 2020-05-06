@@ -24,7 +24,7 @@ But let me tell you a bit about my first impressions of France. Not that I had n
 <br>
 I have an opinion now, however: France is wonderful! Or at least it has been so whilst cycling along the down tube, crossing the regions of Franche-Comté, Bourgogne, Champagne and Île-de-France. The first thing that stands out, and which I had never realised before, is how sparsely populated France is, compared to other western European countries. Most of the days we found ourselves cycling on rolling hills through vast vegetable crops - many of sunflowers and onions - while hopping from one picturesque village to another.
 
-<div id="horizontal-image" style="padding-bottom: 0px">
+<div id="horizontal-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive" src=" /img/posts/sunflowers.jpg" alt="Sunflower field in Bourgogne">
 	<figcaption style="text-align: center;">Sunflower field in Bourgogne</figcaption>
@@ -40,7 +40,7 @@ I have an opinion now, however: France is wonderful! Or at least it has been so 
 
 The villages themselves often consisted in nothing more than a bundle of stone cottages with colorful shutters (sometimes matching the color of the surrounding flowers), a few equally charming barns with beautiful wooden portals, a town hall and a little church - respectively located in "rue de la mairie" and "rue de l'eglise". Not even the ubiquitous boulangerie would spoil the sleeping beauty of some of these hamlets, where life literally seems to have come to an halt.  
 
-<div id="horizontal-image" style="padding-bottom: 0px">
+<div id="horizontal-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive" src=" /img/posts/cottage.jpg" alt="A typical cottage in rural Champagne">  
 	<figcaption style="text-align: center;">A typical cottage in rural Champagne</figcaption>

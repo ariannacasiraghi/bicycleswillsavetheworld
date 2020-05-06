@@ -51,7 +51,7 @@ After these mild difficulties, we were thrilled to meet my aunt and uncle, and t
 
 With my aunt and uncle we visited Chalon-sur-Saône and Cluny, and we stayed for one night in one of the most ridiculously posh places we had ever been (they paid...). It was quite a dramatic change from our basic camps to having intelligent toilets that can do a bidet for you once you are done with your business. We also estimated, to Zola's utmost delight, that the bed alone was three times the floor area of our tent. After such a good night sleep even Daniel's neck was entirely fixed!        
 
-<div id="horizontal-image" style="padding-bottom: 0px">
+<div id="horizontal-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive center-block" src=" /img/posts/chalon.jpg" alt="The main square in Chalon-sur-Saône with its cathedral">
 	<figcaption style="text-align: center;">The main square in Chalon-sur-Saône with its cathedral</figcaption>
@@ -71,7 +71,7 @@ After saying goodbye to my aunt and uncle, we pressed on to tackle some hills th
 <br>
 The first few days of climbing through the Massif Central were particularly difficult due to cold weather, frequent storms and heavy rain. During an exceptionally bad evening, the campsite owner where we were staying offered us to pitch our tent under a big tarpaulin, and we took the opportunity without hesitation. It would have been quite a test for our tent otherwise ... but we were happy we didn't have to go through it! 
 
-<div id="horizontal-image" style="padding-bottom: 0px">
+<div id="horizontal-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive center-block" src=" /img/posts/camp-wet.jpg" alt="Saved by a kind campsite owner, during a miserable rainy evening">
 	<figcaption style="text-align: center;">Saved by a kind campsite owner, during a miserable rainy evening</figcaption>
@@ -89,28 +89,28 @@ One other day we were cycling through Ambert (famous for its blue cheese "La Fou
 <br>
 But after this, we were mostly blessed with nice and warm-ish weather again, and we enjoyed rolling up and down, from mountain pass to mountain pass via lower plateaus. For about a week our daily ascent was at least 1100 metres... Tough days! But the gorgeous scenery amply repaid for our efforts.
 
-<div id="horizontal-image" style="padding-bottom: 0px">
+<div id="horizontal-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive center-block" src=" /img/posts/sweaty.jpg" alt="An impressive stone bridge admired by a sweaty-backed Daniel">
 	<figcaption style="text-align: center;">An impressive stone bridge admired by a sweaty-backed Daniel</figcaption>
 	</figure><p></p>
 </div>
 
-<div id="horizontal-image" style="padding-bottom: 0px">
+<div id="horizontal-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive center-block" src=" /img/posts/morning.jpg" alt="Morning view from our camping spot near Allanche">
 	<figcaption style="text-align: center;">Morning view from our camping spot near Allanche</figcaption>
 	</figure><p></p>
 </div>
 
-<div id="horizontal-image" style="padding-bottom: 0px">
+<div id="horizontal-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive center-block" src=" /img/posts/erica.jpg" alt="Beautiful heather near one of the many cols we cycled through">
 	<figcaption style="text-align: center;">Heather-covered fields near one of the passes we cycled through</figcaption>
 	</figure><p></p>
 </div>
 
-<div id="horizontal-image" style="padding-bottom: 0px">
+<div id="horizontal-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive center-block" src=" /img/posts/landscape-massif.jpg" alt="Another beautiful landscape with a less-sweaty Daniel">
 	<figcaption style="text-align: center;">Another beautiful landscape with a less-sweaty Daniel</figcaption>

@@ -24,14 +24,14 @@ We then learnt, by speaking to locals, that cycling along the Loire valley ("La 
 <br>
 Gâtinais forest and Sully-sur-Loire aside, the rest of our cycling through the fork was admittedly a bit dull, at least for what concerns the landscape. Most of the time we found ourselves cycling on very straight roads and crossing vast farming land that was incredibly flat. We could spot low rolling hills only in the far distance. It was certainly good for our mileage and for getting our legs stronger in view of more difficult sections, but we were so bored and really hoped for some variety of scenery. 
 
-<div id="horizontal-image" style="padding-bottom: 0px">
+<div id="horizontal-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive" src=" /img/posts/flat-road.jpg" alt="A typical straight road through the flat Centre region">
 	<figcaption style="text-align: center;">A typical straight road through the flat Centre region</figcaption>
 	</figure><p></p>
 </div>
 
-<div id="horizontal-image" style="padding-bottom: 0px">
+<div id="horizontal-image" style="padding-bottom: 0px;">
 	<figure>
 	<img class="img-responsive" src=" /img/posts/ari-zola.jpg" alt="A quick stop along the way">
 	<figcaption style="text-align: center;">A quick stop a long the way</figcaption>
