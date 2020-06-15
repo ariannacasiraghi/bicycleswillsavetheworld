@@ -1053,6 +1053,7 @@ header .navbar-default {
 #pledge-form .form-group2 p {
   padding-top: 6px; 
   color: #999999;
+  margin-left: 0px;
 }
 #pledge-form .form-group2 label {
   font-size: 14px;
@@ -1144,6 +1145,7 @@ header .navbar-default {
 #pledge-form .form-group2 p {
   padding-top: 8px; 
   color: #999999;
+  margin-left: 0px;
 }
 #pledge-form .form-group2 label {
   font-size: 14px;
@@ -1235,6 +1237,7 @@ header .navbar-default {
 #pledge-form .form-group2 p {
   padding-top: 10px; 
   color: #999999;
+  margin-left: 0px;
 }
 #pledge-form .form-group2 label {
   font-size: 15px;
@@ -1333,7 +1336,8 @@ header .navbar-default {
   line-height: 0px;
 }
 #pledge-form .form-group2 p {
-  padding-top: 10px; 
+  padding-top: 0px; 
+  width: 390px;
 }
 #pledge-form .form-group2 label {
   font-size: 17px;
