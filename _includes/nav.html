@@ -1,0 +1,29 @@
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="pull-left navbar-toggle" data-toggle="collapse" data-target="#Navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <div class="menu pull-left" data-toggle="collapse" data-target="#Navbar">
+        <p><b>MENU</b></p> 
+      </div>
+    </div>
+    <div class="collapse navbar-collapse" id="Navbar">
+      <ul class="nav navbar-nav">
+        <li {% if page.url == "/" %}class="active"{% endif %}><a href="/index">Home</a></li>
+        <li {% if page.url contains "/about-us" %}class="active"{% endif %}><a href="/about-us">About us</a></li>
+        <li {% if page.url contains "/press" %}class="active"{% endif %}><a href="/press">Press</a></li>
+        <li {% if page.url contains "/blog/" %}class="active"{% endif %}><a href="/blog">Blog</a></li>
+        <li {% if page.url contains "/contact" %}class="active"{% endif %}><a href="/contact">Contact</a></li>
+      </ul>
+    </div> 
+  </div>
+</nav>
+
+
+
+    
+    

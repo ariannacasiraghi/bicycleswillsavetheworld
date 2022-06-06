@@ -1,0 +1,70 @@
+<!-- post list-->
+{% for post in paginator.posts %}
+
+<div id="blog-posts-img"> 
+    {% if post.image-big %}
+    <a href="{{ post.url }}" target="_blank">
+    <img class="img-responsive pull-right" src="{{ post.image-big }}" alt="{{ post.title }}">
+    </a>    
+    {% endif %}
+</div>
+
+<div id="blog-posts-excerpt">
+    <h3 class="text-uppercase"><a class="green" target="_blank" href="{{ post.url }}">{{ post.title }}</a></h3>
+    <p style="color:#595959;"><span class="glyphicon glyphicon-time"></span> Posted on {{ post.date | date_to_string | "%d %B %Y" }}, by {{ post.author }}</p>  
+    <br>           
+    <p> {{ post.content | strip_html | truncatewords:120 }} </p>
+    <br>
+    <a class="btn btn-blog"  target="_blank" href="{{ post.url }}">Read More</a>
+
+    <hr class="hr hr-blog"> 
+</div>
+
+{% endfor %}
+
+
+<!-- Code below valid for screen size below 992px-->
+{% for post in paginator.posts %}
+
+<div id="blog-posts-title-small">
+  <h3 class="text-uppercase text-left"><a class="green" target="_blank" href="{{ post.url }}">{{ post.title }}</a></h3>
+  <p style="color:#595959;"><span class="glyphicon glyphicon-time"></span> Posted on {{ post.date | date_to_string | "%d %B %Y" }}, by {{ post.author }}</p>  
+</div>
+
+<div id="blog-posts-img-small"> 
+    {% if post.image-big %}
+    <a href="{{ post.url }}" target="_blank">
+    <img class="img-responsive" src="{{ post.image-big }}" alt="{{ post.title }}">
+    </a>    
+    {% endif %}
+</div>
+
+<div id="blog-posts-excerpt-small">        
+    <p> {{ post.content | strip_html | truncatewords:100 }} </p>
+    <br>
+    <a class="btn btn-blog"  target="_blank" href="{{ post.url }}">Read More</a>
+
+    <hr class="hr hr-blog"> 
+</div>
+
+{% endfor %}
+
+
+<!-- Pagination links -->
+<div class="text-center">
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous"><span class="glyphicon glyphicon-chevron-left"></span>
+      Previous
+      </a>
+    {% endif %}
+    <span class="page_number"><span class="glyphicon glyphicon-ok"></span>
+    Page {{ paginator.page }} of {{ paginator.total_pages }} <span class="glyphicon glyphicon-ok"></span></span>
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">Next<span class="glyphicon glyphicon-chevron-right"></span></a>
+    {% endif %}
+  </div>
+</div>
+
+
+

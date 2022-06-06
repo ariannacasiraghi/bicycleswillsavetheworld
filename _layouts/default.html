@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html class="no-js">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{% if page.title %}{{ page.title }} {% else %}{{ site.title }}{% endif %}</title>
+    <meta name="description" content="{% if page.description %}{{ page.description }} {% else %}{{ site.description }}{% endif %}">
+    <base href="{{ site.url }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="bicycles will save the world, bike revolution, one less car, cargo bike, suistainable travel, sustainable transport, green mobility, cycling with dogs, save the planet, there is no planet b, climate action">
+    
+    <!-- Place favicon.ico and favicon.png in the root directory -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#00aba9">
+	<meta name="msapplication-TileColor" content="#00aba9">
+	<meta name="theme-color" content="#ffffff">  
+    
+    <!-- Some fonts from google -->
+    <link href="https://fonts.googleapis.com/css?family=Lato|Nunito:400,600,700&display=swap" rel="stylesheet">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="/css/owl.carousel.css">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/ionicons.min.css">
+    <link rel="stylesheet" href="/css/animate.css">
+    
+    <!-- Js -->
+    <script src="/js/vendor/modernizr-2.6.2.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/owl.carousel.min.js"></script>
+    <script src="/js/plugins.js"></script>
+    <script src="/js/min/waypoints.min.js"></script>
+    <script src="/js/jquery.counterup.js"></script>
+    <script src="/js/main.js"></script>
+    
+  </head>
+  
+
+  <body>
+
+
+  <!-- header start -->
+  <header>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <a href="index.html"> 
+            <img class="img-responsive center-block logo-large" src="/img/logo-large.png" alt="logo"> 
+            <img class="img-responsive center-block logo-small" src="/img/logo-small.png" alt="logo"> 
+          </a>
+
+
+          {% include nav.html %}
+
+        </div>
+      </div>
+    </div>
+  </header>
+
+
+  {{ content }}
+
+
+  <!-- footer Start -->
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          
+          {% include footer.html %}
+
+          <p class="center-block">Copyright &copy; 2022 Bicycles will save the world. All rights reserved.</p>
+        </div>
+      </div>
+    </div>
+  </footer>
+             
+  <script id="dsq-count-scr" src="//bicycleswillsavetheworld-com.disqus.com/count.js" async></script>      
+  
+  </body>
+
+</html>

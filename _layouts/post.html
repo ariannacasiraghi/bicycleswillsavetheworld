@@ -1,0 +1,55 @@
+---
+layout: default
+---
+
+<!-- post-content start -->
+<section id="post">
+  <div class="container">
+    <div class="row border">
+      <div class="col-md-12">
+
+        <div id="post-slider" class="block slider">
+          {% if page.image-small %}
+          <img class="img-responsive center-block slider-img" src="{{ page.image-small }}" alt="{{ page.image-small }}">
+          <!--<p>{{ page.caption }}</p>-->
+          {% endif %}      
+        </div>
+
+        <div id="post-title">
+          <h2 class="text-uppercase">{{ page.title }}</h2>
+          <p><span class="glyphicon glyphicon-time"></span> Posted on {{ page.date | date: "%d %B %Y" }}, by {{ page.author }}</p>
+        </div>
+
+        <div id="post-content">
+          <p> {{ page.content }} </p>
+        </div>
+
+        <div id="post-navigation">
+          {% if page.previous %}
+          <a class="green" rel="prev" href="{{ page.previous.url }}"><span class="glyphicon glyphicon-chevron-left"></span>Previous post</a>
+          {% endif %}       
+          {% if page.next %} 
+          <!--<span class="next-link pull-right">
+          <a class="green" rel="next" href="{{ page.next.url }}">Next post<span class="glyphicon glyphicon-chevron-right"></span></a></span>-->
+          <a class="green pull-right" rel="next" href="{{ page.next.url }}">Next post<span class="glyphicon glyphicon-chevron-right"></span></a>
+          {% endif %}
+
+          <hr class="hr hr-blog">
+        </div>
+
+        <div id="post-comments">
+          {% if site.comments %}
+          {% include comments.html %} 
+          {% endif %}
+          <!--<script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>-->
+          <script id="dsq-count-scr" src="//bicycleswillsavetheworld-com.disqus.com/count.js" async></script>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</section>
+
+             
+            
+         
